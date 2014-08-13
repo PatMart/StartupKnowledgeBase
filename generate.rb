@@ -63,19 +63,22 @@ def github_format_category cat
   cat.gsub(/,/,'').gsub(/ /,'-').gsub(/[&:]/,'').downcase
 end
 
-def article_to_markdown article
+def article_to_markdown article, opts={}
   markdown = ''
-  markdown += "#### [#{article.title}](#{article.url})<br/>\n"
+  markdown += "##" unless opts[:essential]
+  markdown += "### [#{article.title}](#{article.url})"
+  markdown += " :star2: " if opts[:essential]
+  markdown += "<br/>\n"
   markdown += "#{article.author || '?'} - #{article.host}\n\n"
   markdown += "> #{article.summary}\n"
   markdown += "\n"
   markdown
 end
 
-def articles_to_markdown articles
+def articles_to_markdown articles, opts={}
   markdown = ''
   articles.each do |a|
-    markdown += article_to_markdown a
+    markdown += article_to_markdown a, opts
   end
   markdown
 end
@@ -89,12 +92,10 @@ def category_to_markdown cat, articles, opts={}
   essential_articles = articles.select{|a| a.essential? }
   general_articles = articles.select{|a| !a.essential? }
 
-  [[essential_articles,'Essential'],[general_articles,'General']].each do |arts,type|
+  [[essential_articles,true],[general_articles,false]].each do |arts,essential|
     if arts.any?
-      markdown += "### #{type}\n"
-      markdown += "\n"
       arts = arts.sort{|a,b| a.published_at.to_s <=> b.published_at.to_s }
-      markdown += articles_to_markdown arts
+      markdown += articles_to_markdown arts, essential: essential
     end
   end
   markdown
