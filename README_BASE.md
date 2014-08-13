@@ -29,7 +29,7 @@ I imagine there will be some reactions "Why would you include that article?" or 
 
 ## Concepts & Definitions
 
-- Startup. Paul Graham's definition of a business that is designed to grow fast.
+- Startup. Paul Graham's definition of a company that is designed to grow fast.
 
 - Startup activity is considered to be largely divisible into two categories: business activity, development activity, and personal activity.
 
