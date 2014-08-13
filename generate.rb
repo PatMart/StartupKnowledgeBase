@@ -65,7 +65,7 @@ end
 
 def article_to_markdown article
   markdown = ''
-  markdown += "[#{article.title}](#{article.url})<br/>\n"
+  markdown += "#### [#{article.title}](#{article.url})<br/>\n"
   markdown += "#{article.author || '?'} - #{article.host}\n\n"
   markdown += "> #{article.summary}\n"
   markdown += "\n"
