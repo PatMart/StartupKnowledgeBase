@@ -33,11 +33,11 @@ class Article
     end
   end
 
-  def business?; @category=='Business' end
-  def development?; @category=='Development' end
-  def personal?; @category=='Personal' end
-
   def essential?; @essential=='TRUE' end
+
+  def published_date
+    published_at.to_s.split(' ')[0]
+  end
 
   def host
     URI.parse(url).host.sub(/www\./,'')
@@ -65,11 +65,12 @@ end
 
 def article_to_markdown article, opts={}
   markdown = ''
-  markdown += "##" unless opts[:essential]
-  markdown += "### [#{article.title}](#{article.url})"
+  markdown += "**[#{article.title}](#{article.url})**"
   markdown += " :star2: " if opts[:essential]
   markdown += "<br/>\n"
-  markdown += "#{article.author || '?'} - #{article.host}\n\n"
+  markdown += "#{article.author || '?'} - #{article.host}"
+  markdown += " - #{article.published_date}" if article.published_date
+  markdown += "\n\n"
   markdown += "> #{article.summary}\n"
   markdown += "\n"
   markdown
@@ -86,7 +87,7 @@ end
 def category_to_markdown cat, articles, opts={}
   cat = "#{opts[:section]}: #{cat}" if opts[:section]
   markdown = ''
-  markdown += "## #{cat}\n"
+  markdown += "### #{cat}\n"
   markdown += "\n"
 
   essential_articles = articles.select{|a| a.essential? }
@@ -94,19 +95,10 @@ def category_to_markdown cat, articles, opts={}
 
   [[essential_articles,true],[general_articles,false]].each do |arts,essential|
     if arts.any?
-      arts = arts.sort{|a,b| a.published_at.to_s <=> b.published_at.to_s }
+      arts = arts.sort{|a,b| b.published_at.to_s <=> a.published_at.to_s }
       markdown += articles_to_markdown arts, essential: essential
     end
   end
-  markdown
-end
-
-def contents_to_markdown categories, opts={}
-  markdown = ""
-  categories.each do |cat|
-    markdown += "- [#{cat}](#user-content-#{github_format_category cat})\n"
-  end
-  markdown += "\n"
   markdown
 end
 
@@ -127,9 +119,7 @@ end
 def sections_to_readme articles
   markdown = ""
 
-  markdown += "# Articles\n\n"
-  categories = articles.map{|a| "#{a.category}: #{a.subcategory}" }.uniq.sort
-  markdown += contents_to_markdown categories
+  markdown += "## The Collection\n\n"
 
   %w(Business Development Personal).each do |section|
     section_articles = articles.select{|a| a.category==section }
@@ -142,14 +132,46 @@ def sections_to_readme articles
   markdown
 end
 
+def markdown_inline_link text, anchor_text=nil
+  anchor_text ||= text
+  "[#{text}](##{github_format_category anchor_text})"
+end
+
+def toc_to_markdown articles
+  markdown = ""
+  markdown += "* #{markdown_inline_link 'About'}\n"
+  markdown += "  * #{markdown_inline_link 'Motivation'}\n"
+  markdown += "  * #{markdown_inline_link 'Goals'}\n"
+  markdown += "  * #{markdown_inline_link 'Concepts & Definitions'}\n"
+  markdown += "  * #{markdown_inline_link 'Structure'}\n"
+  markdown += "  * #{markdown_inline_link 'Criteria'}\n"
+  markdown += "* #{markdown_inline_link 'The Collection'}\n"
+  categories = articles.map{|a| [a.category, a.subcategory] }.uniq.sort.group_by{|x| x[0] }
+  categories.each do |cat, sets|
+    markdown += "  * #{markdown_inline_link(cat)}\n"
+    sets.each do |pair|
+      markdown += "    * #{markdown_inline_link(pair[1], pair.join(': '))}\n"
+    end
+  end
+  markdown += "\n"
+  markdown
+end
+
+def readme articles
+  markdown = ""
+  markdown += "# Startup Knowledge Database\n\n"
+  markdown += toc_to_markdown articles
+  markdown += File.read("README_BASE.md")
+  markdown += sections_to_readme articles
+  markdown
+end
+
 articles = Article.process(File.read('articles.csv'))
 
-readme_base = File.read("README_BASE.md")
 
 # Generate top README
 File.open("README.md", 'w') do |f|
-  f.puts readme_base
-  f.puts sections_to_readme articles
+  f.puts readme articles
 end
 
 =begin
