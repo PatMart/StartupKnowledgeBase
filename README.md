@@ -147,9 +147,9 @@ Craig Mod - craigmod.com - 2010-07-01
 **[The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2014-08-01
 
-> "The most successful pitches argue the market will unfold inexorably in the way the founders envision on a relevant time scale. And, that this startup in particular will dominate share in that new world. ... There is no prescriptive way I can recommend to consistently argue inevitability. Some founders use data. Others use logic. Still others use emotion and passion to do it. But in the end, these exceptional storytellers make you want to believe, suspend doubt, and disregard the great risks that all startups face all along their journey, and get involved with the business."
+> The most successful pitches argue the market will unfold inexorably in the way the founders envision on a relevant time scale. And, that this startup in particular will dominate share in that new world. ... There is no prescriptive way I can recommend to consistently argue inevitability. Some founders use data. Others use logic. Still others use emotion and passion to do it. But in the end, these exceptional storytellers make you want to believe, suspend doubt, and disregard the great risks that all startups face all along their journey, and get involved with the business.
 
-**[Exploring the Series B Crunch — Medium](https://medium.com/@DanielleMorrill/exploring-the-series-b-crunch-3e71ae1fd19)**<br/>
+**[Exploring the Series B Crunch](https://medium.com/@DanielleMorrill/exploring-the-series-b-crunch-3e71ae1fd19)**<br/>
 Danielle Morrill - medium.com - 2014-03-31
 
 > In this analysis, I examined firms whose portfolio companies have raised new Series B funding in the past 2 years. I also looked at the full range of Series B candidates within the portfolio (companies who have raised a Series A within the past 2 years), to understand what percentage of Series A bets have progressed to the next round.
@@ -157,7 +157,7 @@ Danielle Morrill - medium.com - 2014-03-31
 **[The 7 Questions A Startup Should Answer In Their Fund Raising Pitch](http://tomtunguz.com/pitch-deck/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2013-03-29
 
-> "[Value prop] What is the problem and is it worth solving? Why is now the right time to solve it?  [Team] Does the team have the vision and the wherewithal to build this company?  [Go to market] What is the competitive angle (competitive barrier to entry and/or go-to-market) that will enable this company to succeed where others have tried and failed?  [Sales effectiveness & product validation] Who does the startup sell to? Which customers have used the product and how have they received it? How much is each customer worth?  [Product distribution] How does the company acquire customers cost effectively? What are the unit economics (customer acquisition cost, contribution revenue, and churn rates)?  [Revenue model] Does the company have the revenue model to build a big (>$100M annual revenue) business with good margins (gross ~ 50 to 60% / net ~15 to 25%) under reasonable assumptions?  [Market size] Can the market enable or bear a $100M revenue Alternatively, is this product in a quickly growing market or riding a disruptive wave?"
+> [Value prop] What is the problem and is it worth solving? Why is now the right time to solve it?  [Team] Does the team have the vision and the wherewithal to build this company?  [Go to market] What is the competitive angle (competitive barrier to entry and/or go-to-market) that will enable this company to succeed where others have tried and failed?  [Sales effectiveness & product validation] Who does the startup sell to? Which customers have used the product and how have they received it? How much is each customer worth?  [Product distribution] How does the company acquire customers cost effectively? What are the unit economics (customer acquisition cost, contribution revenue, and churn rates)?  [Revenue model] Does the company have the revenue model to build a big (>$100M annual revenue) business with good margins (gross ~ 50 to 60% / net ~15 to 25%) under reasonable assumptions?  [Market size] Can the market enable or bear a $100M revenue Alternatively, is this product in a quickly growing market or riding a disruptive wave?
 
 ### Business: General
 
@@ -203,7 +203,7 @@ First Round Capital - firstround.com - 2014-07-29
 
 > If I hadn’t been blogging and active on Twitter, I think it would have taken way longer for Product Hunt to become what it is right now. So my advice is to start early. If you want people to listen to you eventually, you have to build trust over time.'
 
-**[How We Doubled Our Conversion Rate - Bombfell Co-Founder Bernie Yoo - 500 Startups Blog](http://500.co/how-we-doubled-our-conversion-rate-bombfell)**<br/>
+**[How We Doubled Our Conversion Rate](http://500.co/how-we-doubled-our-conversion-rate-bombfell)**<br/>
 Bernie Yoo - 500.co - 2014-03-24
 
 > We started A/B testing a new variant on pricing, one that was more complicated and required more work from the user. But, we thought it might be more intuitive as well. It threw out the idea of setting a single overall clothing budget, which might look cleaner and more like a typical web app, but was actually confusing and stalling users.
@@ -237,7 +237,7 @@ Ben Horowitz - techcrunch.com - 2010-03-14
 
 > So what makes people want to follow a leader? We look for 3 key traits: The ability to articulate the vision, The right kind of ambition, The ability to achieve the vision
 
-**[LinkedIn Speaker Series: Jeff Weiner, Reid Hoffman and Ben Casnocha - YouTube](https://www.youtube.com/watch?v=kQJf7W88HDs)**<br/>
+**[LinkedIn Speaker Series: Jeff Weiner, Reid Hoffman and Ben Casnocha](https://www.youtube.com/watch?v=kQJf7W88HDs)**<br/>
 Jeff Weiner, Reid Hoffman, Ben Casnocha - youtube.com - 2014-06-30
 
 > LinkedIn's co-founder/chairman, Reid Hoffman, has written a new book with Ben Casnocha and Chris Yeh: The Alliance: Managing Talent in the Networked Age.
@@ -251,7 +251,7 @@ Ash Maurya - practicetrumpstheory.com - 2010-03-01
 
 ### Business: Lessons Learned
 
-**[Building of StackLead - Buildingof.com](http://buildingof.com/stories/building-of-stacklead.html)**<br/>
+**[Building of StackLead](http://buildingof.com/stories/building-of-stacklead.html)**<br/>
 Gordon Wintrob - buildingof.com
 
 > We have two key takeaways from our experiences with founding StackLead. First, find other passionate founders to serve as your customers. [...] Second, launch early, but don't optimize early. Our first product was simply copying info we found online about new signups into an email template. Once our first customers validated this problem, we began building a scalable, automated system.
@@ -263,12 +263,12 @@ Brekiri - brekiri.com - 2010-02-26
 
 > Like forecasts, market size estimates should most often be considered directional (consulting speak for 'in the right ballpark'). You should also keep this point in mind when consuming market size information – the market size numbers you read in the news or market research reports are probably only accurate within 10-20% in many cases.  One of the best ways to ensure that you get at least a sensible result is to triangulate between different approaches: top-down and bottom-up estimates.
 
-**[Sunny Whether: Two Types of Forecasting Models for Running Your Startup | Hunter Walk](http://hunterwalk.com/2014/07/22/sunny-whether-two-types-of-forecasting-models-for-running-your-startup/)**<br/>
+**[Sunny Whether: Two Types of Forecasting Models for Running Your Startup](http://hunterwalk.com/2014/07/22/sunny-whether-two-types-of-forecasting-models-for-running-your-startup/)**<br/>
 Hunter Walk - hunterwalk.com - 2014-07-22
 
 > Well, if you’re pre-product/market fit, over-optimizing for 'hitting your numbers' can be a false positive if it creates an 'up and to the right' graph that actually builds upon the wrong learnings, or masks leaky bucket of customer attrition.
 
-**[How to Miss By a Mile: An Alternative Look at Uber’s Potential Market Size | Above the Crowd | By Bill Gurley](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/)**<br/>
+**[How to Miss By a Mile: An Alternative Look at Uber’s Potential Market Size](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/)**<br/>
 Bill Gurley - abovethecrowd.com - 2014-07-11
 
 > So here is the objective of this post. It is not my aim to specifically convince anyone that Uber is worth any specific valuation. What Professor Damodaran thinks, or what anyone who is not a buyer or seller of stocks thinks, is fairly immaterial. I am also not out to prove him wrong. I am much more interested in the subject of critical reasoning and predictions, and how certain assumptions can lead to gravely different outcomes. As such, my goal is to offer a plausible argument that the core assumptions used in Damodaran’s analysis may be off by a factor of 25 times, perhaps even more. And I hope the analysis is judged on whether the arguments I make are reasonable and feasible.
@@ -285,12 +285,12 @@ Tom Blomfield - tomblomfield.com - 2014-07-10
 
 > Startups are about growth, and of all the different possible metrics, startups often focus on user growth - if people aren’t using your new product or service in greater and greater numbers, it’s a good sign that you’re not on the right track. And, as long as your business-model is solid, user growth is a leading indicator of revenue and profit growth. But there’s another key metric that can be the making of your company, or the death of it - churn, or the proportion of existing customers who become ex-customers during a period of time (generally a year).
 
-**[The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act - Occam's Razor by Avinash Kaushik](http://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)**<br/>
+**[The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act](http://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)**<br/>
 Avinash Kaushik - kaushik.net - 2013-04-08
 
 > To win in business you need to follow this process: Metrics > Hypothesis > Experiment > Act. Online, offline or nonline.
 
-**[The Dangerous Seduction of the Lifetime Value (LTV) Formula | Above the Crowd | By Bill Gurley](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)**<br/>
+**[The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)**<br/>
 Bill Gurley - abovethecrowd.com - 2012-09-04
 
 > Some people wield the LTV model as if they were Yoda with a light saber; “Look at this amazing weapon I know how to use!” Unfortunately, it is not that amazing, it’s not that unique to understand, and it is not a weapon, it’s a tool. Companies need a sustainable competitive advantage that is independent of their variable marketing campaigns. You can’t win a fight with a measuring tape.
@@ -307,7 +307,7 @@ Paul Graham - paulgraham.com - 2006-10-01
 
 > 1. Single Founder, 2. Bad Location, 3. Marginal Niche, 4. Derivative Idea, 5. Obstinacy, 6. Hiring Bad Programmers, 7. Choosing the Wrong Platform, 8. Slowness in Launching, 9. Launching Too Early, 10. Having No Specific User in Mind, 11. Raising Too Little Money, 12. Spending Too Much, 13. Raising Too Much Money, 14. Poor Investor Management, 15. Sacrificing Users to (Supposed) Profit, 16. Not Wanting to Get Your Hands Dirty, 17. Fights Between Founders, 18. A Half-Hearted Effort
 
-**[Beware the ‘Edifice Complex’ ― and 9 Other Ways to Damage a High-Growth Startup | Andreessen Horowitz](http://a16z.com/2014/07/08/beware-the-edifice-complex-and-9-other-ways-to-damage-your-high-growth-startup/)**<br/>
+**[Beware the ‘Edifice Complex’ ― and 9 Other Ways to Damage a High-Growth Startup](http://a16z.com/2014/07/08/beware-the-edifice-complex-and-9-other-ways-to-damage-your-high-growth-startup/)**<br/>
 Marc Andreessen - a16z.com - 2014-07-08
 
 > Here are 10 ways to damage your fast-growing tech startup– and hurt the perception of Silicon Valley in the process. None of these are specific to any one company; they’re general patterns we’ve observed across multiple cycles of tech startups.
@@ -396,12 +396,12 @@ Boris Silver - medium.com - 2014-01-23
 
 > My primary task with this blog post has been assembling the quotations and placing them in an order which flows well, since understanding the earlier topics helps the reader understand ideas which come later in the list
 
-**[The Pro-Rata Opportunity – AVC](http://avc.com/2014/07/the-pro-rata-opportunity/)**<br/>
+**[The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity/)**<br/>
 Fred Wilson - avc.com - 2014-07-24
 
 > Capturing pro-rata' is sooooo important in early stage venture. You make 20 investments in a fund. One is going to return the entire fund. Two more are going to return it again. A few more are going to have strong outcomes and return it again. The rest are noise when it comes to fund returns (but you better not treat them like noise).
 
-**[The Changing Structure of the VC Industry — Medium](https://medium.com/@msuster/the-changing-structure-of-the-vc-industry-84be1fdf73a2)**<br/>
+**[The Changing Structure of the VC Industry](https://medium.com/@msuster/the-changing-structure-of-the-vc-industry-84be1fdf73a2)**<br/>
 Mark Suster - medium.com - 2014-07-23
 
 > Cheap, mobile, social, global, always-on, one-click-purchase = Unprecedented revenue growth + companies staying private longer = More opportunities than ever in history for venture capital firms = Lots of new, non-traditional entrants moving to capture this value = Amazing opportunities + Risks + Uncertainties for the coming decade for entrepreneurs, VCs and LPs.
@@ -430,7 +430,7 @@ Steve Denning - forbes.com - 2014-04-04
 
 > With an average of 30 innovations to the website deployed each day, we are looking at innovation on steroids. Each of the changes is small, but a small change can be significant, sometimes adding millions of dollars in sales. Doing all this change in tiny increments at warp speed within the framework of a central strategy enables extremely rapid innovation and learning, as well as much greater facility in spotting and fixing any problems that may emerge.
 
-**[Flipping Out | code.flickr.com](http://code.flickr.net/2009/12/02/flipping-out/)**<br/>
+**[Flipping Out](http://code.flickr.net/2009/12/02/flipping-out/)**<br/>
 Ross Harmes - code.flickr.net - 2009-12-02
 
 > Flickr is somewhat unique in that it uses a code repository with no branches; everything is checked into head, and head is pushed to production several times a day. This works well for bug fixes that we want to go out immediately, but presents a problem when we’re working on a new feature that takes several months to complete. How do we solve that problem? With flags and flippers!
@@ -463,7 +463,7 @@ Jean-Philippe Boily - blog.rainforestqa.com - 2014-06-27
 
 ### Development: Design Patterns
 
-**[When REST Gets Messy - Zapier](https://zapier.com/engineering/when-rest-gets-messy/)**<br/>
+**[When REST Gets Messy](https://zapier.com/engineering/when-rest-gets-messy/)**<br/>
 Brian Cooksey - zapier.com - 2014-07-10
 
 > Here is a peek behind the curtains of where REST worked for us and where we had to cheat.
@@ -482,7 +482,7 @@ Evan Miller - evanmiller.org - 2010-04-18
 
 ### Development: Javascript
 
-**[bolshchikov/js-must-watch · GitHub](https://github.com/bolshchikov/js-must-watch)**<br/>
+**[bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)**<br/>
 Sergey Bolshchikov - github.com
 
 > This is a list of must-watch videos devoted to JavaScript
@@ -494,14 +494,14 @@ Mike Brittain - slideshare.net - 2011-03-18
 
 > Logs, Graphs, Trends, and Correlations. Making Decisions. How many visitors are using this thing? Can we deploy that to100% of our visitors? Did we make it faster? Did I just break something?
 
-**[Tracking Every Release « Code as Craft](http://codeascraft.com/2010/12/08/track-every-release/)**<br/>
+**[Tracking Every Release](http://codeascraft.com/2010/12/08/track-every-release/)**<br/>
 Mike Brittain - codeascraft.com - 2010-12-08
 
 > Automated tracking of code deploys is essential for teams who practice Continuous Deployment. Monitoring every aspect of your server and network architecture helps detect when something has gone awry. Correlating the times of each and every code deploy helps to quickly identify human-triggered problems and greatly cut down on your time to resolve them.
 
 ### Development: Ops & Devops
 
-**[Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe - YouTube](https://www.youtube.com/watch?v=LdOe18KhtT4)**<br/>
+**[10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4)**<br/>
 O'Reilly - youtube.com - 2009-06-25
 
 > John Allspaw (Flickr/Yahoo!) and Paul Hammond (Flickr). 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
@@ -520,7 +520,7 @@ Alex Salazar - stormpath.com - 2014-01-20
 
 ### Development: Productivity
 
-**[A study on unplanned interruptions in software development | A Novice Software Engineer’s Diary](http://novicearshad.wordpress.com/2012/01/24/unplanned-interruptions-in-software-development/)**<br/>
+**[A study on unplanned interruptions in software development](http://novicearshad.wordpress.com/2012/01/24/unplanned-interruptions-in-software-development/)**<br/>
 Arshad Hossain - novicearshad.wordpress.com - 2012-01-24
 
 > Interruption is part of work. Nobody can expect to lock himself away and work alone interruption free. So there needs to be a collective effort and awareness to curb the common unplanned interruption.
@@ -632,7 +632,7 @@ NuRelm - nurelm.com - 2009-07-07
 
 > 
 
-**[Design Tips For Developers | Duet](http://www.duetapp.com/blog/design-tips-for-developers/)**<br/>
+**[Design Tips For Developers](http://www.duetapp.com/blog/design-tips-for-developers/)**<br/>
 Saleem El-Amin - duetapp.com - 2014-07-08
 
 > Here’s a list of things that I think are important to becoming good at design when all you have is development background
@@ -690,7 +690,7 @@ Marc Andreessen - pmarchive.com - 2007-06-04
 
 > 
 
-**[How to Become a Productivity Superstar: 7 Tips | Inc.com](http://www.inc.com/john-brandon/how-to-become-a-productivity-superstar-7-tips.html)**<br/>
+**[How to Become a Productivity Superstar: 7 Tips](http://www.inc.com/john-brandon/how-to-become-a-productivity-superstar-7-tips.html)**<br/>
 John Brandon - inc.com - 2014-07-23
 
 > 1. Do the hardest tasks first. 2. Offer to help the most productive co-workers. 3. Finish what you start. 4. Stop working on something when you reach a dead end. 5. Resist the urge to call for help early. 6. Ignore office chatter. 7. Watch the squirrel moments.
@@ -704,7 +704,7 @@ Fred Wilson - avc.com - 2004-05-03
 
 ### Personal: Writing
 
-**[Checking Your Work – AVC](http://avc.com/2014/07/checking-your-work/)**<br/>
+**[Checking Your Work](http://avc.com/2014/07/checking-your-work/)**<br/>
 Fred Wilson - avc.com - 2014-07-10
 
 > When I write a blog post, I tend to write it as the idea forms in my brain. I write the whole thing out. And then I rewrite it. I go over every line and make sure the spelling and grammar are correct, I look at the phrasing. I consider the flow. I read it start to finish at least three or four times. I think about the whole and then each part. And I’ll cut out paragraphs, move things, rewrite parts, and mess with it for almost as long as it took me to write it in the first place.
