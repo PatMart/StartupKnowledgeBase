@@ -8,11 +8,11 @@
   * [Criteria](#criteria)
 * [The Collection](#the-collection)
   * [Business](#business)
+    * [Advice & Mentorship](#business-advice--mentorship)
     * [Culture & Values](#business-culture--values)
     * [Feedback](#business-feedback)
     * [Fundraising](#business-fundraising)
     * [General](#business-general)
-    * [Growth](#business-growth)
     * [Inspiration](#business-inspiration)
     * [Leadership & Management](#business-leadership--management)
     * [Lean Startup](#business-lean-startup)
@@ -22,8 +22,10 @@
     * [Mistakes & Failure](#business-mistakes--failure)
     * [Planning & Strategy](#business-planning--strategy)
     * [Product/Market Fit](#business-product/market-fit)
+    * [Promotion & Traction](#business-promotion--traction)
     * [Recruiting & Employment](#business-recruiting--employment)
     * [SEO](#business-seo)
+    * [Scaling & Growth](#business-scaling--growth)
     * [Social](#business-social)
     * [Trends & Spaces](#business-trends--spaces)
     * [Venture Capital](#business-venture-capital)
@@ -48,6 +50,7 @@
     * [UX, UI, & Design](#development-ux-ui--design)
     * [Vim](#development-vim)
   * [Personal](#personal)
+    * [Communication](#personal-communication)
     * [Growth](#personal-growth)
     * [Information](#personal-information)
     * [Productivity](#personal-productivity)
@@ -103,12 +106,24 @@ An article will be considered for inclusion if it offers an insightful view on a
 
 ## The Collection
 
+### Business: Advice & Mentorship
+
+**[Should Your Startup Have an Advisory Board?](http://www.bothsidesofthetable.com/2009/10/12/should-your-startup-have-an-advisory-board/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2009-10-12
+
+> Many first-time entrepreneurs form advisory boards and grant 0.25-0.5% equity to each adviser.  Should you?  This post talks about why equity for advisers should only come if they write a check and if you do set up an advisory board what the best way to run it is.  Also a quick note on how VCs view advisory boards (summary answer is – we’re cynical).
+
 ### Business: Culture & Values
 
 **[Culture Code - Asana](http://www.slideshare.net/asana/culture-code-asana-29674527)**<br/>
 Asana - slideshare.net - 2014-01-03
 
 > Asana is a group of peers on a bold mission: to help humanity thrive by enabling all teams to work together effortlessly. Learn more about Asana's culture: - How shared core values impact decision making and culture, - How we hire extraordinary people, - How we stay healthy & happy in the office, - How we get things done through Episodes, special weeks, hackathons, and using our product.
+
+**[Nonviolent Communication](http://en.wikipedia.org/wiki/Nonviolent_Communication)**<br/>
+Marshall Rosenberg - en.wikipedia.org
+
+> Nonviolent Communication holds that most conflicts between individuals or groups arise from miscommunication about their human needs, due to coercive or manipulative language that aims to induce fear, guilt, shame, etc. These "violent" modes of communication, when used during a conflict, divert the attention of the participants away from clarifying their needs, their feelings, their perceptions, and their requests, thus perpetuating the conflict.
 
 ### Business: Feedback
 
@@ -186,27 +201,10 @@ Paul Graham - paulgraham.com - 2006-04-01
 
 > 1. Release Early. 2. Keep Pumping Out Features. 3. Make Users Happy. 4. Fear the Right Things. 5. Commitment Is a Self-Fulfilling Prophecy. 6. There Is Always Room. 7. Don't Get Your Hopes Up.
 
-### Business: Growth
+**[Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/)** :star2: <br/>
+Mark Suster - bothsidesofthetable.com
 
-**[Presentation: The Ultimate Guide to Funnel Optimization](http://www.sean-johnson.com/ultimate-guide-to-funnel-optimization/)** :star2: <br/>
-Sean Johnson - sean-johnson.com - 2013-04-16
-
-> Discover how smart startups are optimizing each step of the customer development funnel.
-
-**[Startup = Growth](http://www.paulgraham.com/growth.html)** :star2: <br/>
-Paul Graham - paulgraham.com - 2012-09-01
-
-> A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth.
-
-**[Product Hunt is Everywhere - This is How It Got There](http://firstround.com/article/Product-Hunt-is-Everywhere-This-is-How-It-Got-There)**<br/>
-First Round Capital - firstround.com - 2014-07-29
-
-> If I hadn’t been blogging and active on Twitter, I think it would have taken way longer for Product Hunt to become what it is right now. So my advice is to start early. If you want people to listen to you eventually, you have to build trust over time.'
-
-**[How We Doubled Our Conversion Rate](http://500.co/how-we-doubled-our-conversion-rate-bombfell)**<br/>
-Bernie Yoo - 500.co - 2014-03-24
-
-> We started A/B testing a new variant on pricing, one that was more complicated and required more work from the user. But, we thought it might be more intuitive as well. It threw out the idea of setting a single overall clothing budget, which might look cleaner and more like a typical web app, but was actually confusing and stalling users.
+> I think the sign of a good entrepreneur is the ability to spot your mistakes, correct quickly and not repeat the mistakes. I made plenty of mistakes. Below are some of the lessons I learned along the way.
 
 ### Business: Inspiration
 
@@ -285,6 +283,11 @@ Tom Blomfield - tomblomfield.com - 2014-07-10
 
 > Startups are about growth, and of all the different possible metrics, startups often focus on user growth - if people aren’t using your new product or service in greater and greater numbers, it’s a good sign that you’re not on the right track. And, as long as your business-model is solid, user growth is a leading indicator of revenue and profit growth. But there’s another key metric that can be the making of your company, or the death of it - churn, or the proportion of existing customers who become ex-customers during a period of time (generally a year).
 
+**[Why Everything I Thought I Knew About Churn Is Wrong](http://tomtunguz.com/churn-fallacies/)**<br/>
+Tomasz Tunguz - tomtunguz.com - 2014-01-15
+
+> Churn rates and LTV are challenging to predict with accuracy and while rules of thumb like the formulas above may be reasonable guidelines, it's important to be aware of their tendency to overestimate lifetime value [...]. Because a 2x overestimate of customer lifetime can radically change a startup's unit economics, deeply understanding churn behaviors is crucial to making a startup's business model viable.
+
 **[The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act](http://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)**<br/>
 Avinash Kaushik - kaushik.net - 2013-04-08
 
@@ -351,6 +354,13 @@ Andrew Chen - andrewchen.co - 2009-06-15
 
 > My central argument is that if you believe that every startup is an iterative learning process that converges towards product/market fit, then you need extremely high-fidelity signals to tell you if you’re going in the right direction. That means that along with trying to charge people money from early on, which is the highest form of “I love this!” you should give people valves to tell you “I hate this!” so that you can learn more faster.
 
+### Business: Promotion & Traction
+
+**[Early Traction: How to go from zero to 150,000 email subscribers](http://andrewchen.co/2014/08/14/early-traction-how-to-go-from-zero-to-150000-email-subscribers-guest-post/)**<br/>
+Noah Kagan - andrewchen.co - 2014-08-14
+
+> The one method I can consistently recommend for people starting their customer base has been giveaways.
+
 ### Business: Recruiting & Employment
 
 **[The Talent Hacker's Manifesto](https://www.linkedin.com/today/post/article/20140716132910-4336757-the-talent-hacker-s-manifesto?trk=object-title&_mSplash=1)**<br/>
@@ -363,6 +373,16 @@ Nick Marsh - medium.com - 2014-06-20
 
 > I want to introduce a new concept — ‘talent hacking’. I define this as the creative application of technology and data to the problem of building new teams.
 
+**[How I Hire: The 4 Principles For Recruiting the Best of the Best](https://www.linkedin.com/today/post/article/20130930190403-25056271-how-i-hire-the-4-principles-for-recruiting-the-best-of-the-best)**<br/>
+Justin Rosenstein - linkedin.com - 2013-09-30
+
+> 1. Get to know the whole person, 2. Communicate your company’s values, 3. Meet people now who you might want to hire later, 4. The best people want to work with the best people
+
+**[Whom Should you Hire at a Startup?](http://www.bothsidesofthetable.com/2009/10/22/who-should-you-hire-at-a-startup/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2009-10-22
+
+> I believe that you should always hire people are are looking to “punch above their weight class,” which means to hire people who want to be one league above where they are today.
+
 ### Business: SEO
 
 **[Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)** :star2: <br/>
@@ -374,6 +394,33 @@ Google - static.googleusercontent.com
 MOZ - moz.com
 
 > New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 1 million times and provides comprehensive information you need to get on the road to professional quality SEO.
+
+### Business: Scaling & Growth
+
+**[Presentation: The Ultimate Guide to Funnel Optimization](http://www.sean-johnson.com/ultimate-guide-to-funnel-optimization/)** :star2: <br/>
+Sean Johnson - sean-johnson.com - 2013-04-16
+
+> Discover how smart startups are optimizing each step of the customer development funnel.
+
+**[Startup = Growth](http://www.paulgraham.com/growth.html)** :star2: <br/>
+Paul Graham - paulgraham.com - 2012-09-01
+
+> A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth.
+
+**[Product Hunt is Everywhere - This is How It Got There](http://firstround.com/article/Product-Hunt-is-Everywhere-This-is-How-It-Got-There)**<br/>
+First Round Capital - firstround.com - 2014-07-29
+
+> If I hadn’t been blogging and active on Twitter, I think it would have taken way longer for Product Hunt to become what it is right now. So my advice is to start early. If you want people to listen to you eventually, you have to build trust over time.'
+
+**[There’s only a few ways to scale user growth, and here’s the list](http://andrewchen.co/2014/07/08/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/)**<br/>
+Andrew Chen - andrewchen.co - 2014-07-08
+
+> 1. Paid acquisition, 2. Virality, 3. SEO, 4. Sales, 5. Other
+
+**[How We Doubled Our Conversion Rate](http://500.co/how-we-doubled-our-conversion-rate-bombfell)**<br/>
+Bernie Yoo - 500.co - 2014-03-24
+
+> We started A/B testing a new variant on pricing, one that was more complicated and required more work from the user. But, we thought it might be more intuitive as well. It threw out the idea of setting a single overall clothing budget, which might look cleaner and more like a typical web app, but was actually confusing and stalling users.
 
 ### Business: Social
 
@@ -578,13 +625,13 @@ Mark Lodato - marklodato.github.io - 2010-01-01
 
 > 
 
-**[Think Like (a) Git](http://think-like-a-git.net/)**<br/>
-Sam Livingston-Gray - think-like-a-git.net
+**[Pro Git](http://git-scm.com/book)**<br/>
+Scott Chacon - git-scm.com
 
 > 
 
-**[Pro Git](http://git-scm.com/book)**<br/>
-Scott Chacon - git-scm.com
+**[Think Like (a) Git](http://think-like-a-git.net/)**<br/>
+Sam Livingston-Gray - think-like-a-git.net
 
 > 
 
@@ -668,6 +715,13 @@ Yehuda Katz - yehudakatz.com - 2010-07-29
 Yann Esposito - yannesposito.com - 2011-08-29
 
 > 
+
+### Personal: Communication
+
+**[Nonviolent Communication](http://en.wikipedia.org/wiki/Nonviolent_Communication)**<br/>
+Marshall Rosenberg - en.wikipedia.org
+
+> Nonviolent Communication holds that most conflicts between individuals or groups arise from miscommunication about their human needs, due to coercive or manipulative language that aims to induce fear, guilt, shame, etc. These "violent" modes of communication, when used during a conflict, divert the attention of the participants away from clarifying their needs, their feelings, their perceptions, and their requests, thus perpetuating the conflict.
 
 ### Personal: Growth
 
