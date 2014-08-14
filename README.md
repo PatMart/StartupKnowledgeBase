@@ -105,7 +105,7 @@ An article will be considered for inclusion if it offers an insightful view on a
 
 ### Business: Culture & Values
 
-**[Culture Code - Asana](http://www.slideshare.net/asana/culture-code-asana-29674527)** :star2: <br/>
+**[Culture Code - Asana](http://www.slideshare.net/asana/culture-code-asana-29674527)**<br/>
 Asana - slideshare.net - 2014-01-03
 
 > Asana is a group of peers on a bold mission: to help humanity thrive by enabling all teams to work together effortlessly. Learn more about Asana's culture: - How shared core values impact decision making and culture, - How we hire extraordinary people, - How we stay healthy & happy in the office, - How we get things done through Episodes, special weeks, hackathons, and using our product.
@@ -129,20 +129,10 @@ Paul Graham - paulgraham.com - 2013-08-01
 
 > So here's the recipe for impressing investors when you're not already good at seeming formidable: Make something worth investing in. Understand why it's worth investing in. Explain that clearly to investors. If you're saying something you know is true, you'll seem confident when you're saying it. Conversely, never let pitching draw you into bullshitting. As long as you stay on the territory of truth, you're strong. Make the truth good, then just tell it.
 
-**[The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate/)** :star2: <br/>
-Tomasz Tunguz - tomtunguz.com - 2013-03-28
-
-> Market timing risk, Business model risk, Market adoption risk, Market size risk, Execution risk, Technology risk, Capitalization structure risk, Platform risk, Venture management risk, Financial ris, Legal risk
-
 **[Trends in Pricing and Duration](https://www.kickstarter.com/blog/trends-in-pricing-and-duration)** :star2: <br/>
 Fred Benenson, Yancey Strickler - kickstarter.com - 2010-09-22
 
 > In the post Craig sampled other popular projects on Kickstarter, and explained how their choices and outcomes affected the way he constructed his project. Craig also offers some advice on optimal pricing and project length to future project creators. We were intrigued and impressed by Craig’s research and conclusions, and we’ve now compiled data from our entire database to see how it holds up. Let’s dig in.
-
-**[Kickstartup — Successful fundraising with Kickstarter & the (re)making of Art Space Tokyo](http://craigmod.com/journal/kickstartup/)** :star2: <br/>
-Craig Mod - craigmod.com - 2010-07-01
-
-> I gathered data for the top 20 to 30 grossing Kickstarter projects as of March 2010. I then mapped out the number of pledges per tier, looking for a balance between number of pledges and overall percentage contribution of funds to my data set. Here is that data with the top five grossing tiers by percentage contribution highlighted in yellow.
 
 **[The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2014-08-01
@@ -158,6 +148,16 @@ Danielle Morrill - medium.com - 2014-03-31
 Tomasz Tunguz - tomtunguz.com - 2013-03-29
 
 > [Value prop] What is the problem and is it worth solving? Why is now the right time to solve it?  [Team] Does the team have the vision and the wherewithal to build this company?  [Go to market] What is the competitive angle (competitive barrier to entry and/or go-to-market) that will enable this company to succeed where others have tried and failed?  [Sales effectiveness & product validation] Who does the startup sell to? Which customers have used the product and how have they received it? How much is each customer worth?  [Product distribution] How does the company acquire customers cost effectively? What are the unit economics (customer acquisition cost, contribution revenue, and churn rates)?  [Revenue model] Does the company have the revenue model to build a big (>$100M annual revenue) business with good margins (gross ~ 50 to 60% / net ~15 to 25%) under reasonable assumptions?  [Market size] Can the market enable or bear a $100M revenue Alternatively, is this product in a quickly growing market or riding a disruptive wave?
+
+**[The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate/)**<br/>
+Tomasz Tunguz - tomtunguz.com - 2013-03-28
+
+> Market timing risk, Business model risk, Market adoption risk, Market size risk, Execution risk, Technology risk, Capitalization structure risk, Platform risk, Venture management risk, Financial ris, Legal risk
+
+**[Kickstartup — Successful fundraising with Kickstarter & the (re)making of Art Space Tokyo](http://craigmod.com/journal/kickstartup/)**<br/>
+Craig Mod - craigmod.com - 2010-07-01
+
+> I gathered data for the top 20 to 30 grossing Kickstarter projects as of March 2010. I then mapped out the number of pledges per tier, looking for a balance between number of pledges and overall percentage contribution of funds to my data set. Here is that data with the top five grossing tiers by percentage contribution highlighted in yellow.
 
 ### Business: General
 
@@ -217,34 +217,34 @@ Paul Buchheit - paulbuchheit.blogspot.jp - 2014-07-30
 
 ### Business: Leadership & Management
 
-**[Asana’s Justin Rosenstein on the One Quality Every Startup Needs to Survive](http://firstround.com/article/Asanas-Justin-Rosenstein-on-the-One-Quality-Every-Startup-Needs-to-Survive)** :star2: <br/>
-First Round Capital - firstround.com - 2014-01-30
-
-> If people don’t have true clarity around what they're doing and how it fits into their organization, they’re bound to duplicate efforts, deflate morale, spend hours on unimportant tasks, and more. To combat this problem, Rosenstein says, leaders need to prioritize clarity in everything they do in this order: Clarity of purpose; clarity of plan; and clarity of responsibility. If you can marry these three qualities, you can achieve organizational fluidity that will get the most out of your resources.
-
-**[Goldilocks Management](https://medium.com/@moskov/goldilocks-management-c01c6846e06e)** :star2: <br/>
-Dustin Moskovitz - medium.com - 2013-09-17
-
-> The limits of a completely flat approach, as conceded by Valve, reveal the mental trap that is causing startups to reject management. With the reference to the military at the beginning, Valve makes it clear that they see management solely through the lens of command and control hierarchies: it’s there to establish bureaucracy in the name of consistency and order. This can be true, but need not be, and definitely should not be the only role that management plays. Instead, I think the most important value of a manager is to serve their reports: to unblock them, mentor them, and keep them pointed in a direction that best serves their needs and the priorities of the organization.
-
 **[How Amazon achieves excellence at scale](http://www.crashdev.com/2013/03/how-amazon-achieves-excellence-at-scale.html)** :star2: <br/>
 Chris DeVore - crashdev.com - 2013-03-04
 
 > 1. Customer Obsession, 2. Ownership, 3. Invent and Simplify, 4. Are Right, A Lot, 5. Hire and Develop the Best, 6. Insist on the Highest Standards, 7. Think Big, 8. Bias for Action, 9. Frugality, 10. Vocally Self Critical, 11. Earn Trust of Others, 12. Dive Deep, 13. Have Backbone; Disagree and Commit, 14. Deliver Results
-
-**[Notes on Leadership: Be Like Steve Jobs, ... And Bill Campbell, And Andy Grove](http://techcrunch.com/2010/03/14/notes-on-leadership-jobs-grove-campbel/)** :star2: <br/>
-Ben Horowitz - techcrunch.com - 2010-03-14
-
-> So what makes people want to follow a leader? We look for 3 key traits: The ability to articulate the vision, The right kind of ambition, The ability to achieve the vision
 
 **[LinkedIn Speaker Series: Jeff Weiner, Reid Hoffman and Ben Casnocha](https://www.youtube.com/watch?v=kQJf7W88HDs)**<br/>
 Jeff Weiner, Reid Hoffman, Ben Casnocha - youtube.com - 2014-06-30
 
 > LinkedIn's co-founder/chairman, Reid Hoffman, has written a new book with Ben Casnocha and Chris Yeh: The Alliance: Managing Talent in the Networked Age.
 
+**[Asana’s Justin Rosenstein on the One Quality Every Startup Needs to Survive](http://firstround.com/article/Asanas-Justin-Rosenstein-on-the-One-Quality-Every-Startup-Needs-to-Survive)**<br/>
+First Round Capital - firstround.com - 2014-01-30
+
+> If people don’t have true clarity around what they're doing and how it fits into their organization, they’re bound to duplicate efforts, deflate morale, spend hours on unimportant tasks, and more. To combat this problem, Rosenstein says, leaders need to prioritize clarity in everything they do in this order: Clarity of purpose; clarity of plan; and clarity of responsibility. If you can marry these three qualities, you can achieve organizational fluidity that will get the most out of your resources.
+
+**[Goldilocks Management](https://medium.com/@moskov/goldilocks-management-c01c6846e06e)**<br/>
+Dustin Moskovitz - medium.com - 2013-09-17
+
+> The limits of a completely flat approach, as conceded by Valve, reveal the mental trap that is causing startups to reject management. With the reference to the military at the beginning, Valve makes it clear that they see management solely through the lens of command and control hierarchies: it’s there to establish bureaucracy in the name of consistency and order. This can be true, but need not be, and definitely should not be the only role that management plays. Instead, I think the most important value of a manager is to serve their reports: to unblock them, mentor them, and keep them pointed in a direction that best serves their needs and the priorities of the organization.
+
+**[Notes on Leadership: Be Like Steve Jobs, ... And Bill Campbell, And Andy Grove](http://techcrunch.com/2010/03/14/notes-on-leadership-jobs-grove-campbel/)**<br/>
+Ben Horowitz - techcrunch.com - 2010-03-14
+
+> So what makes people want to follow a leader? We look for 3 key traits: The ability to articulate the vision, The right kind of ambition, The ability to achieve the vision
+
 ### Business: Lean Startup
 
-**[Bootstrapping a Lean Startup](http://practicetrumpstheory.com/2010/03/bootstrapping-a-lean-startup/)** :star2: <br/>
+**[Bootstrapping a Lean Startup](http://practicetrumpstheory.com/2010/03/bootstrapping-a-lean-startup/)**<br/>
 Ash Maurya - practicetrumpstheory.com - 2010-03-01
 
 > At every stage of the startup, there are a set of actions that are “right” for the startup, in that they maximize return on time, money, and effort. A lean/bootstrapped entrepreneur ignores all else.
@@ -258,11 +258,6 @@ Gordon Wintrob - buildingof.com
 
 ### Business: Market & Research
 
-**[The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing/)** :star2: <br/>
-Brekiri - brekiri.com - 2010-02-26
-
-> Like forecasts, market size estimates should most often be considered directional (consulting speak for 'in the right ballpark'). You should also keep this point in mind when consuming market size information – the market size numbers you read in the news or market research reports are probably only accurate within 10-20% in many cases.  One of the best ways to ensure that you get at least a sensible result is to triangulate between different approaches: top-down and bottom-up estimates.
-
 **[Sunny Whether: Two Types of Forecasting Models for Running Your Startup](http://hunterwalk.com/2014/07/22/sunny-whether-two-types-of-forecasting-models-for-running-your-startup/)**<br/>
 Hunter Walk - hunterwalk.com - 2014-07-22
 
@@ -272,6 +267,11 @@ Hunter Walk - hunterwalk.com - 2014-07-22
 Bill Gurley - abovethecrowd.com - 2014-07-11
 
 > So here is the objective of this post. It is not my aim to specifically convince anyone that Uber is worth any specific valuation. What Professor Damodaran thinks, or what anyone who is not a buyer or seller of stocks thinks, is fairly immaterial. I am also not out to prove him wrong. I am much more interested in the subject of critical reasoning and predictions, and how certain assumptions can lead to gravely different outcomes. As such, my goal is to offer a plausible argument that the core assumptions used in Damodaran’s analysis may be off by a factor of 25 times, perhaps even more. And I hope the analysis is judged on whether the arguments I make are reasonable and feasible.
+
+**[The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing/)**<br/>
+Brekiri - brekiri.com - 2010-02-26
+
+> Like forecasts, market size estimates should most often be considered directional (consulting speak for 'in the right ballpark'). You should also keep this point in mind when consuming market size information – the market size numbers you read in the news or market research reports are probably only accurate within 10-20% in many cases.  One of the best ways to ensure that you get at least a sensible result is to triangulate between different approaches: top-down and bottom-up estimates.
 
 ### Business: Metrics & Analytics
 
@@ -297,11 +297,6 @@ Bill Gurley - abovethecrowd.com - 2012-09-04
 
 ### Business: Mistakes & Failure
 
-**[76 Startup Failure Post-Mortems](http://www.cbinsights.com/blog/startup-failure-post-mortem)** :star2: <br/>
-CB Insights - cbinsights.com - 2014-01-20
-
-> [B]elow is a compilation of 51 startup post-mortems that describe the factors that drove a startup’s demise.  Most of the failures have been told by the company’s founders, but in a few cases, we did find a couple from investors including Roger Ehrenberg (now of IA Ventures) and Bruce Booth (Atlas Venture).
-
 **[The 18 Mistakes That Kill Startups](http://www.paulgraham.com/startupmistakes.html)** :star2: <br/>
 Paul Graham - paulgraham.com - 2006-10-01
 
@@ -312,17 +307,22 @@ Marc Andreessen - a16z.com - 2014-07-08
 
 > Here are 10 ways to damage your fast-growing tech startup– and hurt the perception of Silicon Valley in the process. None of these are specific to any one company; they’re general patterns we’ve observed across multiple cycles of tech startups.
 
+**[76 Startup Failure Post-Mortems](http://www.cbinsights.com/blog/startup-failure-post-mortem)**<br/>
+CB Insights - cbinsights.com - 2014-01-20
+
+> [B]elow is a compilation of 51 startup post-mortems that describe the factors that drove a startup’s demise.  Most of the failures have been told by the company’s founders, but in a few cases, we did find a couple from investors including Roger Ehrenberg (now of IA Ventures) and Bruce Booth (Atlas Venture).
+
 ### Business: Planning & Strategy
-
-**[The idea maze](http://cdixon.org/2013/08/04/the-idea-maze/)** :star2: <br/>
-Chris Dixon - cdixon.org - 2013-08-04
-
-> But the reality is that ideas do matter, just not in the narrow sense in which startup ideas are popularly defined. Good startup ideas are well developed, multi-year plans that contemplate many possible paths according to how the world changes. Balaji Srinivasan calls this the idea maze
 
 **[How to Ruin Your Company with One Bad Process](http://www.bhorowitz.com/how_to_ruin_your_company_with_one_bad_process)**<br/>
 Ben Horowitz - bhorowitz.com - 2014-07-22
 
 > I am a giant advocate for technical founders running their own companies, but one consistent way that technical founders deeply harm their businesses is by screwing up the budgeting process. Yes, the budgeting process. How ridiculous is that? How does it happen and why is it particularly problematic for engineers?
+
+**[The idea maze](http://cdixon.org/2013/08/04/the-idea-maze/)**<br/>
+Chris Dixon - cdixon.org - 2013-08-04
+
+> But the reality is that ideas do matter, just not in the narrow sense in which startup ideas are popularly defined. Good startup ideas are well developed, multi-year plans that contemplate many possible paths according to how the world changes. Balaji Srinivasan calls this the idea maze
 
 ### Business: Product/Market Fit
 
@@ -330,11 +330,6 @@ Ben Horowitz - bhorowitz.com - 2014-07-22
 Andrew Chen - andrewchen.co - 2013-10-14
 
 > A few months ago, I spoke to a group of entrepreneurs at Stanford whose seed stage companies were still struggling to get product/market fit. I wrote down a few thoughts on the topic and turned it into slides. It’s really an extended version of this essay from 2011, but incorporates some newer thinking based on stuff I’ve learned in the meantime.
-
-**[The First Thing That Matters: Product/Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit/)** :star2: <br/>
-Ash Maurya - practicetrumpstheory.com - 2009-11-01
-
-> While I completely agree that achieving product/market fit is the necessary prerequisite to kicking into growth mode, I believe some level of preliminary landing page and positioning testing is absolutely required towards achieving product/market fit. After our call, I re-read both Steve Blank’s and Sean Ellis’ views on this and think they would agree too. Although I think Steve has a stricter definition of what achieving Product/Market fit looks like than Sean.
 
 **[The Startup Pyramid](http://www.startup-marketing.com/the-startup-pyramid/)** :star2: <br/>
 Sean Ellis - startup-marketing.com - 2009-07-27
@@ -345,6 +340,11 @@ Sean Ellis - startup-marketing.com - 2009-07-27
 Marc Andreessen - pmarchive.com - 2007-06-25
 
 > I believe that the life of any startup can be divided into two parts: before product/market fit (call this 'BPMF') and after product/market fit ('APMF'). When you are BPMF, focus obsessively on getting to product/market fit.
+
+**[The First Thing That Matters: Product/Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit/)**<br/>
+Ash Maurya - practicetrumpstheory.com - 2009-11-01
+
+> While I completely agree that achieving product/market fit is the necessary prerequisite to kicking into growth mode, I believe some level of preliminary landing page and positioning testing is absolutely required towards achieving product/market fit. After our call, I re-read both Steve Blank’s and Sean Ellis’ views on this and think they would agree too. Although I think Steve has a stricter definition of what achieving Product/Market fit looks like than Sean.
 
 **[Why you should make it easy for users to quit your product](http://andrewchen.co/2009/06/15/why-you-should-make-it-easy-for-users-to-quit-your-product/)**<br/>
 Andrew Chen - andrewchen.co - 2009-06-15
@@ -370,7 +370,7 @@ Google - static.googleusercontent.com
 
 > This document first began as an effort to help teams within Google, but we thought it'd be just as useful to webmasters that are new to the topic of search engine optimization and wish to improve their sites' interaction with both users and search engines. Although this guide won't tell you any secrets that'll automatically rank your site first for queries in Google (sorry!), following the best practices outlined below will make it easier for search engines to crawl, index and understand your content.
 
-**[The Beginners Guide to SEO](http://moz.com/beginners-guide-to-seo)** :star2: <br/>
+**[The Beginners Guide to SEO](http://moz.com/beginners-guide-to-seo)**<br/>
 MOZ - moz.com
 
 > New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 1 million times and provides comprehensive information you need to get on the road to professional quality SEO.
@@ -384,17 +384,12 @@ Tomasz Tunguz - tomtunguz.com - 2013-03-18
 
 ### Business: Trends & Spaces
 
-**[Reading the Tea Leaves of Venture Capital Today: 10 themes tech VCs are paying attention to](https://medium.com/private-markets/reading-the-tea-leaves-of-venture-capital-today-2524a453d9bc)** :star2: <br/>
+**[Reading the Tea Leaves of Venture Capital Today: 10 themes tech VCs are paying attention to](https://medium.com/private-markets/reading-the-tea-leaves-of-venture-capital-today-2524a453d9bc)**<br/>
 Boris Silver - medium.com - 2014-01-23
 
 > 1. Drones, 2. Bitcoin, 3. Wearables, 4. Big Data, 5. Crowdfunding, 6. Quantified Self, 7. 3D Printing, 8. The Internet of Things, 9. Mobile, 10. Virtual Reality
 
 ### Business: Venture Capital
-
-**[A Dozen Things I’ve Learned From Marc Andreessen](http://25iq.com/2014/06/14/a-dozen-things-ive-learned-from-marc-andreessen/)** :star2: <br/>
-? - 25iq.com
-
-> My primary task with this blog post has been assembling the quotations and placing them in an order which flows well, since understanding the earlier topics helps the reader understand ideas which come later in the list
 
 **[The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity/)**<br/>
 Fred Wilson - avc.com - 2014-07-24
@@ -406,6 +401,11 @@ Mark Suster - medium.com - 2014-07-23
 
 > Cheap, mobile, social, global, always-on, one-click-purchase = Unprecedented revenue growth + companies staying private longer = More opportunities than ever in history for venture capital firms = Lots of new, non-traditional entrants moving to capture this value = Amazing opportunities + Risks + Uncertainties for the coming decade for entrepreneurs, VCs and LPs.
 
+**[A Dozen Things I’ve Learned From Marc Andreessen](http://25iq.com/2014/06/14/a-dozen-things-ive-learned-from-marc-andreessen/)**<br/>
+? - 25iq.com
+
+> My primary task with this blog post has been assembling the quotations and placing them in an order which flows well, since understanding the earlier topics helps the reader understand ideas which come later in the list
+
 ### Development: Best Practices
 
 **[The Twelve-Factor App](http://12factor.net/)** :star2: <br/>
@@ -414,11 +414,6 @@ Adam Wiggins - 12factor.net - 2012-01-30
 > 
 
 ### Development: CI & Deployment
-
-**[Emergent Properties of Continual Automation](http://timothyfitz.com/2009/02/13/continual-automation/)** :star2: <br/>
-Timothy Fitz - timothyfitz.com - 2009-02-13
-
-> Once a task has been automated to take dramatically less time, a threshold is crossed and at which point you can exploit emergent properties. Or in other words, crazy-ass improvements.
 
 **[Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly](http://www.thoughtworks.com/continuous-integration)** :star2: <br/>
 Martin Fowler - thoughtworks.com
@@ -435,9 +430,14 @@ Ross Harmes - code.flickr.net - 2009-12-02
 
 > Flickr is somewhat unique in that it uses a code repository with no branches; everything is checked into head, and head is pushed to production several times a day. This works well for bug fixes that we want to go out immediately, but presents a problem when we’re working on a new feature that takes several months to complete. How do we solve that problem? With flags and flippers!
 
+**[Emergent Properties of Continual Automation](http://timothyfitz.com/2009/02/13/continual-automation/)**<br/>
+Timothy Fitz - timothyfitz.com - 2009-02-13
+
+> Once a task has been automated to take dramatically less time, a threshold is crossed and at which point you can exploit emergent properties. Or in other words, crazy-ass improvements.
+
 ### Development: CSS
 
-**[Modular CSS naming conventions](http://thesassway.com/advanced/modular-css-naming-conventions)** :star2: <br/>
+**[Modular CSS naming conventions](http://thesassway.com/advanced/modular-css-naming-conventions)**<br/>
 John W. Long - thesassway.com - 2013-08-31
 
 > So there you have it: a simple set of naming conventions for more modular CSS. Again, for my own method I've borrowed a lot from SMACSS, BEM, and OOCSS. If you're not familiar with any of these approaches they are well worth reading up on. You don't have to do modular CSS the way I do. Some folks prefer to use different types of separators to distiguish between different types of classes. But the core of the approach outlined here is common between the major methodologies.
@@ -451,15 +451,15 @@ David Heinemeier Hansson - signalvnoise.com - 2012-02-19
 
 ### Development: Data
 
-**[Fast and Flexible Monitoring with StatsD, Graphite and Librato - Red Badger](http://red-badger.com/blog/2013/11/04/fast-and-flexible-monitoring-with-statsd-graphite-and-librato/)** :star2: <br/>
-Joe Stanton - red-badger.com - 2013-11-04
-
-> Everyone knows you need data to make decisions. If you’re developing software of any sort, quick access to metrics can enable you to answer important questions like this: Is your app working? If not, which piece of your infrastructure specifically broke? Which areas need performance optimization? Do you need to scale? What was the impact of your recent code deployment? Do your users care? At development time, we can get all of the data we need, we use it for debugging, performance optimization etc. but what good is data if it’s not real-world? Things that should be true in 2013: Pushing your app to production shouldn’t mean a loss of insight. We should be able to measure everything, at all layers of the stack. We should get infrastructure and application monitoring by default. We should be able to visualise that data quickly and easily, so we can use it to solve problems and make informed decisions.
-
 **[Zero downtime database migrations by @jipiboily](https://blog.rainforestqa.com/2014-06-27-zero-downtime-database-migrations/)**<br/>
 Jean-Philippe Boily - blog.rainforestqa.com - 2014-06-27
 
 > All developers will at some time or other have to deploy code that changes the structure of a database. You might have downtime during these deploys due to database changes being required by the new code that you just deployed. There are easy ways to work around those downtimes and provide you a real zero downtime deployment process.
+
+**[Fast and Flexible Monitoring with StatsD, Graphite and Librato](http://red-badger.com/blog/2013/11/04/fast-and-flexible-monitoring-with-statsd-graphite-and-librato/)**<br/>
+Joe Stanton - red-badger.com - 2013-11-04
+
+> Everyone knows you need data to make decisions. If you’re developing software of any sort, quick access to metrics can enable you to answer important questions like this: Is your app working? If not, which piece of your infrastructure specifically broke? Which areas need performance optimization? Do you need to scale? What was the impact of your recent code deployment? Do your users care? At development time, we can get all of the data we need, we use it for debugging, performance optimization etc. but what good is data if it’s not real-world? Things that should be true in 2013: Pushing your app to production shouldn’t mean a loss of insight. We should be able to measure everything, at all layers of the stack. We should get infrastructure and application monitoring by default. We should be able to visualise that data quickly and easily, so we can use it to solve problems and make informed decisions.
 
 ### Development: Design Patterns
 
@@ -470,7 +470,7 @@ Brian Cooksey - zapier.com - 2014-07-10
 
 ### Development: Experiments
 
-**[20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132)** :star2: <br/>
+**[20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132)**<br/>
 Steve Hanov - stevehanov.ca - 2012-07-06
 
 > This 20 lines of code automatically finds the best choice quickly, and then uses it until it stops being the best choice.
@@ -508,7 +508,7 @@ O'Reilly - youtube.com - 2009-06-25
 
 ### Development: Process & Methodology
 
-**[Agile Is Dead (Long Live Agility)](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)** :star2: <br/>
+**[Agile Is Dead (Long Live Agility)](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)**<br/>
 Dave Thomas - pragdave.me - 2014-03-04
 
 > 
@@ -553,16 +553,6 @@ GitHub - help.github.com - 2014-02-28
 
 > 
 
-**[git - the simple guide](http://rogerdudler.github.io/git-guide/)** :star2: <br/>
-Roger Dudler - rogerdudler.github.io - 2012-01-09
-
-> 
-
-**[Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)** :star2: <br/>
-Nick Farina - nfarina.com - 2011-09-01
-
-> 
-
 **[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)** :star2: <br/>
 Scott Chacon - scottchacon.com - 2011-08-31
 
@@ -573,42 +563,52 @@ Vincent Driessen - nvie.com - 2010-01-05
 
 > 
 
-**[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)** :star2: <br/>
+**[git - the simple guide](http://rogerdudler.github.io/git-guide/)**<br/>
+Roger Dudler - rogerdudler.github.io - 2012-01-09
+
+> 
+
+**[Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)**<br/>
+Nick Farina - nfarina.com - 2011-09-01
+
+> 
+
+**[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)**<br/>
 Mark Lodato - marklodato.github.io - 2010-01-01
 
 > 
 
-**[Think Like (a) Git](http://think-like-a-git.net/)** :star2: <br/>
+**[Think Like (a) Git](http://think-like-a-git.net/)**<br/>
 Sam Livingston-Gray - think-like-a-git.net
 
 > 
 
-**[Pro Git](http://git-scm.com/book)** :star2: <br/>
+**[Pro Git](http://git-scm.com/book)**<br/>
 Scott Chacon - git-scm.com
 
 > 
 
 ### Development: Testing
 
-**[Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)** :star2: <br/>
-Kent Beck, David Heinemeier Hansson, Martin Fowler - martinfowler.com - 2014-05-09
-
-> A series of conversations between Kent Beck, David Heinemeier Hansson, and [Martin Fowler] on the topic of Test-Driven Development (TDD) and its impact upon software design.
-
-**[Test-induced design damage](http://david.heinemeierhansson.com/2014/test-induced-design-damage.html)** :star2: <br/>
-David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-29
-
-> The design integrity of your system is far more important than being able to test it any particular layer. Stop obsessing about unit tests, embrace backfilling of tests when you're happy with the design, and strive for overall system clarity as your principle pursuit.
-
-**[TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)** :star2: <br/>
-David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-23
-
-> Test-first fundamentalism is like abstinence-only sex ed: An unrealistic, ineffective morality campaign for self-loathing and shaming.
-
 **[Better Specs: RSpec Guidelines With Ruby](http://betterspecs.org/)** :star2: <br/>
 Andrea Reginato - betterspecs.org
 
 > RSpec is a great tool in the behavior-driven development (BDD) process of writing human readable specifications that direct and validate the development of your application. On the web there are many resources that give complete overview of _what_ you can do with RSpec. But there are fewer resources devoted to how to create a great RSpec test suite. Better Specs tries to fill this gap by collecting most of the best practices" that other developers learn through years of experience."
+
+**[Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)**<br/>
+Kent Beck, David Heinemeier Hansson, Martin Fowler - martinfowler.com - 2014-05-09
+
+> A series of conversations between Kent Beck, David Heinemeier Hansson, and [Martin Fowler] on the topic of Test-Driven Development (TDD) and its impact upon software design.
+
+**[Test-induced design damage](http://david.heinemeierhansson.com/2014/test-induced-design-damage.html)**<br/>
+David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-29
+
+> The design integrity of your system is far more important than being able to test it any particular layer. Stop obsessing about unit tests, embrace backfilling of tests when you're happy with the design, and strive for overall system clarity as your principle pursuit.
+
+**[TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)**<br/>
+David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-23
+
+> Test-first fundamentalism is like abstinence-only sex ed: An unrealistic, ineffective morality campaign for self-loathing and shaming.
 
 ### Development: UX, UI, & Design
 
@@ -617,28 +617,28 @@ Jakub Linowski - goodui.org - 2014-07-04
 
 > 
 
-**[Creating Style Guides](http://alistapart.com/article/creating-style-guides)** :star2: <br/>
-Susan Robertson - alistapart.com - 2014-04-08
-
-> 
-
-**[10 Useful Usability Findings and Guidelines](http://www.smashingmagazine.com/2009/09/24/10-useful-usability-findings-and-guidelines/)** :star2: <br/>
-Dmitry Fadeyev - smashingmagazine.com - 2009-09-24
-
-> 
-
-**[Designing for the Non-Designer – Part I The Basics](http://www.nurelm.com/themanual/2009/07/07/designing-for-the-non-designer-part-i-the-basics/)** :star2: <br/>
-NuRelm - nurelm.com - 2009-07-07
-
-> 
-
 **[Design Tips For Developers](http://www.duetapp.com/blog/design-tips-for-developers/)**<br/>
 Saleem El-Amin - duetapp.com - 2014-07-08
 
 > Here’s a list of things that I think are important to becoming good at design when all you have is development background
 
+**[Creating Style Guides](http://alistapart.com/article/creating-style-guides)**<br/>
+Susan Robertson - alistapart.com - 2014-04-08
+
+> 
+
 **[OmniGraffle Wireflows](http://wireframes.linowski.ca/2009/12/omnigraffle-wireflows/)**<br/>
 Linowski - wireframes.linowski.ca - 2009-12-29
+
+> 
+
+**[10 Useful Usability Findings and Guidelines](http://www.smashingmagazine.com/2009/09/24/10-useful-usability-findings-and-guidelines/)**<br/>
+Dmitry Fadeyev - smashingmagazine.com - 2009-09-24
+
+> 
+
+**[Designing for the Non-Designer – Part I The Basics](http://www.nurelm.com/themanual/2009/07/07/designing-for-the-non-designer-part-i-the-basics/)**<br/>
+NuRelm - nurelm.com - 2009-07-07
 
 > 
 
@@ -659,26 +659,26 @@ Michael Pohoreski - michael.peopleofhonoronly.com - 2011-09-09
 
 > 
 
-**[Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)** :star2: <br/>
-Yann Esposito - yannesposito.com - 2011-08-29
-
-> 
-
 **[Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)** :star2: <br/>
 Yehuda Katz - yehudakatz.com - 2010-07-29
 
 > 
 
+**[Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)**<br/>
+Yann Esposito - yannesposito.com - 2011-08-29
+
+> 
+
 ### Personal: Growth
 
-**[How to Change Oneself](http://simonsarris.com/blog/823-how-to-change-oneself)** :star2: <br/>
+**[How to Change Oneself](http://simonsarris.com/blog/823-how-to-change-oneself)**<br/>
 Simon Sarris - simonsarris.com - 2014-02-02
 
 > 
 
 ### Personal: Information
 
-**[Why you should read 100 books](http://jasonevanish.com/2014/01/26/why-you-should-read-100-books/)** :star2: <br/>
+**[Why you should read 100 books](http://jasonevanish.com/2014/01/26/why-you-should-read-100-books/)**<br/>
 Jason Evanish - jasonevanish.com - 2014-01-26
 
 > 
@@ -697,7 +697,7 @@ John Brandon - inc.com - 2014-07-23
 
 ### Personal: Qualities
 
-**[Transparency](http://avc.com/2004/05/transparency-2/)** :star2: <br/>
+**[Transparency](http://avc.com/2004/05/transparency-2/)**<br/>
 Fred Wilson - avc.com - 2004-05-03
 
 > 
