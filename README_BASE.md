@@ -1,16 +1,16 @@
-# About
+## About
 
 - What? A curated collection of insightful articles related to startups.
 - Why? As a resource for startup founders and team members.
 - How? According to the judgement of the curators/maintainers with respect to criteria and guidelines below.
 
 
-## Motivation
+### Motivation
 
 I want this information for my own benefit, but I'd also like to share it and I could use help building it too.
 
 
-## Goals
+### Goals
 
 - Insight. The ultimate goal for this collection is to be a valuable resource for insight and learning about the process of creating and growing a successful startup.
 
@@ -27,7 +27,7 @@ I want this information for my own benefit, but I'd also like to share it and I 
 I imagine there will be some reactions "Why would you include that article?" or "How could you not include this one?" I've done my best as a single person to collect and organize a broad range of insightful articles into logical categories, but I expect there are a lot of improvements to be made with the help of generous contributors. 
 
 
-## Concepts & Definitions
+### Concepts & Definitions
 
 - Startup. Paul Graham's definition of a company that is designed to grow fast.
 
@@ -42,7 +42,7 @@ I imagine there will be some reactions "Why would you include that article?" or 
 - There is of course overlap in areas where these types of activities meet.
 
 
-## Structure
+### Structure
 
 There are two versions of the collection: the general collection and the essential collection. The general collection aims to present a broader array of articles on a given topic that the reader may find useful. The essential collection aims to present only the best-of-the-best, must-read articles on a given topic. Both versions are divided largely divided into three categories, business, development, and personal. These are further divided into subcategories.
 
