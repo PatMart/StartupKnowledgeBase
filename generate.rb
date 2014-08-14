@@ -135,7 +135,7 @@ def sections_to_readme articles
     section_articles = articles.select{|a| a.category==section }
     categories = section_articles.map(&:subcategory).uniq.sort
     categories.each do |cat|
-      cat_articles = articles.select{|a| a.subcategory==cat }
+      cat_articles = section_articles.select{|a| a.subcategory==cat }
       markdown += category_to_markdown cat, cat_articles, section: section
     end
   end

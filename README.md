@@ -200,11 +200,6 @@ Sean Johnson - sean-johnson.com
 
 > Discover how smart startups are optimizing each step of the customer development funnel.
 
-### [How to Change Oneself](http://simonsarris.com/blog/823-how-to-change-oneself) :star2: <br/>
-Simon Sarris - simonsarris.com
-
-> 
-
 ##### [How We Doubled Our Conversion Rate - Bombfell Co-Founder Bernie Yoo - 500 Startups Blog](http://500.co/how-we-doubled-our-conversion-rate-bombfell)<br/>
 Bernie Yoo - 500.co
 
@@ -286,16 +281,6 @@ Hunter Walk - hunterwalk.com
 Dave McClure - slideshare.net
 
 > This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
-
-##### [Tracking Every Release « Code as Craft](http://codeascraft.com/2010/12/08/track-every-release/)<br/>
-Mike Brittain - codeascraft.com
-
-> Automated tracking of code deploys is essential for teams who practice Continuous Deployment. Monitoring every aspect of your server and network architecture helps detect when something has gone awry. Correlating the times of each and every code deploy helps to quickly identify human-triggered problems and greatly cut down on your time to resolve them.
-
-##### [Metrics-Driven Engineering at Etsy](http://www.slideshare.net/mikebrittain/metrics-driven-engineering-at-etsy)<br/>
-Mike Brittain - slideshare.net
-
-> Logs, Graphs, Trends, and Correlations. Making Decisions. How many visitors are using this thing? Can we deploy that to100% of our visitors? Did we make it faster? Did I just break something?
 
 ##### [The Dangerous Seduction of the Lifetime Value (LTV) Formula | Above the Crowd | By Bill Gurley](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)<br/>
 Bill Gurley - abovethecrowd.com
@@ -506,11 +491,6 @@ Sergey Bolshchikov - github.com
 
 ## Development: Metrics & Analytics
 
-### [Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version) :star2: <br/>
-Dave McClure - slideshare.net
-
-> This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
-
 ##### [Tracking Every Release « Code as Craft](http://codeascraft.com/2010/12/08/track-every-release/)<br/>
 Mike Brittain - codeascraft.com
 
@@ -520,21 +500,6 @@ Mike Brittain - codeascraft.com
 Mike Brittain - slideshare.net
 
 > Logs, Graphs, Trends, and Correlations. Making Decisions. How many visitors are using this thing? Can we deploy that to100% of our visitors? Did we make it faster? Did I just break something?
-
-##### [The Dangerous Seduction of the Lifetime Value (LTV) Formula | Above the Crowd | By Bill Gurley](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)<br/>
-Bill Gurley - abovethecrowd.com
-
-> Some people wield the LTV model as if they were Yoda with a light saber; “Look at this amazing weapon I know how to use!” Unfortunately, it is not that amazing, it’s not that unique to understand, and it is not a weapon, it’s a tool. Companies need a sustainable competitive advantage that is independent of their variable marketing campaigns. You can’t win a fight with a measuring tape.
-
-##### [The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act - Occam's Razor by Avinash Kaushik](http://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)<br/>
-Avinash Kaushik - kaushik.net
-
-> To win in business you need to follow this process: Metrics > Hypothesis > Experiment > Act. Online, offline or nonline.
-
-##### [Tom Blomfield ― Customer churn can kill your startup](http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup)<br/>
-Tom Blomfield - tomblomfield.com
-
-> Startups are about growth, and of all the different possible metrics, startups often focus on user growth - if people aren’t using your new product or service in greater and greater numbers, it’s a good sign that you’re not on the right track. And, as long as your business-model is solid, user growth is a leading indicator of revenue and profit growth. But there’s another key metric that can be the making of your company, or the death of it - churn, or the proportion of existing customers who become ex-customers during a period of time (generally a year).
 
 ## Development: Ops & Devops
 
@@ -557,20 +522,10 @@ Alex Salazar - stormpath.com
 
 ## Development: Productivity
 
-### [Pmarca Guide to Personal Productivity](http://pmarchive.com/guide_to_personal_productivity.html) :star2: <br/>
-Marc Andreessen - pmarchive.com
-
-> 
-
 ##### [A study on unplanned interruptions in software development | A Novice Software Engineer’s Diary](http://novicearshad.wordpress.com/2012/01/24/unplanned-interruptions-in-software-development/)<br/>
 Arshad Hossain - novicearshad.wordpress.com
 
 > Interruption is part of work. Nobody can expect to lock himself away and work alone interruption free. So there needs to be a collective effort and awareness to curb the common unplanned interruption.
-
-##### [How to Become a Productivity Superstar: 7 Tips | Inc.com](http://www.inc.com/john-brandon/how-to-become-a-productivity-superstar-7-tips.html)<br/>
-John Brandon - inc.com
-
-> 1. Do the hardest tasks first. 2. Offer to help the most productive co-workers. 3. Finish what you start. 4. Stop working on something when you reach a dead end. 5. Resist the urge to call for help early. 6. Ignore office chatter. 7. Watch the squirrel moments.
 
 ## Development: Rails
 
@@ -718,30 +673,10 @@ Michael Pohoreski - michael.peopleofhonoronly.com
 
 ## Personal: Growth
 
-### [Startup = Growth](http://www.paulgraham.com/growth.html) :star2: <br/>
-Paul Graham - paulgraham.com
-
-> A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth.
-
-### [Presentation: The Ultimate Guide to Funnel Optimization](http://www.sean-johnson.com/ultimate-guide-to-funnel-optimization/) :star2: <br/>
-Sean Johnson - sean-johnson.com
-
-> Discover how smart startups are optimizing each step of the customer development funnel.
-
 ### [How to Change Oneself](http://simonsarris.com/blog/823-how-to-change-oneself) :star2: <br/>
 Simon Sarris - simonsarris.com
 
 > 
-
-##### [How We Doubled Our Conversion Rate - Bombfell Co-Founder Bernie Yoo - 500 Startups Blog](http://500.co/how-we-doubled-our-conversion-rate-bombfell)<br/>
-Bernie Yoo - 500.co
-
-> We started A/B testing a new variant on pricing, one that was more complicated and required more work from the user. But, we thought it might be more intuitive as well. It threw out the idea of setting a single overall clothing budget, which might look cleaner and more like a typical web app, but was actually confusing and stalling users.
-
-##### [Product Hunt is Everywhere - This is How It Got There](http://firstround.com/article/Product-Hunt-is-Everywhere-This-is-How-It-Got-There)<br/>
-First Round Capital - firstround.com
-
-> If I hadn’t been blogging and active on Twitter, I think it would have taken way longer for Product Hunt to become what it is right now. So my advice is to start early. If you want people to listen to you eventually, you have to build trust over time.'
 
 ## Personal: Information
 
@@ -756,11 +691,6 @@ Jason Evanish - jasonevanish.com
 Marc Andreessen - pmarchive.com
 
 > 
-
-##### [A study on unplanned interruptions in software development | A Novice Software Engineer’s Diary](http://novicearshad.wordpress.com/2012/01/24/unplanned-interruptions-in-software-development/)<br/>
-Arshad Hossain - novicearshad.wordpress.com
-
-> Interruption is part of work. Nobody can expect to lock himself away and work alone interruption free. So there needs to be a collective effort and awareness to curb the common unplanned interruption.
 
 ##### [How to Become a Productivity Superstar: 7 Tips | Inc.com](http://www.inc.com/john-brandon/how-to-become-a-productivity-superstar-7-tips.html)<br/>
 John Brandon - inc.com
