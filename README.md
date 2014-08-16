@@ -154,11 +154,6 @@ Tomasz Tunguz - tomtunguz.com - 2014-08-01
 
 > The most successful pitches argue the market will unfold inexorably in the way the founders envision on a relevant time scale. And, that this startup in particular will dominate share in that new world. ... There is no prescriptive way I can recommend to consistently argue inevitability. Some founders use data. Others use logic. Still others use emotion and passion to do it. But in the end, these exceptional storytellers make you want to believe, suspend doubt, and disregard the great risks that all startups face all along their journey, and get involved with the business.
 
-**[Exploring the Series B Crunch](https://medium.com/@DanielleMorrill/exploring-the-series-b-crunch-3e71ae1fd19)**<br/>
-Danielle Morrill - medium.com - 2014-03-31
-
-> In this analysis, I examined firms whose portfolio companies have raised new Series B funding in the past 2 years. I also looked at the full range of Series B candidates within the portfolio (companies who have raised a Series A within the past 2 years), to understand what percentage of Series A bets have progressed to the next round.
-
 **[The 7 Questions A Startup Should Answer In Their Fund Raising Pitch](http://tomtunguz.com/pitch-deck/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2013-03-29
 
@@ -363,11 +358,6 @@ Noah Kagan - andrewchen.co - 2014-08-14
 
 ### Business: Recruiting & Employment
 
-**[The Talent Hacker's Manifesto](https://www.linkedin.com/today/post/article/20140716132910-4336757-the-talent-hacker-s-manifesto?trk=object-title&_mSplash=1)**<br/>
-Matt Buckland - linkedin.com - 2014-07-16
-
-> In Nick's original article I was quoted as saying that “Hiring is still waterfall in an agile world”. What I meant by that is that a traditional hiring process is slavish in adherence to accepted dogma. A job description is produced, it's disseminated through advertising channels, resultant applications are pushed through a pre-defined process and those lucky enough to have impressed will be hired. In this process, there is no feedback, no learning and no space for creativity...worst of all there is no scope to delight the candidates.""
-
 **[Say hello to the talent hacker](https://medium.com/makeshift-studios/say-hello-to-the-talent-hacker-c8ae87db4a58)**<br/>
 Nick Marsh - medium.com - 2014-06-20
 
@@ -416,11 +406,6 @@ First Round Capital - firstround.com - 2014-07-29
 Andrew Chen - andrewchen.co - 2014-07-08
 
 > 1. Paid acquisition, 2. Virality, 3. SEO, 4. Sales, 5. Other
-
-**[How We Doubled Our Conversion Rate](http://500.co/how-we-doubled-our-conversion-rate-bombfell)**<br/>
-Bernie Yoo - 500.co - 2014-03-24
-
-> We started A/B testing a new variant on pricing, one that was more complicated and required more work from the user. But, we thought it might be more intuitive as well. It threw out the idea of setting a single overall clothing budget, which might look cleaner and more like a typical web app, but was actually confusing and stalling users.
 
 ### Business: Social
 
