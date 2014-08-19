@@ -61,6 +61,10 @@
 
 A curated collection of insightful articles related to startups, as a resource for startup founders and team members.
 
+The ultimate goal of the project is to contain every fundamentally valuable insight or resource on a given topic, across a wide array of topics related to startups.
+
+A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a broad array of questions answered with insights distilled from several of the most important startup articles in this collection.
+
 
 ### Motivation
 
@@ -69,13 +73,13 @@ I want this information for my own benefit, but I'd also like to share it and I 
 
 ### Goals
 
-- Insight. The ultimate goal for this collection is to be a valuable resource for insight and learning about the process of creating and growing successful startups.
+- Insight. The ultimate goal for this collection is to be a valuable resource for insight and learning about the process of starting successful startups.
 
-- Comprehensibility. Each article should include a well-chosen quote or summary that represents the key insight gained from reading the article.
+- Comprehensibility. Each article should include a well-chosen quote or summary that represents the key insight(s) gained from reading the article.
 
-- Scope. Listing every article related to startups in existence is beyond the scope of this project. The collection should be limited in scope using criteria that maximize the potential for insight. A bias is applied toward authors who have demonstrated success in their field.
+- Scope. Listing every article related to startups in existence is beyond the scope of this project. The collection should be limited in scope using criteria that maximize the potential for insight. A bias is applied toward authors and ideas that have demonstrated success in their field.
 
-- Relevance. Technology moves fast and ideas become outdated. The data aims to be recent and relevant to majority of aspiring startups.
+- Relevance. Technology moves fast and ideas become outdated. The data aims to be recent and relevant to majority of startups.
 
 - Breadth. A quality selection of valuable articles across a broad array of startup topics.
 
@@ -84,25 +88,23 @@ I want this information for my own benefit, but I'd also like to share it and I 
 
 - Startup. Paul Graham's definition, a company that is designed to grow fast.
 
-- Startup activity is considered to be largely divisible into three categories: business activity, development activity, and personal activity.
+- Startup activity is broadly divided into three categories: business, development, and personal.
 
-- Business is crudely defined as "building success." Topics include founding, fundraising, growth, marketing, and management.
+- Business is crudely defined as "building success" or "building value for customers/users." Topics include founding, fundraising, growth, marketing, management, etc.
 
-- Development is crudely defined as "building product." Topics include computer science, software development, system architecture, server/DB administration, UX, and design.
+- Development is crudely defined as "building product." Topics include computer science, software development, system architecture, system/database administration, UX, design, etc.
 
-- Personal is crudely defined as "building oneself" as a person involved in startups. Topics include personal growth, productivity, motivation, inspiration, philosophy, and introspection.
-
-- There is of course overlap in areas where these types of activities meet.
+- Personal is crudely defined as "building oneself" as a person involved in startups. Topics include personal growth, productivity, motivation, inspiration, philosophy, introspection, etc.
 
 
 ### Structure
 
-The collection aims to present a broader array of articles on a given topic that the reader may find useful. Articles are largely divided into three categories, business, development, and personal. These are further divided into subcategories. Special articles considered to be the best-of-the-best, must-read articles on a given topic are marked as essential (:star2:) and displayed first.
+Articles are divided into three categories, business, development, and personal. These are divided into various subcategories.
 
 
 ## Criteria
 
-An article will be considered for inclusion if it offers an insightful view on a topic and which view is under-represented or poorly represented by existing articles in the collection.  An article will be considered essential (:star2:) if it offers an important, fundamental insight to a topic and is either widely regarded as a must-read or reasonably thought ought to be.
+An article will be considered for inclusion if it offers some piece of valuable insight on a topic, with priority given to important articles by authors with demonstrated success in their field.
 
 ## The Collection
 
@@ -134,25 +136,20 @@ Paul Smith - robots.thoughtbot.com - 2014-07-10
 
 ### Business: Fundraising
 
-**[How to Raise Money](http://www.paulgraham.com/fr.html)** :star2: <br/>
-Paul Graham - paulgraham.com - 2013-09-01
-
-> Don't raise money unless you want it and it wants you., "Be in fundraising mode or not.", "Get introductions to investors.", "Hear no till you hear yes.", "Do breadth-first search weighted by expected value.", "Know where you stand.", "Get the first commitment.", "Close committed money.", "Avoid investors who don't 'lead.'", "Have multiple plans.", "Underestimate how much you want.", "Be profitable if you can.", "Don't optimize for valuation.", "Yes/no before valuation.", "Beware 'valuation sensitive' investors.", "Accept offers greedily.", "Don't sell more than 25% in phase 2.", "Have one person handle fundraising.", "You'll need an executive summary and (maybe) a deck.", "Stop fundraising when it stops working.", "Don't get addicted to fundraising.", "Don't raise too much.", "Be nice.", "The bar will be higher next time.", "Don't make things complicated."
-
-**[How to Convince Investors](http://www.paulgraham.com/convince.html)** :star2: <br/>
-Paul Graham - paulgraham.com - 2013-08-01
-
-> So here's the recipe for impressing investors when you're not already good at seeming formidable: Make something worth investing in. Understand why it's worth investing in. Explain that clearly to investors. If you're saying something you know is true, you'll seem confident when you're saying it. Conversely, never let pitching draw you into bullshitting. As long as you stay on the territory of truth, you're strong. Make the truth good, then just tell it.
-
-**[Trends in Pricing and Duration](https://www.kickstarter.com/blog/trends-in-pricing-and-duration)** :star2: <br/>
-Fred Benenson, Yancey Strickler - kickstarter.com - 2010-09-22
-
-> In the post Craig sampled other popular projects on Kickstarter, and explained how their choices and outcomes affected the way he constructed his project. Craig also offers some advice on optimal pricing and project length to future project creators. We were intrigued and impressed by Craig’s research and conclusions, and we’ve now compiled data from our entire database to see how it holds up. Let’s dig in.
-
 **[The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2014-08-01
 
 > The most successful pitches argue the market will unfold inexorably in the way the founders envision on a relevant time scale. And, that this startup in particular will dominate share in that new world. ... There is no prescriptive way I can recommend to consistently argue inevitability. Some founders use data. Others use logic. Still others use emotion and passion to do it. But in the end, these exceptional storytellers make you want to believe, suspend doubt, and disregard the great risks that all startups face all along their journey, and get involved with the business.
+
+**[How to Raise Money](http://www.paulgraham.com/fr.html)**<br/>
+Paul Graham - paulgraham.com - 2013-09-01
+
+> Don't raise money unless you want it and it wants you., "Be in fundraising mode or not.", "Get introductions to investors.", "Hear no till you hear yes.", "Do breadth-first search weighted by expected value.", "Know where you stand.", "Get the first commitment.", "Close committed money.", "Avoid investors who don't 'lead.'", "Have multiple plans.", "Underestimate how much you want.", "Be profitable if you can.", "Don't optimize for valuation.", "Yes/no before valuation.", "Beware 'valuation sensitive' investors.", "Accept offers greedily.", "Don't sell more than 25% in phase 2.", "Have one person handle fundraising.", "You'll need an executive summary and (maybe) a deck.", "Stop fundraising when it stops working.", "Don't get addicted to fundraising.", "Don't raise too much.", "Be nice.", "The bar will be higher next time.", "Don't make things complicated."
+
+**[How to Convince Investors](http://www.paulgraham.com/convince.html)**<br/>
+Paul Graham - paulgraham.com - 2013-08-01
+
+> So here's the recipe for impressing investors when you're not already good at seeming formidable: Make something worth investing in. Understand why it's worth investing in. Explain that clearly to investors. If you're saying something you know is true, you'll seem confident when you're saying it. Conversely, never let pitching draw you into bullshitting. As long as you stay on the territory of truth, you're strong. Make the truth good, then just tell it.
 
 **[The 7 Questions A Startup Should Answer In Their Fund Raising Pitch](http://tomtunguz.com/pitch-deck/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2013-03-29
@@ -164,6 +161,11 @@ Tomasz Tunguz - tomtunguz.com - 2013-03-28
 
 > Market timing risk, Business model risk, Market adoption risk, Market size risk, Execution risk, Technology risk, Capitalization structure risk, Platform risk, Venture management risk, Financial ris, Legal risk
 
+**[Trends in Pricing and Duration](https://www.kickstarter.com/blog/trends-in-pricing-and-duration)**<br/>
+Fred Benenson, Yancey Strickler - kickstarter.com - 2010-09-22
+
+> In the post Craig sampled other popular projects on Kickstarter, and explained how their choices and outcomes affected the way he constructed his project. Craig also offers some advice on optimal pricing and project length to future project creators. We were intrigued and impressed by Craig’s research and conclusions, and we’ve now compiled data from our entire database to see how it holds up. Let’s dig in.
+
 **[Kickstartup — Successful fundraising with Kickstarter & the (re)making of Art Space Tokyo](http://craigmod.com/journal/kickstartup/)**<br/>
 Craig Mod - craigmod.com - 2010-07-01
 
@@ -171,32 +173,32 @@ Craig Mod - craigmod.com - 2010-07-01
 
 ### Business: General
 
-**[Peter Thiel’s CS183: Startup - Class 9 Notes Essay](http://blakemasters.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay)** :star2: <br/>
+**[Peter Thiel’s CS183: Startup - Class 9 Notes Essay](http://blakemasters.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay)**<br/>
 Blake Masters - blakemasters.com - 2012-05-04
 
 > The first thing to do is to dispel the belief that the best product always wins. There is a rich history of instances where the best product did not, in fact, win. Nikola Tesla invented the alternating current electrical supply system. It was, for a variety of reasons, technologically better than the direct current system that Thomas Edison developed. Tesla was the better scientist. But Edison was the better businessman, and he went on to start GE. Interestingly, Tesla later developed the idea of radio transmission. But Marconi took it from him and then won the Nobel Prize. Inspiration isn’t all that counts. The best product may not win.
 
-**[Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html)** :star2: <br/>
+**[Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html)**<br/>
 Paul Graham - paulgraham.com - 2009-02-01
 
 > 1. Pick good cofounders. 2. Launch fast. 3. Let your idea evolve. 4. Understand your users. 5. Better to make a few users love you than a lot ambivalent. 6. Offer surprisingly good customer service. 7. You make what you measure. 8. Spend little. 9. Get ramen profitable. 10. Avoid distractions. 11. Don't get demoralized. 12. Don't give up. 13. Deals fall through.
 
-**[Six Principles for Making New Things](http://www.paulgraham.com/newthings.html)** :star2: <br/>
+**[Six Principles for Making New Things](http://www.paulgraham.com/newthings.html)**<br/>
 Paul Graham - paulgraham.com - 2008-02-01
 
 > Here it is: I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.
 
-**[The Pmarca Guide To Startups](http://pmarchive.com/guide_to_startups_part1.html)** :star2: <br/>
+**[The Pmarca Guide To Startups](http://pmarchive.com/guide_to_startups_part1.html)**<br/>
 Marc Andreessen - pmarchive.com - 2007-06-18
 
 > In this series of posts I will walk through some of my accumulated knowledge and experience in building high-tech startups.
 
-**[The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html)** :star2: <br/>
+**[The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html)**<br/>
 Paul Graham - paulgraham.com - 2006-04-01
 
 > 1. Release Early. 2. Keep Pumping Out Features. 3. Make Users Happy. 4. Fear the Right Things. 5. Commitment Is a Self-Fulfilling Prophecy. 6. There Is Always Room. 7. Don't Get Your Hopes Up.
 
-**[Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/)** :star2: <br/>
+**[Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/)**<br/>
 Mark Suster - bothsidesofthetable.com
 
 > I think the sign of a good entrepreneur is the ability to spot your mistakes, correct quickly and not repeat the mistakes. I made plenty of mistakes. Below are some of the lessons I learned along the way.
@@ -209,11 +211,6 @@ Paul Buchheit - paulbuchheit.blogspot.jp - 2014-07-30
 > It's often assumed that business is all about money, but to me that's like saying that rockets are all about rocket fuel. On some level it's true. You won't even make it off the launch pad without fuel. But that myopic view misses out on the larger purpose and mission of the machine. Certainly some businesses really are about nothing more than making money, but among the truly significant founders I've known, there's always a larger purpose. It's not just a nihilistic pursuit of rocket fuel.
 
 ### Business: Leadership & Management
-
-**[How Amazon achieves excellence at scale](http://www.crashdev.com/2013/03/how-amazon-achieves-excellence-at-scale.html)** :star2: <br/>
-Chris DeVore - crashdev.com - 2013-03-04
-
-> 1. Customer Obsession, 2. Ownership, 3. Invent and Simplify, 4. Are Right, A Lot, 5. Hire and Develop the Best, 6. Insist on the Highest Standards, 7. Think Big, 8. Bias for Action, 9. Frugality, 10. Vocally Self Critical, 11. Earn Trust of Others, 12. Dive Deep, 13. Have Backbone; Disagree and Commit, 14. Deliver Results
 
 **[LinkedIn Speaker Series: Jeff Weiner, Reid Hoffman and Ben Casnocha](https://www.youtube.com/watch?v=kQJf7W88HDs)**<br/>
 Jeff Weiner, Reid Hoffman, Ben Casnocha - youtube.com - 2014-06-30
@@ -229,6 +226,11 @@ First Round Capital - firstround.com - 2014-01-30
 Dustin Moskovitz - medium.com - 2013-09-17
 
 > The limits of a completely flat approach, as conceded by Valve, reveal the mental trap that is causing startups to reject management. With the reference to the military at the beginning, Valve makes it clear that they see management solely through the lens of command and control hierarchies: it’s there to establish bureaucracy in the name of consistency and order. This can be true, but need not be, and definitely should not be the only role that management plays. Instead, I think the most important value of a manager is to serve their reports: to unblock them, mentor them, and keep them pointed in a direction that best serves their needs and the priorities of the organization.
+
+**[How Amazon achieves excellence at scale](http://www.crashdev.com/2013/03/how-amazon-achieves-excellence-at-scale.html)**<br/>
+Chris DeVore - crashdev.com - 2013-03-04
+
+> 1. Customer Obsession, 2. Ownership, 3. Invent and Simplify, 4. Are Right, A Lot, 5. Hire and Develop the Best, 6. Insist on the Highest Standards, 7. Think Big, 8. Bias for Action, 9. Frugality, 10. Vocally Self Critical, 11. Earn Trust of Others, 12. Dive Deep, 13. Have Backbone; Disagree and Commit, 14. Deliver Results
 
 **[Notes on Leadership: Be Like Steve Jobs, ... And Bill Campbell, And Andy Grove](http://techcrunch.com/2010/03/14/notes-on-leadership-jobs-grove-campbel/)**<br/>
 Ben Horowitz - techcrunch.com - 2010-03-14
@@ -268,11 +270,6 @@ Brekiri - brekiri.com - 2010-02-26
 
 ### Business: Metrics & Analytics
 
-**[Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)** :star2: <br/>
-Dave McClure - slideshare.net - 2007-08-08
-
-> This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
-
 **[Tom Blomfield ― Customer churn can kill your startup](http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup)**<br/>
 Tom Blomfield - tomblomfield.com - 2014-07-10
 
@@ -293,12 +290,12 @@ Bill Gurley - abovethecrowd.com - 2012-09-04
 
 > Some people wield the LTV model as if they were Yoda with a light saber; “Look at this amazing weapon I know how to use!” Unfortunately, it is not that amazing, it’s not that unique to understand, and it is not a weapon, it’s a tool. Companies need a sustainable competitive advantage that is independent of their variable marketing campaigns. You can’t win a fight with a measuring tape.
 
+**[Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)**<br/>
+Dave McClure - slideshare.net - 2007-08-08
+
+> This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
+
 ### Business: Mistakes & Failure
-
-**[The 18 Mistakes That Kill Startups](http://www.paulgraham.com/startupmistakes.html)** :star2: <br/>
-Paul Graham - paulgraham.com - 2006-10-01
-
-> 1. Single Founder, 2. Bad Location, 3. Marginal Niche, 4. Derivative Idea, 5. Obstinacy, 6. Hiring Bad Programmers, 7. Choosing the Wrong Platform, 8. Slowness in Launching, 9. Launching Too Early, 10. Having No Specific User in Mind, 11. Raising Too Little Money, 12. Spending Too Much, 13. Raising Too Much Money, 14. Poor Investor Management, 15. Sacrificing Users to (Supposed) Profit, 16. Not Wanting to Get Your Hands Dirty, 17. Fights Between Founders, 18. A Half-Hearted Effort
 
 **[Beware the ‘Edifice Complex’ ― and 9 Other Ways to Damage a High-Growth Startup](http://a16z.com/2014/07/08/beware-the-edifice-complex-and-9-other-ways-to-damage-your-high-growth-startup/)**<br/>
 Marc Andreessen - a16z.com - 2014-07-08
@@ -309,6 +306,11 @@ Marc Andreessen - a16z.com - 2014-07-08
 CB Insights - cbinsights.com - 2014-01-20
 
 > [B]elow is a compilation of 51 startup post-mortems that describe the factors that drove a startup’s demise.  Most of the failures have been told by the company’s founders, but in a few cases, we did find a couple from investors including Roger Ehrenberg (now of IA Ventures) and Bruce Booth (Atlas Venture).
+
+**[The 18 Mistakes That Kill Startups](http://www.paulgraham.com/startupmistakes.html)**<br/>
+Paul Graham - paulgraham.com - 2006-10-01
+
+> 1. Single Founder, 2. Bad Location, 3. Marginal Niche, 4. Derivative Idea, 5. Obstinacy, 6. Hiring Bad Programmers, 7. Choosing the Wrong Platform, 8. Slowness in Launching, 9. Launching Too Early, 10. Having No Specific User in Mind, 11. Raising Too Little Money, 12. Spending Too Much, 13. Raising Too Much Money, 14. Poor Investor Management, 15. Sacrificing Users to (Supposed) Profit, 16. Not Wanting to Get Your Hands Dirty, 17. Fights Between Founders, 18. A Half-Hearted Effort
 
 ### Business: Planning & Strategy
 
@@ -324,30 +326,30 @@ Chris Dixon - cdixon.org - 2013-08-04
 
 ### Business: Product/Market Fit
 
-**[Zero to Product/Market Fit (Presentation)](http://andrewchen.co/2013/10/14/zero-to-productmarket-fit-presentation/)** :star2: <br/>
+**[Zero to Product/Market Fit (Presentation)](http://andrewchen.co/2013/10/14/zero-to-productmarket-fit-presentation/)**<br/>
 Andrew Chen - andrewchen.co - 2013-10-14
 
 > A few months ago, I spoke to a group of entrepreneurs at Stanford whose seed stage companies were still struggling to get product/market fit. I wrote down a few thoughts on the topic and turned it into slides. It’s really an extended version of this essay from 2011, but incorporates some newer thinking based on stuff I’ve learned in the meantime.
-
-**[The Startup Pyramid](http://www.startup-marketing.com/the-startup-pyramid/)** :star2: <br/>
-Sean Ellis - startup-marketing.com - 2009-07-27
-
-> Every six months I rethink the optimal startup go to market approach based on new insights gained at recent startups. Lately I’ve been using a pyramid to represent the process I’m using. Startups require a solid foundation of product/market fit before progressing up the pyramid and scaling the business.
-
-**[The Pmarca Guide To Startups, Part 4: The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)** :star2: <br/>
-Marc Andreessen - pmarchive.com - 2007-06-25
-
-> I believe that the life of any startup can be divided into two parts: before product/market fit (call this 'BPMF') and after product/market fit ('APMF'). When you are BPMF, focus obsessively on getting to product/market fit.
 
 **[The First Thing That Matters: Product/Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit/)**<br/>
 Ash Maurya - practicetrumpstheory.com - 2009-11-01
 
 > While I completely agree that achieving product/market fit is the necessary prerequisite to kicking into growth mode, I believe some level of preliminary landing page and positioning testing is absolutely required towards achieving product/market fit. After our call, I re-read both Steve Blank’s and Sean Ellis’ views on this and think they would agree too. Although I think Steve has a stricter definition of what achieving Product/Market fit looks like than Sean.
 
+**[The Startup Pyramid](http://www.startup-marketing.com/the-startup-pyramid/)**<br/>
+Sean Ellis - startup-marketing.com - 2009-07-27
+
+> Every six months I rethink the optimal startup go to market approach based on new insights gained at recent startups. Lately I’ve been using a pyramid to represent the process I’m using. Startups require a solid foundation of product/market fit before progressing up the pyramid and scaling the business.
+
 **[Why you should make it easy for users to quit your product](http://andrewchen.co/2009/06/15/why-you-should-make-it-easy-for-users-to-quit-your-product/)**<br/>
 Andrew Chen - andrewchen.co - 2009-06-15
 
 > My central argument is that if you believe that every startup is an iterative learning process that converges towards product/market fit, then you need extremely high-fidelity signals to tell you if you’re going in the right direction. That means that along with trying to charge people money from early on, which is the highest form of “I love this!” you should give people valves to tell you “I hate this!” so that you can learn more faster.
+
+**[The Pmarca Guide To Startups, Part 4: The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)**<br/>
+Marc Andreessen - pmarchive.com - 2007-06-25
+
+> I believe that the life of any startup can be divided into two parts: before product/market fit (call this 'BPMF') and after product/market fit ('APMF'). When you are BPMF, focus obsessively on getting to product/market fit.
 
 ### Business: Promotion & Traction
 
@@ -375,7 +377,7 @@ Mark Suster - bothsidesofthetable.com - 2009-10-22
 
 ### Business: SEO
 
-**[Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)** :star2: <br/>
+**[Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)**<br/>
 Google - static.googleusercontent.com
 
 > This document first began as an effort to help teams within Google, but we thought it'd be just as useful to webmasters that are new to the topic of search engine optimization and wish to improve their sites' interaction with both users and search engines. Although this guide won't tell you any secrets that'll automatically rank your site first for queries in Google (sorry!), following the best practices outlined below will make it easier for search engines to crawl, index and understand your content.
@@ -387,16 +389,6 @@ MOZ - moz.com
 
 ### Business: Scaling & Growth
 
-**[Presentation: The Ultimate Guide to Funnel Optimization](http://www.sean-johnson.com/ultimate-guide-to-funnel-optimization/)** :star2: <br/>
-Sean Johnson - sean-johnson.com - 2013-04-16
-
-> Discover how smart startups are optimizing each step of the customer development funnel.
-
-**[Startup = Growth](http://www.paulgraham.com/growth.html)** :star2: <br/>
-Paul Graham - paulgraham.com - 2012-09-01
-
-> A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth.
-
 **[Product Hunt is Everywhere - This is How It Got There](http://firstround.com/article/Product-Hunt-is-Everywhere-This-is-How-It-Got-There)**<br/>
 First Round Capital - firstround.com - 2014-07-29
 
@@ -406,6 +398,16 @@ First Round Capital - firstround.com - 2014-07-29
 Andrew Chen - andrewchen.co - 2014-07-08
 
 > 1. Paid acquisition, 2. Virality, 3. SEO, 4. Sales, 5. Other
+
+**[Presentation: The Ultimate Guide to Funnel Optimization](http://www.sean-johnson.com/ultimate-guide-to-funnel-optimization/)**<br/>
+Sean Johnson - sean-johnson.com - 2013-04-16
+
+> Discover how smart startups are optimizing each step of the customer development funnel.
+
+**[Startup = Growth](http://www.paulgraham.com/growth.html)**<br/>
+Paul Graham - paulgraham.com - 2012-09-01
+
+> A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth.
 
 ### Business: Social
 
@@ -440,17 +442,12 @@ Mark Suster - medium.com - 2014-07-23
 
 ### Development: Best Practices
 
-**[The Twelve-Factor App](http://12factor.net/)** :star2: <br/>
+**[The Twelve-Factor App](http://12factor.net/)**<br/>
 Adam Wiggins - 12factor.net - 2012-01-30
 
 > 
 
 ### Development: CI & Deployment
-
-**[Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly](http://www.thoughtworks.com/continuous-integration)** :star2: <br/>
-Martin Fowler - thoughtworks.com
-
-> Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
 **[The Future Workplace Is Now: How Etsy Makes 30 Innovations Per Day - Forbes](http://www.forbes.com/sites/stevedenning/2014/04/04/at-etsy-the-future-workplace-is-now-thirty-innovations-per-day/)**<br/>
 Steve Denning - forbes.com - 2014-04-04
@@ -467,6 +464,11 @@ Timothy Fitz - timothyfitz.com - 2009-02-13
 
 > Once a task has been automated to take dramatically less time, a threshold is crossed and at which point you can exploit emergent properties. Or in other words, crazy-ass improvements.
 
+**[Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly](http://www.thoughtworks.com/continuous-integration)**<br/>
+Martin Fowler - thoughtworks.com
+
+> Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+
 ### Development: CSS
 
 **[Modular CSS naming conventions](http://thesassway.com/advanced/modular-css-naming-conventions)**<br/>
@@ -476,7 +478,7 @@ John W. Long - thesassway.com - 2013-08-31
 
 ### Development: Caching
 
-**[How key-based cache expiration works](https://signalvnoise.com/posts/3113-how-key-based-cache-expiration-works)** :star2: <br/>
+**[How key-based cache expiration works](https://signalvnoise.com/posts/3113-how-key-based-cache-expiration-works)**<br/>
 David Heinemeier Hansson - signalvnoise.com - 2012-02-19
 
 > 
@@ -566,32 +568,22 @@ Adrien Siami - blog.siami.fr - 2014-07-10
 
 ### Development: Ruby
 
-**[Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)** :star2: <br/>
+**[Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)**<br/>
 Why the Lucky Stiff - mislav.uniqpath.com
 
 > A programming adventure for Ruby beginners illustrated with cartoon foxes.
 
 ### Development: Security
 
-**[OWASP Cheatsheets](https://www.owasp.org/index.php/Category:Cheatsheets)** :star2: <br/>
+**[OWASP Cheatsheets](https://www.owasp.org/index.php/Category:Cheatsheets)**<br/>
 OWASP - owasp.org
 
 > Handy Web Application Security Cheatsheets
 
 ### Development: Source Control
 
-**[Git cheatsheet](https://help.github.com/articles/git-cheatsheet)** :star2: <br/>
+**[Git cheatsheet](https://help.github.com/articles/git-cheatsheet)**<br/>
 GitHub - help.github.com - 2014-02-28
-
-> 
-
-**[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)** :star2: <br/>
-Scott Chacon - scottchacon.com - 2011-08-31
-
-> 
-
-**[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)** :star2: <br/>
-Vincent Driessen - nvie.com - 2010-01-05
 
 > 
 
@@ -602,6 +594,16 @@ Roger Dudler - rogerdudler.github.io - 2012-01-09
 
 **[Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)**<br/>
 Nick Farina - nfarina.com - 2011-09-01
+
+> 
+
+**[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)**<br/>
+Scott Chacon - scottchacon.com - 2011-08-31
+
+> 
+
+**[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)**<br/>
+Vincent Driessen - nvie.com - 2010-01-05
 
 > 
 
@@ -622,11 +624,6 @@ Sam Livingston-Gray - think-like-a-git.net
 
 ### Development: Testing
 
-**[Better Specs: RSpec Guidelines With Ruby](http://betterspecs.org/)** :star2: <br/>
-Andrea Reginato - betterspecs.org
-
-> RSpec is a great tool in the behavior-driven development (BDD) process of writing human readable specifications that direct and validate the development of your application. On the web there are many resources that give complete overview of _what_ you can do with RSpec. But there are fewer resources devoted to how to create a great RSpec test suite. Better Specs tries to fill this gap by collecting most of the best practices" that other developers learn through years of experience."
-
 **[Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)**<br/>
 Kent Beck, David Heinemeier Hansson, Martin Fowler - martinfowler.com - 2014-05-09
 
@@ -642,17 +639,22 @@ David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-23
 
 > Test-first fundamentalism is like abstinence-only sex ed: An unrealistic, ineffective morality campaign for self-loathing and shaming.
 
+**[Better Specs: RSpec Guidelines With Ruby](http://betterspecs.org/)**<br/>
+Andrea Reginato - betterspecs.org
+
+> RSpec is a great tool in the behavior-driven development (BDD) process of writing human readable specifications that direct and validate the development of your application. On the web there are many resources that give complete overview of _what_ you can do with RSpec. But there are fewer resources devoted to how to create a great RSpec test suite. Better Specs tries to fill this gap by collecting most of the best practices" that other developers learn through years of experience."
+
 ### Development: UX, UI, & Design
-
-**[Good UI](http://goodui.org/)** :star2: <br/>
-Jakub Linowski - goodui.org - 2014-07-04
-
-> 
 
 **[Design Tips For Developers](http://www.duetapp.com/blog/design-tips-for-developers/)**<br/>
 Saleem El-Amin - duetapp.com - 2014-07-08
 
 > Here’s a list of things that I think are important to becoming good at design when all you have is development background
+
+**[Good UI](http://goodui.org/)**<br/>
+Jakub Linowski - goodui.org - 2014-07-04
+
+> 
 
 **[Creating Style Guides](http://alistapart.com/article/creating-style-guides)**<br/>
 Susan Robertson - alistapart.com - 2014-04-08
@@ -686,18 +688,18 @@ Tamino Martinius, Andreas Storm - colourco.de
 
 ### Development: Vim
 
-**[Vim Cheat Sheat for Programmers](http://michael.peopleofhonoronly.com/vim/)** :star2: <br/>
+**[Vim Cheat Sheat for Programmers](http://michael.peopleofhonoronly.com/vim/)**<br/>
 Michael Pohoreski - michael.peopleofhonoronly.com - 2011-09-09
-
-> 
-
-**[Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)** :star2: <br/>
-Yehuda Katz - yehudakatz.com - 2010-07-29
 
 > 
 
 **[Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)**<br/>
 Yann Esposito - yannesposito.com - 2011-08-29
+
+> 
+
+**[Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)**<br/>
+Yehuda Katz - yehudakatz.com - 2010-07-29
 
 > 
 
@@ -724,15 +726,15 @@ Jason Evanish - jasonevanish.com - 2014-01-26
 
 ### Personal: Productivity
 
-**[Pmarca Guide to Personal Productivity](http://pmarchive.com/guide_to_personal_productivity.html)** :star2: <br/>
-Marc Andreessen - pmarchive.com - 2007-06-04
-
-> 
-
 **[How to Become a Productivity Superstar: 7 Tips](http://www.inc.com/john-brandon/how-to-become-a-productivity-superstar-7-tips.html)**<br/>
 John Brandon - inc.com - 2014-07-23
 
 > 1. Do the hardest tasks first. 2. Offer to help the most productive co-workers. 3. Finish what you start. 4. Stop working on something when you reach a dead end. 5. Resist the urge to call for help early. 6. Ignore office chatter. 7. Watch the squirrel moments.
+
+**[Pmarca Guide to Personal Productivity](http://pmarchive.com/guide_to_personal_productivity.html)**<br/>
+Marc Andreessen - pmarchive.com - 2007-06-04
+
+> 
 
 ### Personal: Qualities
 

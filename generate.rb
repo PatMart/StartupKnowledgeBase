@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'csv'
 require 'uri'
 
@@ -66,7 +68,6 @@ end
 def article_to_markdown article, opts={}
   markdown = ''
   markdown += "**[#{article.title}](#{article.url})**"
-  markdown += " :star2: " if opts[:essential]
   markdown += "<br/>\n"
   markdown += "#{article.author || '?'} - #{article.host}"
   markdown += " - #{article.published_date}" if article.published_date
@@ -89,16 +90,8 @@ def category_to_markdown cat, articles, opts={}
   markdown = ''
   markdown += "### #{cat}\n"
   markdown += "\n"
-
-  essential_articles = articles.select{|a| a.essential? }
-  general_articles = articles.select{|a| !a.essential? }
-
-  [[essential_articles,true],[general_articles,false]].each do |arts,essential|
-    if arts.any?
-      arts = arts.sort{|a,b| b.published_at.to_s <=> a.published_at.to_s }
-      markdown += articles_to_markdown arts, essential: essential
-    end
-  end
+  articles = articles.sort{|a,b| b.published_at.to_s <=> a.published_at.to_s }
+  markdown += articles_to_markdown articles
   markdown
 end
 
@@ -173,24 +166,4 @@ articles = Article.process(File.read('articles.csv'))
 File.open("README.md", 'w') do |f|
   f.puts readme articles
 end
-
-=begin
-%w(Business Development Personal).each do |section|
-  section_articles = articles.select{|a| a.category==section }
-  # Generate category README's
-  File.open("#{section.downcase}/README.md", 'w') do |f|
-    f.puts section_to_readme section, section_articles
-  end
-
-  # Generate subcategory README's
-  categories = section_articles.map(&:subcategory).uniq.sort
-  categories.each do |cat|
-    cat_articles = section_articles.select{|a| a.subcategory==cat }
-    norm_cat = normalize_category cat
-    File.open("#{section.downcase}/#{norm_cat}/README.md", 'w') do |f|
-      f.puts category_to_markdown(cat, cat_articles)
-    end
-  end
-end
-=end
 
