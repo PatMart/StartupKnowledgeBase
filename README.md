@@ -21,7 +21,7 @@ A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a bro
     * [Advice & Mentorship](#business-advice--mentorship) (1)
     * [Budgeting & Finances](#business-budgeting--finances) (7)
     * Competition (0)
-    * [Culture & Values](#business-culture--values) (2)
+    * [Culture & Values](#business-culture--values) (1)
     * [Customers](#business-customers) (1)
     * [Early Stage](#business-early-stage) (6)
     * [Entrepreneurship](#business-entrepreneurship) (1)
@@ -55,7 +55,7 @@ A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a bro
     * [Social](#business-social) (1)
     * Stock Market (0)
     * [Team & Roles](#business-team--roles) (8)
-    * [Teamwork & Communication](#business-teamwork--communication) (4)
+    * [Teamwork & Communication](#business-teamwork--communication) (5)
     * [Trends & Spaces](#business-trends--spaces) (1)
     * [Venture Capital](#business-venture-capital) (3)
   * [Development](#development)
@@ -139,6 +139,7 @@ An article will be considered for inclusion if it offers some piece of valuable 
 
 ### Business: Advice & Mentorship
 
+*ADVISORS*<br/>
 **[Should Your Startup Have an Advisory Board?](http://www.bothsidesofthetable.com/2009/10/12/should-your-startup-have-an-advisory-board/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-10-12
 
@@ -190,15 +191,11 @@ Fred Wilson - avc.com - 2011-04-18
 
 ### Business: Culture & Values
 
+*CULTURE*<br/>
 **[Culture Code - Asana](http://www.slideshare.net/asana/culture-code-asana-29674527)**<br/>
 Asana - slideshare.net - 2014-01-03
 
 > Asana is a group of peers on a bold mission: to help humanity thrive by enabling all teams to work together effortlessly. Learn more about Asana's culture: - How shared core values impact decision making and culture, - How we hire extraordinary people, - How we stay healthy & happy in the office, - How we get things done through Episodes, special weeks, hackathons, and using our product.
-
-**[Nonviolent Communication](http://en.wikipedia.org/wiki/Nonviolent_Communication)**<br/>
-Marshall Rosenberg - en.wikipedia.org
-
-> Nonviolent Communication holds that most conflicts between individuals or groups arise from miscommunication about their human needs, due to coercive or manipulative language that aims to induce fear, guilt, shame, etc. These "violent" modes of communication, when used during a conflict, divert the attention of the participants away from clarifying their needs, their feelings, their perceptions, and their requests, thus perpetuating the conflict.
 
 ### Business: Customers
 
@@ -210,11 +207,6 @@ Eric Ries - startuplessonslearned.com
 
 ### Business: Early Stage
 
-**[Corporate Entities](http://www.avc.com/2010/02/corporate-entity/)**<br/>
-Fred Wilson - avc.com - 2010-02-22
-
-> There are many people who run a business and don't incorporate. A good example of this are many of the sellers on Etsy. They make things, sell them, receive the income, and pay the taxes as part of their personal returns. But there are three big reasons you'll want to consider incorporating; liability, taxes, and investment. And the kind of corporate entity you create depends on where you want to come out on all three of those factors.
-
 **[How to Bring a Product to Market / A Very Rare Interview with Sean Ellis - by Babak Nivi](http://venturehacks.com/articles/sean-ellis-interview)**<br/>
 Babak Nivi - venturehacks.com - 2009-12-14
 
@@ -225,21 +217,28 @@ Babak Nivi - venturehacks.com - 2010-01-12
 
 > Here, Sean Ellis explains what you do after fit: optimizing your positioning, implementing a business model, and optimizing your funnel — all so you’re prepared to acquire users quickly and profitably.
 
-**[Most Common Early Start-up Mistakes](http://www.bothsidesofthetable.com/2009/08/17/most-common-early-start-up-mistakes/)**<br/>
-Mark Suster - bothsidesofthetable.com - 2009-08-17
-
-> I often talk with entrepreneurs who are kicking around their next idea.  Sometimes they’re working full time at a company or sometimes they’ve already left their employer and they’re bouncing around ideas with friends.  These periods of time can leave a founder very vulnerable in the future.
-
 **[Product > Strategy > Business Model](http://www.avc.com/a_vc/2013/06/product-strategy-business-model.html)**<br/>
 Fred Wilson - avc.com - 2012-06-02
 
 > Getting product right means finding product market fit. It does not mean launching the product. It means getting to the point where the market accepts your product and wants more of it. That means different things in consumer, saas, infrastructure, hardware, etc, but in every case you must get to product market fit before thinking about anything else. And, I believe, moving to business model before finding product market fit can be the worst thing for your business.
+
+*INCORPORATION*<br/>
+**[Corporate Entities](http://www.avc.com/2010/02/corporate-entity/)**<br/>
+Fred Wilson - avc.com - 2010-02-22
+
+> There are many people who run a business and don't incorporate. A good example of this are many of the sellers on Etsy. They make things, sell them, receive the income, and pay the taxes as part of their personal returns. But there are three big reasons you'll want to consider incorporating; liability, taxes, and investment. And the kind of corporate entity you create depends on where you want to come out on all three of those factors.
 
 *MVP*<br/>
 **[Minimum Viable Product: a guide](http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html)**<br/>
 Eric Ries - startuplessonslearned.com
 
 > 
+
+*MISTAKES*<br/>
+**[Most Common Early Start-up Mistakes](http://www.bothsidesofthetable.com/2009/08/17/most-common-early-start-up-mistakes/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2009-08-17
+
+> I often talk with entrepreneurs who are kicking around their next idea.  Sometimes they’re working full time at a company or sometimes they’ve already left their employer and they’re bouncing around ideas with friends.  These periods of time can leave a founder very vulnerable in the future.
 
 ### Business: Entrepreneurship
 
@@ -257,32 +256,30 @@ Paul Smith - robots.thoughtbot.com - 2014-07-10
 
 ### Business: Founding
 
-**[Dividing Equity Between Founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders/)**<br/>
-Chris Dixon - cdixon.org - 2009-08-23
-
-> I can’t tell you how many companies I’ve seen where a random former founder who was long gone owned some big chunk of the company.
-
-**[First Round Funding Terms and Founder Vesting](http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting/)**<br/>
-Mark Suster - bothsidesofthetable.com - 2009-08-17
-
-> I’m putting millions of dollars in your company.  My thesis is YOU.   I need some protection that you’re not fully or mostly vested where you could simply walk away with a large stake in the company, screwing not just me but the entire employee base of the company.  I’m not Sequoia.  I’m not looking to bring in a new team to replace you.  If you leave my thesis is largely out the door.
-
-**[Founder Vesting](http://cdixon.org/2009/04/21/founder-vesting/)**<br/>
-Chris Dixon - cdixon.org - 2009-04-21
-
-> The most important term in a startup term sheet that no one seems to think carefully about is founder vesting. There are two key points about vesting: 1) All startup employees – including founders! – should vest over 4 years from their start date (with a one year “cliff”). 2) Founders should always have acceleration on change of control!
-
 **[Founders, Ownership and Prenuptials](http://www.bothsidesofthetable.com/2009/08/18/founders-ownership-and-stock-options/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-04-18
 
 > Best case scenario in my mind is just 1, but at most I recommend 2. I knew this topic would be controversial because when I tell people this in person it always elicits shock.   To be clear – it is not about being stingy with or hoarding equity – it is about having a prenuptial agreement.
 
-### Business: Fundraising
+*EQUITY*<br/>
+**[Dividing Equity Between Founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders/)**<br/>
+Chris Dixon - cdixon.org - 2009-08-23
 
+> I can’t tell you how many companies I’ve seen where a random former founder who was long gone owned some big chunk of the company.
+
+*VESTING*<br/>
 **[First Round Funding Terms and Founder Vesting](http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-08-17
 
 > I’m putting millions of dollars in your company.  My thesis is YOU.   I need some protection that you’re not fully or mostly vested where you could simply walk away with a large stake in the company, screwing not just me but the entire employee base of the company.  I’m not Sequoia.  I’m not looking to bring in a new team to replace you.  If you leave my thesis is largely out the door.
+
+*VESTING*<br/>
+**[Founder Vesting](http://cdixon.org/2009/04/21/founder-vesting/)**<br/>
+Chris Dixon - cdixon.org - 2009-04-21
+
+> The most important term in a startup term sheet that no one seems to think carefully about is founder vesting. There are two key points about vesting: 1) All startup employees – including founders! – should vest over 4 years from their start date (with a one year “cliff”). 2) Founders should always have acceleration on change of control!
+
+### Business: Fundraising
 
 **[How to Convince Investors](http://www.paulgraham.com/convince.html)**<br/>
 Paul Graham - paulgraham.com - 2013-08-01
@@ -322,6 +319,12 @@ Tomasz Tunguz - tomtunguz.com - 2013-03-29
 Tomasz Tunguz - tomtunguz.com - 2014-08-01
 
 > The most successful pitches argue the market will unfold inexorably in the way the founders envision on a relevant time scale. And, that this startup in particular will dominate share in that new world. ... There is no prescriptive way I can recommend to consistently argue inevitability. Some founders use data. Others use logic. Still others use emotion and passion to do it. But in the end, these exceptional storytellers make you want to believe, suspend doubt, and disregard the great risks that all startups face all along their journey, and get involved with the business.
+
+*TERMS*<br/>
+**[First Round Funding Terms and Founder Vesting](http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2009-08-17
+
+> I’m putting millions of dollars in your company.  My thesis is YOU.   I need some protection that you’re not fully or mostly vested where you could simply walk away with a large stake in the company, screwing not just me but the entire employee base of the company.  I’m not Sequoia.  I’m not looking to bring in a new team to replace you.  If you leave my thesis is largely out the door.
 
 ### Business: General
 
@@ -381,36 +384,42 @@ First Round Capital - firstround.com - 2014-01-30
 
 > If people don’t have true clarity around what they're doing and how it fits into their organization, they’re bound to duplicate efforts, deflate morale, spend hours on unimportant tasks, and more. To combat this problem, Rosenstein says, leaders need to prioritize clarity in everything they do in this order: Clarity of purpose; clarity of plan; and clarity of responsibility. If you can marry these three qualities, you can achieve organizational fluidity that will get the most out of your resources.
 
-**[Goldilocks Management](https://medium.com/@moskov/goldilocks-management-c01c6846e06e)**<br/>
-Dustin Moskovitz - medium.com - 2013-09-17
-
-> The limits of a completely flat approach, as conceded by Valve, reveal the mental trap that is causing startups to reject management. With the reference to the military at the beginning, Valve makes it clear that they see management solely through the lens of command and control hierarchies: it’s there to establish bureaucracy in the name of consistency and order. This can be true, but need not be, and definitely should not be the only role that management plays. Instead, I think the most important value of a manager is to serve their reports: to unblock them, mentor them, and keep them pointed in a direction that best serves their needs and the priorities of the organization.
-
-**[How Amazon achieves excellence at scale](http://www.crashdev.com/2013/03/how-amazon-achieves-excellence-at-scale.html)**<br/>
-Chris DeVore - crashdev.com - 2013-03-04
-
-> 1. Customer Obsession, 2. Ownership, 3. Invent and Simplify, 4. Are Right, A Lot, 5. Hire and Develop the Best, 6. Insist on the Highest Standards, 7. Think Big, 8. Bias for Action, 9. Frugality, 10. Vocally Self Critical, 11. Earn Trust of Others, 12. Dive Deep, 13. Have Backbone; Disagree and Commit, 14. Deliver Results
-
 **[LinkedIn Speaker Series: Jeff Weiner, Reid Hoffman and Ben Casnocha](https://www.youtube.com/watch?v=kQJf7W88HDs)**<br/>
 Jeff Weiner, Reid Hoffman, Ben Casnocha - youtube.com - 2014-06-30
 
 > LinkedIn's co-founder/chairman, Reid Hoffman, has written a new book with Ben Casnocha and Chris Yeh: The Alliance: Managing Talent in the Networked Age.
 
+*LEADERSHIP*<br/>
+**[How Amazon achieves excellence at scale](http://www.crashdev.com/2013/03/how-amazon-achieves-excellence-at-scale.html)**<br/>
+Chris DeVore - crashdev.com - 2013-03-04
+
+> 1. Customer Obsession, 2. Ownership, 3. Invent and Simplify, 4. Are Right, A Lot, 5. Hire and Develop the Best, 6. Insist on the Highest Standards, 7. Think Big, 8. Bias for Action, 9. Frugality, 10. Vocally Self Critical, 11. Earn Trust of Others, 12. Dive Deep, 13. Have Backbone; Disagree and Commit, 14. Deliver Results
+
+*LEADERSHIP*<br/>
 **[Notes on Leadership: Be Like Steve Jobs, ... And Bill Campbell, And Andy Grove](http://techcrunch.com/2010/03/14/notes-on-leadership-jobs-grove-campbel/)**<br/>
 Ben Horowitz - techcrunch.com - 2010-03-14
 
 > So what makes people want to follow a leader? We look for 3 key traits: The ability to articulate the vision, The right kind of ambition, The ability to achieve the vision
 
+*MANAGEMENT*<br/>
+**[Goldilocks Management](https://medium.com/@moskov/goldilocks-management-c01c6846e06e)**<br/>
+Dustin Moskovitz - medium.com - 2013-09-17
+
+> The limits of a completely flat approach, as conceded by Valve, reveal the mental trap that is causing startups to reject management. With the reference to the military at the beginning, Valve makes it clear that they see management solely through the lens of command and control hierarchies: it’s there to establish bureaucracy in the name of consistency and order. This can be true, but need not be, and definitely should not be the only role that management plays. Instead, I think the most important value of a manager is to serve their reports: to unblock them, mentor them, and keep them pointed in a direction that best serves their needs and the priorities of the organization.
+
+*MANAGEMENT*<br/>
 **[The Management Team - While Building Product](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-product.html)**<br/>
 Fred Wilson - avc.com - 2012-01-02
 
 > Building product is not about having a large team to manage. It is about having a small team with the right people on it. You need product, design, and software engineering skills on the team. And you need to be focused, committed, and driven. Management at this point is all about small team dynamics; everyone on board, working together, and getting stuff done. Strong individual contributors are key in this stage. Management skills are not a requirement. In fact they may even be a hindrance.
 
+*MANAGEMENT*<br/>
 **[The Management Team - While Building The Business](http://www.avc.com/2012/01/the-management-team-while-building-the-business/)**<br/>
 Fred Wilson - avc.com - 2012-01-16
 
 > Many founders are naturally talented at building product and building the user base. But building the company comes harder to them. I once discussed this with Roelof Bothaand he made a fantastic suggestion. Founders should think of the business as yet another product they are building. It is the ultimate product they are building because from the company can come any number of additional products and any number of additional initiatives. The company, if built correctly, will be more important than any single product it can create. 
 
+*MANAGEMENT*<br/>
 **[The Management Team - While Building Usage](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-usage.html)**<br/>
 Fred Wilson - avc.com - 2012-01-09
 
@@ -430,35 +439,39 @@ Eric Ries - startuplessonslearned.com
 
 ### Business: Legal & Incorporation
 
-**[Corporate Entities](http://www.avc.com/2010/02/corporate-entity/)**<br/>
-Fred Wilson - avc.com - 2010-02-22
-
-> There are many people who run a business and don't incorporate. A good example of this are many of the sellers on Etsy. They make things, sell them, receive the income, and pay the taxes as part of their personal returns. But there are three big reasons you'll want to consider incorporating; liability, taxes, and investment. And the kind of corporate entity you create depends on where you want to come out on all three of those factors.
-
 **[Entrepreneurs Need to Learn Some Law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law/)**<br/>
 Chris Dixon - cdixon.org - 2009-09-13
 
 > Entrepreneurs, especially first timers, should have lawyers review everything they sign. But I stand behind my main point:  you can’t outsource the understanding of key financing and other legal documents to lawyers.
 
-**[How to Work with Lawyers at a Startup](http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/)**<br/>
-Mark Suster - bothsidesofthetable.com - 2010-01-21
+**[Reading Your Legal Docs](http://venturehacks.com/articles/legal-docs)**<br/>
+Babak Nivi - venturehacks.com - 2011-06-16
 
-> I know that people have an allergy to lawyers out of fear of being screwed.  Much of this is unfounded – some is not.  If you’re a startup and you don’t have a close relationship with a few law firms you’re really missing one of the most important relationships that any entrepreneur can have. This all got me thinking about a post on how to best work with lawyers.  This is stuff I tell people verbally at least twice / month so I’m glad to finally get it into written format.
+> Some docs are too long and boilerplate to read, so this is how I read financing docs: 1- Read and understand everything in the term sheet. 2- Get a good lawyer because you probably don’t have one. 3- You probably can’t tell the difference between good legal advice and bad legal advice.
 
-**[Lawyers Are Referees, Not Coaches](http://venturehacks.com/articles/referees)**<br/>
-Babak Nivi - venturehacks.com - 2008-06-12
+*INCORPORATION*<br/>
+**[Corporate Entities](http://www.avc.com/2010/02/corporate-entity/)**<br/>
+Fred Wilson - avc.com - 2010-02-22
 
-> Lawyers teach you the rules of the game. But they usually can’t teach you how to play it. Lawyers say whether you can do something, within the confines of the law and your existing contracts. Lawyers will also write the contracts and do the filings. But they usually can’t tell you what to do—that’s what coaches do. A lawyer knows that you’re not breaking any laws or contracts if you give a common board seat to a new CEO. He also knows how to write the contract. But an advisor knows the possible outcomes of that decision.
+> There are many people who run a business and don't incorporate. A good example of this are many of the sellers on Etsy. They make things, sell them, receive the income, and pay the taxes as part of their personal returns. But there are three big reasons you'll want to consider incorporating; liability, taxes, and investment. And the kind of corporate entity you create depends on where you want to come out on all three of those factors.
 
+*INCORPORATION*<br/>
 **[Piercing The Corporate Veil](http://www.avc.com/a_vc/2010/03/piercing-the-corporate-veil.html)**<br/>
 Fred Wilson - avc.com - 2010-03-01
 
 > Forming a company is the best way to "putting a buffer between you and the business." But you can't just pretend to be a business, you have to be a business. "Being a business" means separating your personal and business records, separating your personal and business bank accounts, treating the business as a real entity, having board meetings, taking board minutes, doing major activities via board resolutions, following "due process." If you don't behave as a real business, you could find yourself in a situation where someone, most commonly someone who is suing your business, can come after you (and your business partners) personally. And then you are going to say "but what about the liability limitation the business provides?" It may not be there for you.
 
-**[Reading Your Legal Docs](http://venturehacks.com/articles/legal-docs)**<br/>
-Babak Nivi - venturehacks.com - 2011-06-16
+*LAWYERS*<br/>
+**[How to Work with Lawyers at a Startup](http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2010-01-21
 
-> Some docs are too long and boilerplate to read, so this is how I read financing docs: 1- Read and understand everything in the term sheet. 2- Get a good lawyer because you probably don’t have one. 3- You probably can’t tell the difference between good legal advice and bad legal advice.
+> I know that people have an allergy to lawyers out of fear of being screwed.  Much of this is unfounded – some is not.  If you’re a startup and you don’t have a close relationship with a few law firms you’re really missing one of the most important relationships that any entrepreneur can have. This all got me thinking about a post on how to best work with lawyers.  This is stuff I tell people verbally at least twice / month so I’m glad to finally get it into written format.
+
+*LAWYERS*<br/>
+**[Lawyers Are Referees, Not Coaches](http://venturehacks.com/articles/referees)**<br/>
+Babak Nivi - venturehacks.com - 2008-06-12
+
+> Lawyers teach you the rules of the game. But they usually can’t teach you how to play it. Lawyers say whether you can do something, within the confines of the law and your existing contracts. Lawyers will also write the contracts and do the filings. But they usually can’t tell you what to do—that’s what coaches do. A lawyer knows that you’re not breaking any laws or contracts if you give a common board seat to a new CEO. He also knows how to write the contract. But an advisor knows the possible outcomes of that decision.
 
 ### Business: Lessons Learned
 
@@ -469,15 +482,16 @@ Gordon Wintrob - buildingof.com
 
 ### Business: Market & Research
 
-**[How to Miss By a Mile: An Alternative Look at Uber’s Potential Market Size](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/)**<br/>
-Bill Gurley - abovethecrowd.com - 2014-07-11
-
-> So here is the objective of this post. It is not my aim to specifically convince anyone that Uber is worth any specific valuation. What Professor Damodaran thinks, or what anyone who is not a buyer or seller of stocks thinks, is fairly immaterial. I am also not out to prove him wrong. I am much more interested in the subject of critical reasoning and predictions, and how certain assumptions can lead to gravely different outcomes. As such, my goal is to offer a plausible argument that the core assumptions used in Damodaran’s analysis may be off by a factor of 25 times, perhaps even more. And I hope the analysis is judged on whether the arguments I make are reasonable and feasible.
-
 **[Sunny Whether: Two Types of Forecasting Models for Running Your Startup](http://hunterwalk.com/2014/07/22/sunny-whether-two-types-of-forecasting-models-for-running-your-startup/)**<br/>
 Hunter Walk - hunterwalk.com - 2014-07-22
 
 > Well, if you’re pre-product/market fit, over-optimizing for 'hitting your numbers' can be a false positive if it creates an 'up and to the right' graph that actually builds upon the wrong learnings, or masks leaky bucket of customer attrition.
+
+*MARKET SIZING*<br/>
+**[How to Miss By a Mile: An Alternative Look at Uber’s Potential Market Size](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/)**<br/>
+Bill Gurley - abovethecrowd.com - 2014-07-11
+
+> So here is the objective of this post. It is not my aim to specifically convince anyone that Uber is worth any specific valuation. What Professor Damodaran thinks, or what anyone who is not a buyer or seller of stocks thinks, is fairly immaterial. I am also not out to prove him wrong. I am much more interested in the subject of critical reasoning and predictions, and how certain assumptions can lead to gravely different outcomes. As such, my goal is to offer a plausible argument that the core assumptions used in Damodaran’s analysis may be off by a factor of 25 times, perhaps even more. And I hope the analysis is judged on whether the arguments I make are reasonable and feasible.
 
 *MARKET SIZING*<br/>
 **[The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing/)**<br/>
@@ -524,21 +538,25 @@ Tomasz Tunguz - tomtunguz.com - 2014-01-15
 
 ### Business: Mistakes & Failure
 
+*FAILURE*<br/>
 **[76 Startup Failure Post-Mortems](http://www.cbinsights.com/blog/startup-failure-post-mortem)**<br/>
 CB Insights - cbinsights.com - 2014-01-20
 
 > [B]elow is a compilation of 51 startup post-mortems that describe the factors that drove a startup’s demise.  Most of the failures have been told by the company’s founders, but in a few cases, we did find a couple from investors including Roger Ehrenberg (now of IA Ventures) and Bruce Booth (Atlas Venture).
 
+*MISTAKES*<br/>
 **[Beware the ‘Edifice Complex’ ― and 9 Other Ways to Damage a High-Growth Startup](http://a16z.com/2014/07/08/beware-the-edifice-complex-and-9-other-ways-to-damage-your-high-growth-startup/)**<br/>
 Marc Andreessen - a16z.com - 2014-07-08
 
 > Here are 10 ways to damage your fast-growing tech startup– and hurt the perception of Silicon Valley in the process. None of these are specific to any one company; they’re general patterns we’ve observed across multiple cycles of tech startups.
 
+*MISTAKES*<br/>
 **[Most Common Early Start-up Mistakes](http://www.bothsidesofthetable.com/2009/08/17/most-common-early-start-up-mistakes/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-08-17
 
 > I often talk with entrepreneurs who are kicking around their next idea.  Sometimes they’re working full time at a company or sometimes they’ve already left their employer and they’re bouncing around ideas with friends.  These periods of time can leave a founder very vulnerable in the future.
 
+*MISTAKES*<br/>
 **[The 18 Mistakes That Kill Startups](http://www.paulgraham.com/startupmistakes.html)**<br/>
 Paul Graham - paulgraham.com - 2006-10-01
 
@@ -553,55 +571,64 @@ Fred Wilson - avc.com - 2013-02-11
 
 ### Business: Models & Pricing
 
+**[Product > Strategy > Business Model](http://www.avc.com/a_vc/2013/06/product-strategy-business-model.html)**<br/>
+Fred Wilson - avc.com - 2012-06-02
+
+> Getting product right means finding product market fit. It does not mean launching the product. It means getting to the point where the market accepts your product and wants more of it. That means different things in consumer, saas, infrastructure, hardware, etc, but in every case you must get to product market fit before thinking about anything else. And, I believe, moving to business model before finding product market fit can be the worst thing for your business.
+
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Advertising](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-advertising.html)**<br/>
 Fred Wilson - avc.com - 2012-12-10
 
 > I would break up advertising into two big buckets; ads that are sold and ads that are bought. The first is a relationship business, requires a direct salesforce or a salesforce that you can tap into, and will bring a higher revenue per impression in most cases. The latter is a data business, automated by machines and software, is a volume game and will bring a lower revenue per impression in most cases. Much of the online advertising market is moving inexorably toward the latter category, for good and bad.
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Commerce](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-commerce.html)**<br/>
 Fred Wilson - avc.com - 2012-12-17
 
 > Commerce represents the largest and most common online revenue model. But it is not an easy one to execute profitably. It lends itself to commoditization and margin compression in most cases and the economies go to scale players like Amazon, eBay, and Walmart.
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Data](http://www.avc.com/2013/02/mba-mondays-revenue-models-data/)**<br/>
 Fred Wilson - avc.com - 2013-02-04
 
 > The Internet is a data generating machine. According to Eric Schmidt, every two days now we create as much information as we did from the dawn of civilization up until  2003. It's also incredibly good at presenting that data, both to humans and machines. So it makes sense that collecting and publishing data is one of the primary business models on the Internet.
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Gaming](http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-gaming.html)**<br/>
 Fred Wilson - avc.com - 2013-02-18
 
 > Gaming isn't a revenue model itself, but it does offer a number of interesting revenue models and is worth discussing in a post in this series.
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Licensing](http://www.avc.com/2013/01/mba-mondays-revenue-models-licensing/)**<br/>
 Fred Wilson - avc.com - 2013-01-28
 
 > Licensing, according to wikipedia, is an authorization (by the licensor) to use the licensed material (by the licensee). Of all the business models listed on the revenue model hackpad, licensing is the least net native business model. There is very little about the internet that makes licensing work better and there is a lot that makes it work worse. 
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Mobile](http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-mobile.html)**<br/>
 Fred Wilson - avc.com - 2013-02-11
 
 > As attractive as selling apps and running ads on them is, I believe the biggest and most attractive model in mobile is the transaction. Slowly but surely, our phone is becoming our wallet. And I don't mean wallet in the way that Google and PayPal think. I don't think we will necessarily have a mobile wallet. I think the apps on the phones will just have native transaction capability in them.
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Peer to Peer](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-peer-to-peer.html)**<br/>
 Fred Wilson - avc.com - 2013-01-14
 
 > If there is one thing I have learned investing in Internet businesses over the years it is to pay attention to things you can't do without the Internet. And that describes peer to peer pretty well. Like the Internet, a peer network empowers the edges and devalues the middle. I like peer networks very much.
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Subscriptions](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-subscriptions.html)**<br/>
 Fred Wilson - avc.com - 2013-01-07
 
 > Today, most software is sold in a subscription model. You pay a monthly fee for the right to use the software. If you stop paying the monthly fee, your right to use the software goes away. Maintenance and support is bundled in. The emergence of the subscription model has made the software business better. In the old upfront license fee model, software companies would trade at 2-4x revenues. Now they trade at 6-8x revenues. That reflects the recurring, almost annuity nature of the subscription model.
 
+*MODELS*<br/>
 **[MBA Mondays: Revenue Models - Transaction Processing](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-transaction-processing.html)**<br/>
 Fred Wilson - avc.com - 2013-01-21
 
 > The thing that all of these forms of transaction processing have in common is the processor handles a transaction that was generated by another product or service and provides some form of completion service and charges a fee for doing so. That could be processing a credit card transaction, handling a banking transaction, shipping something to someone, completing a call originated on another network, or distributing a third party app on an internet or mobile platform.
-
-**[Product > Strategy > Business Model](http://www.avc.com/a_vc/2013/06/product-strategy-business-model.html)**<br/>
-Fred Wilson - avc.com - 2012-06-02
-
-> Getting product right means finding product market fit. It does not mean launching the product. It means getting to the point where the market accepts your product and wants more of it. That means different things in consumer, saas, infrastructure, hardware, etc, but in every case you must get to product market fit before thinking about anything else. And, I believe, moving to business model before finding product market fit can be the worst thing for your business.
 
 ### Business: Pivoting & Change
 
@@ -610,11 +637,13 @@ Fred Wilson - avc.com - 2013-04-08
 
 > When something goes badly in your company, for many the initial instinct is to keep things under wraps as much as possible to avoid freaking everyone out. I would argue that it is better to acknowledge the crisis and use it to your advantage. Change is hard to bring to an organization and a time of crisis is often a perfect time to make some changes that you have wanted to make for a while. It creates a perfect backdrop and context for doing that.
 
+*PIVOT*<br/>
 **[Pivot, don't jump to a new vision](http://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html)**<br/>
 Eric Ries - startuplessonslearned.com
 
 > 
 
+*PIVOT*<br/>
 **[Pivoting](http://cdixon.org/2010/06/15/pivoting/)**<br/>
 Chris Dixon - cdixon.org - 2010-06-14
 
@@ -634,21 +663,25 @@ Chris Dixon - cdixon.org - 2013-08-04
 
 ### Business: Problems & Problem Solving
 
+*CRISES*<br/>
 **[Don't Let A Good Crisis Go To Waste](http://www.avc.com/a_vc/2013/04/dont-let-a-good-crisis-go-to-waste.html)**<br/>
 Fred Wilson - avc.com - 2013-04-08
 
 > When something goes badly in your company, for many the initial instinct is to keep things under wraps as much as possible to avoid freaking everyone out. I would argue that it is better to acknowledge the crisis and use it to your advantage. Change is hard to bring to an organization and a time of crisis is often a perfect time to make some changes that you have wanted to make for a while. It creates a perfect backdrop and context for doing that.
 
+*PROBLEM SOLVING*<br/>
 **[Five Whys, Part 1: The Startup Immune System](http://venturehacks.com/articles/five-whys)**<br/>
 Babak Nivi - venturehacks.com - 2008-11-04
 
 > Whenever you find a defect, ask why five times to discover the root cause of the problem. Then make corrections at every level of the analysis. By applying five whys whenever you find a defect, you will (1) uncover the human problems beneath technical problems and (2) build an immune system for your startup.
 
+*PROBLEM SOLVING*<br/>
 **[Five Whys, Part 2: How to Get Started](http://venturehacks.com/articles/five-whys-2)**<br/>
 Babak Nivi - venturehacks.com - 2008-11-17
 
 > Get started with five whys by applying it to a specific team with a specific problem. Select a five whys master to conduct a post mortem with everyone who was involved in the problem. Email the results of the analysis to the whole company. Repeatedly applying five whys at IMVU created a startup immune system that let our developers go faster by reducing mistakes.
 
+*PROBLEM SOLVING*<br/>
 **[Five Whys, Part 3: Legacy Startups](http://venturehacks.com/articles/five-whys-3)**<br/>
 Babak Nivi - venturehacks.com - 2008-11-19
 
@@ -715,15 +748,16 @@ Justin Rosenstein - linkedin.com - 2013-09-30
 
 > 1. Get to know the whole person, 2. Communicate your company’s values, 3. Meet people now who you might want to hire later, 4. The best people want to work with the best people
 
-**[Say hello to the talent hacker](https://medium.com/makeshift-studios/say-hello-to-the-talent-hacker-c8ae87db4a58)**<br/>
-Nick Marsh - medium.com - 2014-06-20
-
-> I want to introduce a new concept — ‘talent hacking’. I define this as the creative application of technology and data to the problem of building new teams.
-
 **[Whom Should you Hire at a Startup?](http://www.bothsidesofthetable.com/2009/10/22/who-should-you-hire-at-a-startup/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-10-22
 
 > I believe that you should always hire people are are looking to “punch above their weight class,” which means to hire people who want to be one league above where they are today.
+
+*TALENT HACKING*<br/>
+**[Say hello to the talent hacker](https://medium.com/makeshift-studios/say-hello-to-the-talent-hacker-c8ae87db4a58)**<br/>
+Nick Marsh - medium.com - 2014-06-20
+
+> I want to introduce a new concept — ‘talent hacking’. I define this as the creative application of technology and data to the problem of building new teams.
 
 ### Business: SEO
 
@@ -768,45 +802,53 @@ Tomasz Tunguz - tomtunguz.com - 2013-03-18
 
 ### Business: Team & Roles
 
+*EXECUTIVE*<br/>
 **[Being A Great CEO](http://www.feld.com/wp/archives/2013/08/being-a-great-ceo.html)**<br/>
 Brad Feld - feld.com - 2013-08-16
 
 > My experience with all of this is that it’s incredibly hard, breaks regularly at different points in the life of a company, and requires a great CEO to continually grow and learn from mistakes, adjust course based on new information, and work diligently at being honest with himself, his team, and his board about what is going on. But, if you get it right, it’s magical.
 
-**[The Management Team - While Building Product](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-product.html)**<br/>
-Fred Wilson - avc.com - 2012-01-02
-
-> Building product is not about having a large team to manage. It is about having a small team with the right people on it. You need product, design, and software engineering skills on the team. And you need to be focused, committed, and driven. Management at this point is all about small team dynamics; everyone on board, working together, and getting stuff done. Strong individual contributors are key in this stage. Management skills are not a requirement. In fact they may even be a hindrance.
-
-**[The Management Team - While Building The Business](http://www.avc.com/2012/01/the-management-team-while-building-the-business/)**<br/>
-Fred Wilson - avc.com - 2012-01-16
-
-> Many founders are naturally talented at building product and building the user base. But building the company comes harder to them. I once discussed this with Roelof Bothaand he made a fantastic suggestion. Founders should think of the business as yet another product they are building. It is the ultimate product they are building because from the company can come any number of additional products and any number of additional initiatives. The company, if built correctly, will be more important than any single product it can create. 
-
-**[The Management Team - While Building Usage](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-usage.html)**<br/>
-Fred Wilson - avc.com - 2012-01-09
-
-> So you've built and launched your product. It is well received. You've acheived "product market fit" and it is time to get more users or customers. You've graduated from the "building product" stage and have entered the "building usage" phase. What does this mean for your team?
-
-**[VP Engineering vs CTO](http://www.avc.com/a_vc/2011/10/vp-engineering-vs-cto.html)**<br/>
-Fred Wilson - avc.com - 2011-10-31
-
-> When a company has a strong CTO and a strong VP Engineering that trust, respect, and like each other, you have a winning formula. The CTO makes sure the technical approach is correct and the VP Engineering makes sure the team is correct. They are yin and yang.
-
-**[VP Finance vs CFO](http://www.avc.com/a_vc/2011/10/vp-finance-vs-cfo.html)**<br/>
-Fred Wilson - avc.com - 2011-10-24
-
-> I generally encourage companies to wait as long as possible to bring on a CFO. Great CFOs are few and far between. And in order to recruit one of them, you will need an interesting business and a meaty role. VP Finance talent is in larger supply and they can take you very far. Get a VP Finance onboard as soon as you can afford one. They will let you sleep at night. Get a CFO on board when you are ready to take on the world. You can't do that without a strong one at your side.
-
+*EXECUTIVE*<br/>
 **[What A CEO Does](http://www.avc.com/a_vc/2010/08/what-a-ceo-does.html)**<br/>
 Fred Wilson - avc.com - 2010-08-30
 
 > A CEO does only three things. Sets the overall vision and strategy of the company and communicates it to all stakeholders. Recruits, hires, and retains the very best talent for the company. Makes sure there is always enough cash in the bank.
 
+*FINANCE*<br/>
+**[VP Finance vs CFO](http://www.avc.com/a_vc/2011/10/vp-finance-vs-cfo.html)**<br/>
+Fred Wilson - avc.com - 2011-10-24
+
+> I generally encourage companies to wait as long as possible to bring on a CFO. Great CFOs are few and far between. And in order to recruit one of them, you will need an interesting business and a meaty role. VP Finance talent is in larger supply and they can take you very far. Get a VP Finance onboard as soon as you can afford one. They will let you sleep at night. Get a CFO on board when you are ready to take on the world. You can't do that without a strong one at your side.
+
+*MANAGEMENT*<br/>
+**[The Management Team - While Building Product](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-product.html)**<br/>
+Fred Wilson - avc.com - 2012-01-02
+
+> Building product is not about having a large team to manage. It is about having a small team with the right people on it. You need product, design, and software engineering skills on the team. And you need to be focused, committed, and driven. Management at this point is all about small team dynamics; everyone on board, working together, and getting stuff done. Strong individual contributors are key in this stage. Management skills are not a requirement. In fact they may even be a hindrance.
+
+*MANAGEMENT*<br/>
+**[The Management Team - While Building The Business](http://www.avc.com/2012/01/the-management-team-while-building-the-business/)**<br/>
+Fred Wilson - avc.com - 2012-01-16
+
+> Many founders are naturally talented at building product and building the user base. But building the company comes harder to them. I once discussed this with Roelof Bothaand he made a fantastic suggestion. Founders should think of the business as yet another product they are building. It is the ultimate product they are building because from the company can come any number of additional products and any number of additional initiatives. The company, if built correctly, will be more important than any single product it can create. 
+
+*MANAGEMENT*<br/>
+**[The Management Team - While Building Usage](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-usage.html)**<br/>
+Fred Wilson - avc.com - 2012-01-09
+
+> So you've built and launched your product. It is well received. You've acheived "product market fit" and it is time to get more users or customers. You've graduated from the "building product" stage and have entered the "building usage" phase. What does this mean for your team?
+
+*MANAGEMENT*<br/>
 **[What A Management Team Does](http://www.avc.com/a_vc/2011/02/what-a-management-team-does.html)**<br/>
 Fred Wilson - avc.com - 2011-02-09
 
 > The best management teams create cultures that people enjoy working in. And from that comes great things. I see that every day.
+
+*TECHNOLOGY*<br/>
+**[VP Engineering vs CTO](http://www.avc.com/a_vc/2011/10/vp-engineering-vs-cto.html)**<br/>
+Fred Wilson - avc.com - 2011-10-31
+
+> When a company has a strong CTO and a strong VP Engineering that trust, respect, and like each other, you have a winning formula. The CTO makes sure the technical approach is correct and the VP Engineering makes sure the team is correct. They are yin and yang.
 
 ### Business: Teamwork & Communication
 
@@ -825,10 +867,17 @@ Babak Nivi - venturehacks.com - 2013-02-11
 
 > AngelList “corporate policy” is that team members should ask forgiveness, not permission. We would rather have someone do something wrong than ask permission to do it. Or better, we would rather have someone do something right and not need permission to do it. This is the most common outcome. We would rather have people ship to production whenever they want, than go through an internal review process. We can fix it on production. We prefer the customer’s review process. And it isn’t too hard to reveal a new feature to a small portion of our users and iterate on it as we expand it to more users.
 
+*COMMUNICATION*<br/>
 **[No Email at AngelList](http://venturehacks.com/articles/no-email-at-angellist)**<br/>
 Babak Nivi - venturehacks.com - 2013-03-22
 
 > We use very little email at AngelList. Most of our communication happens on Yammer, HipChat, Tracker and face-to-face. This probably gets us a 90% reduction in email. If you’re running your company via email, you’re missing out on newer, more effective communications technologies.
+
+*COMMUNICATION*<br/>
+**[Nonviolent Communication](http://en.wikipedia.org/wiki/Nonviolent_Communication)**<br/>
+Marshall Rosenberg - en.wikipedia.org
+
+> Nonviolent Communication holds that most conflicts between individuals or groups arise from miscommunication about their human needs, due to coercive or manipulative language that aims to induce fear, guilt, shame, etc. These "violent" modes of communication, when used during a conflict, divert the attention of the participants away from clarifying their needs, their feelings, their perceptions, and their requests, thus perpetuating the conflict.
 
 ### Business: Trends & Spaces
 
@@ -849,6 +898,7 @@ Mark Suster - medium.com - 2014-07-23
 
 > Cheap, mobile, social, global, always-on, one-click-purchase = Unprecedented revenue growth + companies staying private longer = More opportunities than ever in history for venture capital firms = Lots of new, non-traditional entrants moving to capture this value = Amazing opportunities + Risks + Uncertainties for the coming decade for entrepreneurs, VCs and LPs.
 
+*PRO RATA*<br/>
 **[The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity/)**<br/>
 Fred Wilson - avc.com - 2014-07-24
 
@@ -863,25 +913,29 @@ Adam Wiggins - 12factor.net - 2012-01-30
 
 ### Development: CI & Deployment
 
-**[Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly](http://www.thoughtworks.com/continuous-integration)**<br/>
-Martin Fowler - thoughtworks.com
-
-> Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
-
+*AUTOMATION*<br/>
 **[Emergent Properties of Continual Automation](http://timothyfitz.com/2009/02/13/continual-automation/)**<br/>
 Timothy Fitz - timothyfitz.com - 2009-02-13
 
 > Once a task has been automated to take dramatically less time, a threshold is crossed and at which point you can exploit emergent properties. Or in other words, crazy-ass improvements.
 
-**[Flipping Out](http://code.flickr.net/2009/12/02/flipping-out/)**<br/>
-Ross Harmes - code.flickr.net - 2009-12-02
+*CI*<br/>
+**[Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly](http://www.thoughtworks.com/continuous-integration)**<br/>
+Martin Fowler - thoughtworks.com
 
-> Flickr is somewhat unique in that it uses a code repository with no branches; everything is checked into head, and head is pushed to production several times a day. This works well for bug fixes that we want to go out immediately, but presents a problem when we’re working on a new feature that takes several months to complete. How do we solve that problem? With flags and flippers!
+> Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
+*CI*<br/>
 **[The Future Workplace Is Now: How Etsy Makes 30 Innovations Per Day - Forbes](http://www.forbes.com/sites/stevedenning/2014/04/04/at-etsy-the-future-workplace-is-now-thirty-innovations-per-day/)**<br/>
 Steve Denning - forbes.com - 2014-04-04
 
 > With an average of 30 innovations to the website deployed each day, we are looking at innovation on steroids. Each of the changes is small, but a small change can be significant, sometimes adding millions of dollars in sales. Doing all this change in tiny increments at warp speed within the framework of a central strategy enables extremely rapid innovation and learning, as well as much greater facility in spotting and fixing any problems that may emerge.
+
+*FLAGS/FLIPPERS*<br/>
+**[Flipping Out](http://code.flickr.net/2009/12/02/flipping-out/)**<br/>
+Ross Harmes - code.flickr.net - 2009-12-02
+
+> Flickr is somewhat unique in that it uses a code repository with no branches; everything is checked into head, and head is pushed to production several times a day. This works well for bug fixes that we want to go out immediately, but presents a problem when we’re working on a new feature that takes several months to complete. How do we solve that problem? With flags and flippers!
 
 ### Development: CSS
 
@@ -899,18 +953,21 @@ David Heinemeier Hansson - signalvnoise.com - 2012-02-19
 
 ### Development: Data
 
-**[Fast and Flexible Monitoring with StatsD, Graphite and Librato](http://red-badger.com/blog/2013/11/04/fast-and-flexible-monitoring-with-statsd-graphite-and-librato/)**<br/>
-Joe Stanton - red-badger.com - 2013-11-04
-
-> Everyone knows you need data to make decisions. If you’re developing software of any sort, quick access to metrics can enable you to answer important questions like this: Is your app working? If not, which piece of your infrastructure specifically broke? Which areas need performance optimization? Do you need to scale? What was the impact of your recent code deployment? Do your users care? At development time, we can get all of the data we need, we use it for debugging, performance optimization etc. but what good is data if it’s not real-world? Things that should be true in 2013: Pushing your app to production shouldn’t mean a loss of insight. We should be able to measure everything, at all layers of the stack. We should get infrastructure and application monitoring by default. We should be able to visualise that data quickly and easily, so we can use it to solve problems and make informed decisions.
-
+*MIGRATION*<br/>
 **[Zero downtime database migrations by @jipiboily](https://blog.rainforestqa.com/2014-06-27-zero-downtime-database-migrations/)**<br/>
 Jean-Philippe Boily - blog.rainforestqa.com - 2014-06-27
 
 > All developers will at some time or other have to deploy code that changes the structure of a database. You might have downtime during these deploys due to database changes being required by the new code that you just deployed. There are easy ways to work around those downtimes and provide you a real zero downtime deployment process.
 
+*MONITORING*<br/>
+**[Fast and Flexible Monitoring with StatsD, Graphite and Librato](http://red-badger.com/blog/2013/11/04/fast-and-flexible-monitoring-with-statsd-graphite-and-librato/)**<br/>
+Joe Stanton - red-badger.com - 2013-11-04
+
+> Everyone knows you need data to make decisions. If you’re developing software of any sort, quick access to metrics can enable you to answer important questions like this: Is your app working? If not, which piece of your infrastructure specifically broke? Which areas need performance optimization? Do you need to scale? What was the impact of your recent code deployment? Do your users care? At development time, we can get all of the data we need, we use it for debugging, performance optimization etc. but what good is data if it’s not real-world? Things that should be true in 2013: Pushing your app to production shouldn’t mean a loss of insight. We should be able to measure everything, at all layers of the stack. We should get infrastructure and application monitoring by default. We should be able to visualise that data quickly and easily, so we can use it to solve problems and make informed decisions.
+
 ### Development: Design Patterns
 
+*REST*<br/>
 **[When REST Gets Messy](https://zapier.com/engineering/when-rest-gets-messy/)**<br/>
 Brian Cooksey - zapier.com - 2014-07-10
 
@@ -918,11 +975,13 @@ Brian Cooksey - zapier.com - 2014-07-10
 
 ### Development: Experiments
 
+*A/B TEST*<br/>
 **[20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132)**<br/>
 Steve Hanov - stevehanov.ca - 2012-07-06
 
 > This 20 lines of code automatically finds the best choice quickly, and then uses it until it stops being the best choice.
 
+*A/B TEST*<br/>
 **[How Not To Run An A/B Test](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)**<br/>
 Evan Miller - evanmiller.org - 2010-04-18
 
@@ -956,11 +1015,13 @@ O'Reilly - youtube.com - 2009-06-25
 
 ### Development: Process & Methodology
 
+*AGILE*<br/>
 **[Agile Is Dead (Long Live Agility)](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)**<br/>
 Dave Thomas - pragdave.me - 2014-03-04
 
 > 
 
+*KANBAN*<br/>
 **[So Long Scrum, Hello Kanban - Stormpath User Management API](https://stormpath.com/blog/so-long-scrum-hello-kanban/)**<br/>
 Alex Salazar - stormpath.com - 2014-01-20
 
@@ -975,11 +1036,13 @@ Arshad Hossain - novicearshad.wordpress.com - 2012-01-24
 
 ### Development: Ruby & Rails
 
+*RAILS*<br/>
 **[Diving in Rails - The request handling](http://blog.siami.fr/diving-in-rails-the-request-handling)**<br/>
 Adrien Siami - blog.siami.fr - 2014-07-10
 
 > Today I’ll speak about how Rails handles requests, its relation to rack and more globally what is happening when you submit a request to a HTTP server backed by a Rails application.
 
+*RUBY*<br/>
 **[Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)**<br/>
 Why the Lucky Stiff - mislav.uniqpath.com
 
@@ -994,41 +1057,49 @@ OWASP - owasp.org
 
 ### Development: Source Control
 
+*GIT*<br/>
 **[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)**<br/>
 Mark Lodato - marklodato.github.io - 2010-01-01
 
 > 
 
+*GIT*<br/>
 **[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)**<br/>
 Vincent Driessen - nvie.com - 2010-01-05
 
 > 
 
+*GIT*<br/>
 **[Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)**<br/>
 Nick Farina - nfarina.com - 2011-09-01
 
 > 
 
+*GIT*<br/>
 **[Git cheatsheet](https://help.github.com/articles/git-cheatsheet)**<br/>
 GitHub - help.github.com - 2014-02-28
 
 > 
 
+*GIT*<br/>
 **[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)**<br/>
 Scott Chacon - scottchacon.com - 2011-08-31
 
 > 
 
+*GIT*<br/>
 **[Pro Git](http://git-scm.com/book)**<br/>
 Scott Chacon - git-scm.com
 
 > 
 
+*GIT*<br/>
 **[Think Like (a) Git](http://think-like-a-git.net/)**<br/>
 Sam Livingston-Gray - think-like-a-git.net
 
 > 
 
+*GIT*<br/>
 **[git - the simple guide](http://rogerdudler.github.io/git-guide/)**<br/>
 Roger Dudler - rogerdudler.github.io - 2012-01-09
 
@@ -1036,47 +1107,30 @@ Roger Dudler - rogerdudler.github.io - 2012-01-09
 
 ### Development: Testing
 
-**[Better Specs: RSpec Guidelines With Ruby](http://betterspecs.org/)**<br/>
-Andrea Reginato - betterspecs.org
-
-> RSpec is a great tool in the behavior-driven development (BDD) process of writing human readable specifications that direct and validate the development of your application. On the web there are many resources that give complete overview of _what_ you can do with RSpec. But there are fewer resources devoted to how to create a great RSpec test suite. Better Specs tries to fill this gap by collecting most of the best practices" that other developers learn through years of experience."
-
-**[Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)**<br/>
-Kent Beck, David Heinemeier Hansson, Martin Fowler - martinfowler.com - 2014-05-09
-
-> A series of conversations between Kent Beck, David Heinemeier Hansson, and [Martin Fowler] on the topic of Test-Driven Development (TDD) and its impact upon software design.
-
-**[TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)**<br/>
-David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-23
-
-> Test-first fundamentalism is like abstinence-only sex ed: An unrealistic, ineffective morality campaign for self-loathing and shaming.
-
 **[Test-induced design damage](http://david.heinemeierhansson.com/2014/test-induced-design-damage.html)**<br/>
 David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-29
 
 > The design integrity of your system is far more important than being able to test it any particular layer. Stop obsessing about unit tests, embrace backfilling of tests when you're happy with the design, and strive for overall system clarity as your principle pursuit.
 
+*RSPEC*<br/>
+**[Better Specs: RSpec Guidelines With Ruby](http://betterspecs.org/)**<br/>
+Andrea Reginato - betterspecs.org
+
+> RSpec is a great tool in the behavior-driven development (BDD) process of writing human readable specifications that direct and validate the development of your application. On the web there are many resources that give complete overview of _what_ you can do with RSpec. But there are fewer resources devoted to how to create a great RSpec test suite. Better Specs tries to fill this gap by collecting most of the best practices" that other developers learn through years of experience."
+
+*TDD*<br/>
+**[Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)**<br/>
+Kent Beck, David Heinemeier Hansson, Martin Fowler - martinfowler.com - 2014-05-09
+
+> A series of conversations between Kent Beck, David Heinemeier Hansson, and [Martin Fowler] on the topic of Test-Driven Development (TDD) and its impact upon software design.
+
+*TDD*<br/>
+**[TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)**<br/>
+David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-23
+
+> Test-first fundamentalism is like abstinence-only sex ed: An unrealistic, ineffective morality campaign for self-loathing and shaming.
+
 ### Development: UX, UI, & Design
-
-**[10 Useful Usability Findings and Guidelines](http://www.smashingmagazine.com/2009/09/24/10-useful-usability-findings-and-guidelines/)**<br/>
-Dmitry Fadeyev - smashingmagazine.com - 2009-09-24
-
-> 
-
-**[Beautiful Web Type: A showcase of the best typefaces from the Google web fonts directory](http://hellohappy.org/beautiful-web-type/)**<br/>
-Chad Mazzola - hellohappy.org
-
-> 
-
-**[Colourcode - Find Your Colour Scheme](http://colourco.de/)**<br/>
-Tamino Martinius, Andreas Storm - colourco.de
-
-> 
-
-**[Creating Style Guides](http://alistapart.com/article/creating-style-guides)**<br/>
-Susan Robertson - alistapart.com - 2014-04-08
-
-> 
 
 **[Design Tips For Developers](http://www.duetapp.com/blog/design-tips-for-developers/)**<br/>
 Saleem El-Amin - duetapp.com - 2014-07-08
@@ -1088,30 +1142,58 @@ NuRelm - nurelm.com - 2009-07-07
 
 > 
 
-**[Good UI](http://goodui.org/)**<br/>
-Jakub Linowski - goodui.org - 2014-07-04
-
-> 
-
 **[OmniGraffle Wireflows](http://wireframes.linowski.ca/2009/12/omnigraffle-wireflows/)**<br/>
 Linowski - wireframes.linowski.ca - 2009-12-29
 
 > 
 
+*COLORS*<br/>
+**[Colourcode - Find Your Colour Scheme](http://colourco.de/)**<br/>
+Tamino Martinius, Andreas Storm - colourco.de
+
+> 
+
+*FONTS*<br/>
+**[Beautiful Web Type: A showcase of the best typefaces from the Google web fonts directory](http://hellohappy.org/beautiful-web-type/)**<br/>
+Chad Mazzola - hellohappy.org
+
+> 
+
+*STYLE GUIDES*<br/>
+**[Creating Style Guides](http://alistapart.com/article/creating-style-guides)**<br/>
+Susan Robertson - alistapart.com - 2014-04-08
+
+> 
+
+*UI*<br/>
+**[Good UI](http://goodui.org/)**<br/>
+Jakub Linowski - goodui.org - 2014-07-04
+
+> 
+
+*USABILITY*<br/>
+**[10 Useful Usability Findings and Guidelines](http://www.smashingmagazine.com/2009/09/24/10-useful-usability-findings-and-guidelines/)**<br/>
+Dmitry Fadeyev - smashingmagazine.com - 2009-09-24
+
+> 
+
 ### Development: Vim
 
+*CHEAT SHEET*<br/>
+**[Vim Cheat Sheat for Programmers](http://michael.peopleofhonoronly.com/vim/)**<br/>
+Michael Pohoreski - michael.peopleofhonoronly.com - 2011-09-09
+
+> 
+
+*LEARNING*<br/>
 **[Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)**<br/>
 Yehuda Katz - yehudakatz.com - 2010-07-29
 
 > 
 
+*LEARNING*<br/>
 **[Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)**<br/>
 Yann Esposito - yannesposito.com - 2011-08-29
-
-> 
-
-**[Vim Cheat Sheat for Programmers](http://michael.peopleofhonoronly.com/vim/)**<br/>
-Michael Pohoreski - michael.peopleofhonoronly.com - 2011-09-09
 
 > 
 
