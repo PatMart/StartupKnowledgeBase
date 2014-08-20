@@ -95,27 +95,13 @@ def category_to_markdown cat, articles, opts={}
   markdown
 end
 
-def section_to_readme section, articles
-  markdown = ""
-
-  markdown += "# #{section} Articles\n\n"
-  categories = articles.map(&:subcategory).uniq.sort
-  markdown += contents_to_markdown categories
-
-  categories.each do |cat|
-    cat_articles = articles.select{|a| a.subcategory==cat }
-    markdown += category_to_markdown cat, cat_articles
-  end
-  markdown
-end
-
-def sections_to_readme articles
+def sections_to_markdown
   markdown = ""
 
   markdown += "## The Collection\n\n"
 
   %w(Business Development Personal).each do |section|
-    section_articles = articles.select{|a| a.category==section }
+    section_articles = $articles.select{|a| a.category==section }
     categories = section_articles.map(&:subcategory).uniq.sort
     categories.each do |cat|
       cat_articles = section_articles.select{|a| a.subcategory==cat }
@@ -130,7 +116,7 @@ def markdown_inline_link text, anchor_text=nil
   "[#{text}](##{github_format_category anchor_text})"
 end
 
-def toc_to_markdown articles
+def toc_to_markdown
   markdown = ""
   markdown += "* #{markdown_inline_link 'About'}\n"
   markdown += "  * #{markdown_inline_link 'Motivation'}\n"
@@ -139,7 +125,7 @@ def toc_to_markdown articles
   markdown += "  * #{markdown_inline_link 'Structure'}\n"
   markdown += "  * #{markdown_inline_link 'Criteria'}\n"
   markdown += "* **#{markdown_inline_link 'The Collection'}**\n"
-  categories = articles.map{|a| [a.category, a.subcategory] }.uniq.sort.group_by{|x| x[0] }
+  categories = $articles.map{|a| [a.category, a.subcategory] }.uniq.sort.group_by{|x| x[0] }
   categories.each do |cat, sets|
     markdown += "  * #{markdown_inline_link(cat)}\n"
     sets.each do |pair|
@@ -150,24 +136,37 @@ def toc_to_markdown articles
   markdown
 end
 
-def readme articles
+def stats
+  authors = $articles.map(&:author).uniq
+  topics = $articles.map(&:subcategory).uniq
+  "#{topics.size} topics, #{$articles.size} articles, #{authors.size} authors"
+end
+
+def intro
   markdown = ""
   markdown += "# Startup Knowledge Database\n\n"
+  markdown += "#{stats}\n\n"
   markdown += "A curated collection of insightful articles related to startups, as a resource for startup founders and team members.\n\n"
   markdown += "The ultimate goal of the project is to contain every fundamentally valuable insight or resource on a given topic, across a wide array of topics related to startups.\n\n"
   markdown += "A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a broad array of questions answered with insights distilled from several of the most important startup articles in this collection.\n\n"
-  markdown += "## Table of Contents\n\n"
-  markdown += toc_to_markdown articles
-  markdown += File.read("README_BASE.md")
-  markdown += sections_to_readme articles
   markdown
 end
 
-articles = Article.process(File.read('articles.csv'))
+def readme
+  markdown = ""
+  markdown += intro
+  markdown += "## Table of Contents\n\n"
+  markdown += toc_to_markdown
+  markdown += File.read("README_BASE.md")
+  markdown += sections_to_markdown
+  markdown
+end
+
+$articles = Article.process(File.read('articles.csv'))
 
 
 # Generate top README
 File.open("README.md", 'w') do |f|
-  f.puts readme articles
+  f.puts readme
 end
 

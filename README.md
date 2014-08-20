@@ -1,5 +1,7 @@
 # Startup Knowledge Database
 
+44 topics, 110 articles, 81 authors
+
 A curated collection of insightful articles related to startups, as a resource for startup founders and team members.
 
 The ultimate goal of the project is to contain every fundamentally valuable insight or resource on a given topic, across a wide array of topics related to startups.
