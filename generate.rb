@@ -82,8 +82,10 @@ def github_format_category cat
   cat.gsub(/,/,'').gsub(/ /,'-').gsub(/[&:]/,'').downcase
 end
 
-def article_to_markdown article, opts={}
+def article_to_markdown article_sub, opts={}
+  article = article_sub.article
   markdown = ''
+  markdown += "#{article_sub.microcategory.upcase}<br/>\n" if article_sub.microcategory
   markdown += "**[#{article.title}](#{article.url})**"
   markdown += "<br/>\n"
   markdown += "#{article.author || '?'} - #{article.host}"
@@ -94,21 +96,21 @@ def article_to_markdown article, opts={}
   markdown
 end
 
-def articles_to_markdown articles, opts={}
+def articles_to_markdown article_subs, opts={}
   markdown = ''
-  articles.each do |a|
-    markdown += article_to_markdown a, opts
+  article_subs.each do |as|
+    markdown += article_to_markdown as, opts
   end
   markdown
 end
 
-def category_to_markdown subcat, articles, opts={}
+def category_to_markdown subcat, article_subcategories, opts={}
   cat = "#{opts[:section]}: #{subcat.subcategory}" if opts[:section]
   markdown = ''
   markdown += "### #{cat}\n"
   markdown += "\n"
-  articles = articles.sort_by{|a| a.published_at.to_s }.reverse
-  markdown += articles_to_markdown articles
+  article_subcategories = article_subcategories.sort_by{|as| [as.microcategory.to_s, as.article.title] }
+  markdown += articles_to_markdown article_subcategories
   markdown
 end
 
@@ -121,8 +123,8 @@ def sections_to_markdown
     section_article_subcategories = $article_subcategories.select{|as| as.subcategory.category==section }
     categories = section_article_subcategories.map(&:subcategory).uniq.sort_by(&:subcategory)
     categories.each do |cat|
-      cat_articles = section_article_subcategories.select{|as| as.subcategory_uuid==cat.uuid }.map(&:article)
-      markdown += category_to_markdown cat, cat_articles, section: section
+      cat_article_subcategories = section_article_subcategories.select{|as| as.subcategory_uuid==cat.uuid }
+      markdown += category_to_markdown cat, cat_article_subcategories, section: section
     end
   end
   markdown

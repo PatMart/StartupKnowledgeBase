@@ -146,40 +146,47 @@ Mark Suster - bothsidesofthetable.com - 2009-10-12
 
 ### Business: Budgeting & Finances
 
-**[Budgeting In A Large Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-large-company.html)**<br/>
-Fred Wilson - avc.com - 2013-10-02
-
-> The budgeting process is really critical in a large company. It forces the company to make highly informed decisions about investments and resource allocation and it creates company wide discipline around hitting goals. I have never seen a company of 150 employees or more operate functionally without a strong budget process.
-
-**[How Much To Burn While Building Product](http://www.avc.com/a_vc/2011/12/how-much-to-burn-while-building-product.html)**<br/>
-Fred Wilson - avc.com - 2011-12-19
-
->  
-
-**[Burn Rates: How Much?](http://www.avc.com/a_vc/2011/12/burn-rates-how-much.html)**<br/>
-Fred Wilson - avc.com - 2011-12-12
-
->  
-
-**[Burn Rate](http://www.avc.com/a_vc/2011/12/burn-rate.html)**<br/>
-Fred Wilson - avc.com - 2011-12-05
-
-> Your burn rate is the speed at which your cash balance is going down. If you had $1mm in cash on January 1st, and now it is October 1st and you have $250,000 left, your burn rate is $750,000/9, or $83,333/month.
-
-**[Margins (continued)](http://www.avc.com/a_vc/2011/04/margins-continued.html)**<br/>
-Fred Wilson - avc.com - 2011-04-18
-
-> I like to focus on "gross margin" because I think it tells you a lot about the scalability of a business (as I detailed in last week's post). But operating margin which is gross margin less all the operating costs is another really important metric.
-
+BUDGETING<br/>
 **[Budgeting In A Growing Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-growing-company.html)**<br/>
 Fred Wilson - avc.com - 2010-05-24
 
 > What happens to the budgeting process once revenues start coming in, headcount gets to between 50 and 100 employees, and you are now a full fledged high growth business?
 
+BUDGETING<br/>
+**[Budgeting In A Large Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-large-company.html)**<br/>
+Fred Wilson - avc.com - 2013-10-02
+
+> The budgeting process is really critical in a large company. It forces the company to make highly informed decisions about investments and resource allocation and it creates company wide discipline around hitting goals. I have never seen a company of 150 employees or more operate functionally without a strong budget process.
+
+BUDGETING<br/>
 **[Budgeting In A Small Early Stage Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-small-early-stage-company.html)**<br/>
 Fred Wilson - avc.com - 2010-05-10
 
 > The first step in budgeting is to review the key business metrics and lock them down based on what is realistic for the next year. Be very realistic. A good budget is a conservative budget.
+
+BURN<br/>
+**[Burn Rate](http://www.avc.com/a_vc/2011/12/burn-rate.html)**<br/>
+Fred Wilson - avc.com - 2011-12-05
+
+> Your burn rate is the speed at which your cash balance is going down. If you had $1mm in cash on January 1st, and now it is October 1st and you have $250,000 left, your burn rate is $750,000/9, or $83,333/month.
+
+BURN<br/>
+**[Burn Rates: How Much?](http://www.avc.com/a_vc/2011/12/burn-rates-how-much.html)**<br/>
+Fred Wilson - avc.com - 2011-12-12
+
+>  
+
+BURN<br/>
+**[How Much To Burn While Building Product](http://www.avc.com/a_vc/2011/12/how-much-to-burn-while-building-product.html)**<br/>
+Fred Wilson - avc.com - 2011-12-19
+
+>  
+
+MARGINS<br/>
+**[Margins (continued)](http://www.avc.com/a_vc/2011/04/margins-continued.html)**<br/>
+Fred Wilson - avc.com - 2011-04-18
+
+> I like to focus on "gross margin" because I think it tells you a lot about the scalability of a business (as I detailed in last week's post). But operating margin which is gross margin less all the operating costs is another really important metric.
 
 ### Business: Culture & Values
 
@@ -195,6 +202,7 @@ Marshall Rosenberg - en.wikipedia.org
 
 ### Business: Customers
 
+CUSTOMER DEVELOPMENT<br/>
 **[What is customer development?](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html)**<br/>
 Eric Ries - startuplessonslearned.com
 
@@ -202,31 +210,32 @@ Eric Ries - startuplessonslearned.com
 
 ### Business: Early Stage
 
-**[Product > Strategy > Business Model](http://www.avc.com/a_vc/2013/06/product-strategy-business-model.html)**<br/>
-Fred Wilson - avc.com - 2012-06-02
-
-> Getting product right means finding product market fit. It does not mean launching the product. It means getting to the point where the market accepts your product and wants more of it. That means different things in consumer, saas, infrastructure, hardware, etc, but in every case you must get to product market fit before thinking about anything else. And, I believe, moving to business model before finding product market fit can be the worst thing for your business.
-
 **[Corporate Entities](http://www.avc.com/2010/02/corporate-entity/)**<br/>
 Fred Wilson - avc.com - 2010-02-22
 
 > There are many people who run a business and don't incorporate. A good example of this are many of the sellers on Etsy. They make things, sell them, receive the income, and pay the taxes as part of their personal returns. But there are three big reasons you'll want to consider incorporating; liability, taxes, and investment. And the kind of corporate entity you create depends on where you want to come out on all three of those factors.
-
-**[How to Bring a Product to Market, Part 2 — After Product/Market Fit](http://venturehacks.com/articles/sean-ellis-interview-2)**<br/>
-Babak Nivi - venturehacks.com - 2010-01-12
-
-> Here, Sean Ellis explains what you do after fit: optimizing your positioning, implementing a business model, and optimizing your funnel — all so you’re prepared to acquire users quickly and profitably.
 
 **[How to Bring a Product to Market / A Very Rare Interview with Sean Ellis - by Babak Nivi](http://venturehacks.com/articles/sean-ellis-interview)**<br/>
 Babak Nivi - venturehacks.com - 2009-12-14
 
 > In an early stage startup you have an opportunity to put a product out there, get that initial user feedback, and then you have two choices. If that feedback is really strong and the users say that they’d be very disappointed without it, in a large percentage, then you can try to grow the business. Alternatively, if they come back and say that they wouldn’t be that disappointed without the product, then you have the choices where you can either try to grow it or you can decide that you’re not going to try and grow the business. And to me, my recommendation has always been to decide not to grow the business if it doesn’t have a lot of people that are real passionate about the solutions.
 
+**[How to Bring a Product to Market, Part 2 — After Product/Market Fit](http://venturehacks.com/articles/sean-ellis-interview-2)**<br/>
+Babak Nivi - venturehacks.com - 2010-01-12
+
+> Here, Sean Ellis explains what you do after fit: optimizing your positioning, implementing a business model, and optimizing your funnel — all so you’re prepared to acquire users quickly and profitably.
+
 **[Most Common Early Start-up Mistakes](http://www.bothsidesofthetable.com/2009/08/17/most-common-early-start-up-mistakes/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-08-17
 
 > I often talk with entrepreneurs who are kicking around their next idea.  Sometimes they’re working full time at a company or sometimes they’ve already left their employer and they’re bouncing around ideas with friends.  These periods of time can leave a founder very vulnerable in the future.
 
+**[Product > Strategy > Business Model](http://www.avc.com/a_vc/2013/06/product-strategy-business-model.html)**<br/>
+Fred Wilson - avc.com - 2012-06-02
+
+> Getting product right means finding product market fit. It does not mean launching the product. It means getting to the point where the market accepts your product and wants more of it. That means different things in consumer, saas, infrastructure, hardware, etc, but in every case you must get to product market fit before thinking about anything else. And, I believe, moving to business model before finding product market fit can be the worst thing for your business.
+
+MVP<br/>
 **[Minimum Viable Product: a guide](http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html)**<br/>
 Eric Ries - startuplessonslearned.com
 
@@ -270,45 +279,49 @@ Mark Suster - bothsidesofthetable.com - 2009-04-18
 
 ### Business: Fundraising
 
-**[The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability/)**<br/>
-Tomasz Tunguz - tomtunguz.com - 2014-08-01
+**[First Round Funding Terms and Founder Vesting](http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2009-08-17
 
-> The most successful pitches argue the market will unfold inexorably in the way the founders envision on a relevant time scale. And, that this startup in particular will dominate share in that new world. ... There is no prescriptive way I can recommend to consistently argue inevitability. Some founders use data. Others use logic. Still others use emotion and passion to do it. But in the end, these exceptional storytellers make you want to believe, suspend doubt, and disregard the great risks that all startups face all along their journey, and get involved with the business.
-
-**[How to Raise Money](http://www.paulgraham.com/fr.html)**<br/>
-Paul Graham - paulgraham.com - 2013-09-01
-
-> Don't raise money unless you want it and it wants you., "Be in fundraising mode or not.", "Get introductions to investors.", "Hear no till you hear yes.", "Do breadth-first search weighted by expected value.", "Know where you stand.", "Get the first commitment.", "Close committed money.", "Avoid investors who don't 'lead.'", "Have multiple plans.", "Underestimate how much you want.", "Be profitable if you can.", "Don't optimize for valuation.", "Yes/no before valuation.", "Beware 'valuation sensitive' investors.", "Accept offers greedily.", "Don't sell more than 25% in phase 2.", "Have one person handle fundraising.", "You'll need an executive summary and (maybe) a deck.", "Stop fundraising when it stops working.", "Don't get addicted to fundraising.", "Don't raise too much.", "Be nice.", "The bar will be higher next time.", "Don't make things complicated."
+> I’m putting millions of dollars in your company.  My thesis is YOU.   I need some protection that you’re not fully or mostly vested where you could simply walk away with a large stake in the company, screwing not just me but the entire employee base of the company.  I’m not Sequoia.  I’m not looking to bring in a new team to replace you.  If you leave my thesis is largely out the door.
 
 **[How to Convince Investors](http://www.paulgraham.com/convince.html)**<br/>
 Paul Graham - paulgraham.com - 2013-08-01
 
 > So here's the recipe for impressing investors when you're not already good at seeming formidable: Make something worth investing in. Understand why it's worth investing in. Explain that clearly to investors. If you're saying something you know is true, you'll seem confident when you're saying it. Conversely, never let pitching draw you into bullshitting. As long as you stay on the territory of truth, you're strong. Make the truth good, then just tell it.
 
-**[The 7 Questions A Startup Should Answer In Their Fund Raising Pitch](http://tomtunguz.com/pitch-deck/)**<br/>
-Tomasz Tunguz - tomtunguz.com - 2013-03-29
+**[How to Raise Money](http://www.paulgraham.com/fr.html)**<br/>
+Paul Graham - paulgraham.com - 2013-09-01
 
-> [Value prop] What is the problem and is it worth solving? Why is now the right time to solve it?  [Team] Does the team have the vision and the wherewithal to build this company?  [Go to market] What is the competitive angle (competitive barrier to entry and/or go-to-market) that will enable this company to succeed where others have tried and failed?  [Sales effectiveness & product validation] Who does the startup sell to? Which customers have used the product and how have they received it? How much is each customer worth?  [Product distribution] How does the company acquire customers cost effectively? What are the unit economics (customer acquisition cost, contribution revenue, and churn rates)?  [Revenue model] Does the company have the revenue model to build a big (>$100M annual revenue) business with good margins (gross ~ 50 to 60% / net ~15 to 25%) under reasonable assumptions?  [Market size] Can the market enable or bear a $100M revenue Alternatively, is this product in a quickly growing market or riding a disruptive wave?
+> Don't raise money unless you want it and it wants you., "Be in fundraising mode or not.", "Get introductions to investors.", "Hear no till you hear yes.", "Do breadth-first search weighted by expected value.", "Know where you stand.", "Get the first commitment.", "Close committed money.", "Avoid investors who don't 'lead.'", "Have multiple plans.", "Underestimate how much you want.", "Be profitable if you can.", "Don't optimize for valuation.", "Yes/no before valuation.", "Beware 'valuation sensitive' investors.", "Accept offers greedily.", "Don't sell more than 25% in phase 2.", "Have one person handle fundraising.", "You'll need an executive summary and (maybe) a deck.", "Stop fundraising when it stops working.", "Don't get addicted to fundraising.", "Don't raise too much.", "Be nice.", "The bar will be higher next time.", "Don't make things complicated."
 
 **[The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2013-03-28
 
 > Market timing risk, Business model risk, Market adoption risk, Market size risk, Execution risk, Technology risk, Capitalization structure risk, Platform risk, Venture management risk, Financial ris, Legal risk
 
-**[Trends in Pricing and Duration](https://www.kickstarter.com/blog/trends-in-pricing-and-duration)**<br/>
-Fred Benenson, Yancey Strickler - kickstarter.com - 2010-09-22
-
-> In the post Craig sampled other popular projects on Kickstarter, and explained how their choices and outcomes affected the way he constructed his project. Craig also offers some advice on optimal pricing and project length to future project creators. We were intrigued and impressed by Craig’s research and conclusions, and we’ve now compiled data from our entire database to see how it holds up. Let’s dig in.
-
+CROWDFUNDING<br/>
 **[Kickstartup — Successful fundraising with Kickstarter & the (re)making of Art Space Tokyo](http://craigmod.com/journal/kickstartup/)**<br/>
 Craig Mod - craigmod.com - 2010-07-01
 
 > I gathered data for the top 20 to 30 grossing Kickstarter projects as of March 2010. I then mapped out the number of pledges per tier, looking for a balance between number of pledges and overall percentage contribution of funds to my data set. Here is that data with the top five grossing tiers by percentage contribution highlighted in yellow.
 
-**[First Round Funding Terms and Founder Vesting](http://www.bothsidesofthetable.com/2009/08/17/first-round-funding-terms-and-founder-vesting/)**<br/>
-Mark Suster - bothsidesofthetable.com - 2009-08-17
+CROWDFUNDING<br/>
+**[Trends in Pricing and Duration](https://www.kickstarter.com/blog/trends-in-pricing-and-duration)**<br/>
+Fred Benenson, Yancey Strickler - kickstarter.com - 2010-09-22
 
-> I’m putting millions of dollars in your company.  My thesis is YOU.   I need some protection that you’re not fully or mostly vested where you could simply walk away with a large stake in the company, screwing not just me but the entire employee base of the company.  I’m not Sequoia.  I’m not looking to bring in a new team to replace you.  If you leave my thesis is largely out the door.
+> In the post Craig sampled other popular projects on Kickstarter, and explained how their choices and outcomes affected the way he constructed his project. Craig also offers some advice on optimal pricing and project length to future project creators. We were intrigued and impressed by Craig’s research and conclusions, and we’ve now compiled data from our entire database to see how it holds up. Let’s dig in.
+
+PITCHES<br/>
+**[The 7 Questions A Startup Should Answer In Their Fund Raising Pitch](http://tomtunguz.com/pitch-deck/)**<br/>
+Tomasz Tunguz - tomtunguz.com - 2013-03-29
+
+> [Value prop] What is the problem and is it worth solving? Why is now the right time to solve it?  [Team] Does the team have the vision and the wherewithal to build this company?  [Go to market] What is the competitive angle (competitive barrier to entry and/or go-to-market) that will enable this company to succeed where others have tried and failed?  [Sales effectiveness & product validation] Who does the startup sell to? Which customers have used the product and how have they received it? How much is each customer worth?  [Product distribution] How does the company acquire customers cost effectively? What are the unit economics (customer acquisition cost, contribution revenue, and churn rates)?  [Revenue model] Does the company have the revenue model to build a big (>$100M annual revenue) business with good margins (gross ~ 50 to 60% / net ~15 to 25%) under reasonable assumptions?  [Market size] Can the market enable or bear a $100M revenue Alternatively, is this product in a quickly growing market or riding a disruptive wave?
+
+PITCHES<br/>
+**[The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability/)**<br/>
+Tomasz Tunguz - tomtunguz.com - 2014-08-01
+
+> The most successful pitches argue the market will unfold inexorably in the way the founders envision on a relevant time scale. And, that this startup in particular will dominate share in that new world. ... There is no prescriptive way I can recommend to consistently argue inevitability. Some founders use data. Others use logic. Still others use emotion and passion to do it. But in the end, these exceptional storytellers make you want to believe, suspend doubt, and disregard the great risks that all startups face all along their journey, and get involved with the business.
 
 ### Business: General
 
@@ -317,35 +330,35 @@ Blake Masters - blakemasters.com - 2012-05-04
 
 > The first thing to do is to dispel the belief that the best product always wins. There is a rich history of instances where the best product did not, in fact, win. Nikola Tesla invented the alternating current electrical supply system. It was, for a variety of reasons, technologically better than the direct current system that Thomas Edison developed. Tesla was the better scientist. But Edison was the better businessman, and he went on to start GE. Interestingly, Tesla later developed the idea of radio transmission. But Marconi took it from him and then won the Nobel Prize. Inspiration isn’t all that counts. The best product may not win.
 
-**[What is a startup?](http://www.startuplessonslearned.com/2010/06/what-is-startup.html)**<br/>
-Eric Ries - startuplessonslearned.com - 2010-06-21
+**[Six Principles for Making New Things](http://www.paulgraham.com/newthings.html)**<br/>
+Paul Graham - paulgraham.com - 2008-02-01
 
-> So let’s begin with a definition of a startup that captures its essential nature, and tries to leave behind the specific associations of the most famous startups. A startup is a human institution designed to deliver a new product or service under conditions of extreme uncertainty.
+> Here it is: I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.
+
+**[Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/)**<br/>
+Mark Suster - bothsidesofthetable.com
+
+> I think the sign of a good entrepreneur is the ability to spot your mistakes, correct quickly and not repeat the mistakes. I made plenty of mistakes. Below are some of the lessons I learned along the way.
 
 **[Startups in 13 Sentences](http://www.paulgraham.com/13sentences.html)**<br/>
 Paul Graham - paulgraham.com - 2009-02-01
 
 > 1. Pick good cofounders. 2. Launch fast. 3. Let your idea evolve. 4. Understand your users. 5. Better to make a few users love you than a lot ambivalent. 6. Offer surprisingly good customer service. 7. You make what you measure. 8. Spend little. 9. Get ramen profitable. 10. Avoid distractions. 11. Don't get demoralized. 12. Don't give up. 13. Deals fall through.
 
-**[Six Principles for Making New Things](http://www.paulgraham.com/newthings.html)**<br/>
-Paul Graham - paulgraham.com - 2008-02-01
+**[The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html)**<br/>
+Paul Graham - paulgraham.com - 2006-04-01
 
-> Here it is: I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.
+> 1. Release Early. 2. Keep Pumping Out Features. 3. Make Users Happy. 4. Fear the Right Things. 5. Commitment Is a Self-Fulfilling Prophecy. 6. There Is Always Room. 7. Don't Get Your Hopes Up.
 
 **[The Pmarca Guide To Startups](http://pmarchive.com/guide_to_startups_part1.html)**<br/>
 Marc Andreessen - pmarchive.com - 2007-06-18
 
 > In this series of posts I will walk through some of my accumulated knowledge and experience in building high-tech startups.
 
-**[The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html)**<br/>
-Paul Graham - paulgraham.com - 2006-04-01
+**[What is a startup?](http://www.startuplessonslearned.com/2010/06/what-is-startup.html)**<br/>
+Eric Ries - startuplessonslearned.com - 2010-06-21
 
-> 1. Release Early. 2. Keep Pumping Out Features. 3. Make Users Happy. 4. Fear the Right Things. 5. Commitment Is a Self-Fulfilling Prophecy. 6. There Is Always Room. 7. Don't Get Your Hopes Up.
-
-**[Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/)**<br/>
-Mark Suster - bothsidesofthetable.com
-
-> I think the sign of a good entrepreneur is the ability to spot your mistakes, correct quickly and not repeat the mistakes. I made plenty of mistakes. Below are some of the lessons I learned along the way.
+> So let’s begin with a definition of a startup that captures its essential nature, and tries to leave behind the specific associations of the most famous startups. A startup is a human institution designed to deliver a new product or service under conditions of extreme uncertainty.
 
 ### Business: Ideas & Vision
 
@@ -363,11 +376,6 @@ Paul Buchheit - paulbuchheit.blogspot.jp - 2014-07-30
 
 ### Business: Leadership & Management
 
-**[LinkedIn Speaker Series: Jeff Weiner, Reid Hoffman and Ben Casnocha](https://www.youtube.com/watch?v=kQJf7W88HDs)**<br/>
-Jeff Weiner, Reid Hoffman, Ben Casnocha - youtube.com - 2014-06-30
-
-> LinkedIn's co-founder/chairman, Reid Hoffman, has written a new book with Ben Casnocha and Chris Yeh: The Alliance: Managing Talent in the Networked Age.
-
 **[Asana’s Justin Rosenstein on the One Quality Every Startup Needs to Survive](http://firstround.com/article/Asanas-Justin-Rosenstein-on-the-One-Quality-Every-Startup-Needs-to-Survive)**<br/>
 First Round Capital - firstround.com - 2014-01-30
 
@@ -383,6 +391,21 @@ Chris DeVore - crashdev.com - 2013-03-04
 
 > 1. Customer Obsession, 2. Ownership, 3. Invent and Simplify, 4. Are Right, A Lot, 5. Hire and Develop the Best, 6. Insist on the Highest Standards, 7. Think Big, 8. Bias for Action, 9. Frugality, 10. Vocally Self Critical, 11. Earn Trust of Others, 12. Dive Deep, 13. Have Backbone; Disagree and Commit, 14. Deliver Results
 
+**[LinkedIn Speaker Series: Jeff Weiner, Reid Hoffman and Ben Casnocha](https://www.youtube.com/watch?v=kQJf7W88HDs)**<br/>
+Jeff Weiner, Reid Hoffman, Ben Casnocha - youtube.com - 2014-06-30
+
+> LinkedIn's co-founder/chairman, Reid Hoffman, has written a new book with Ben Casnocha and Chris Yeh: The Alliance: Managing Talent in the Networked Age.
+
+**[Notes on Leadership: Be Like Steve Jobs, ... And Bill Campbell, And Andy Grove](http://techcrunch.com/2010/03/14/notes-on-leadership-jobs-grove-campbel/)**<br/>
+Ben Horowitz - techcrunch.com - 2010-03-14
+
+> So what makes people want to follow a leader? We look for 3 key traits: The ability to articulate the vision, The right kind of ambition, The ability to achieve the vision
+
+**[The Management Team - While Building Product](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-product.html)**<br/>
+Fred Wilson - avc.com - 2012-01-02
+
+> Building product is not about having a large team to manage. It is about having a small team with the right people on it. You need product, design, and software engineering skills on the team. And you need to be focused, committed, and driven. Management at this point is all about small team dynamics; everyone on board, working together, and getting stuff done. Strong individual contributors are key in this stage. Management skills are not a requirement. In fact they may even be a hindrance.
+
 **[The Management Team - While Building The Business](http://www.avc.com/2012/01/the-management-team-while-building-the-business/)**<br/>
 Fred Wilson - avc.com - 2012-01-16
 
@@ -392,16 +415,6 @@ Fred Wilson - avc.com - 2012-01-16
 Fred Wilson - avc.com - 2012-01-09
 
 > So you've built and launched your product. It is well received. You've acheived "product market fit" and it is time to get more users or customers. You've graduated from the "building product" stage and have entered the "building usage" phase. What does this mean for your team?
-
-**[The Management Team - While Building Product](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-product.html)**<br/>
-Fred Wilson - avc.com - 2012-01-02
-
-> Building product is not about having a large team to manage. It is about having a small team with the right people on it. You need product, design, and software engineering skills on the team. And you need to be focused, committed, and driven. Management at this point is all about small team dynamics; everyone on board, working together, and getting stuff done. Strong individual contributors are key in this stage. Management skills are not a requirement. In fact they may even be a hindrance.
-
-**[Notes on Leadership: Be Like Steve Jobs, ... And Bill Campbell, And Andy Grove](http://techcrunch.com/2010/03/14/notes-on-leadership-jobs-grove-campbel/)**<br/>
-Ben Horowitz - techcrunch.com - 2010-03-14
-
-> So what makes people want to follow a leader? We look for 3 key traits: The ability to articulate the vision, The right kind of ambition, The ability to achieve the vision
 
 ### Business: Lean Startup
 
@@ -417,35 +430,35 @@ Eric Ries - startuplessonslearned.com
 
 ### Business: Legal & Incorporation
 
-**[Reading Your Legal Docs](http://venturehacks.com/articles/legal-docs)**<br/>
-Babak Nivi - venturehacks.com - 2011-06-16
-
-> Some docs are too long and boilerplate to read, so this is how I read financing docs: 1- Read and understand everything in the term sheet. 2- Get a good lawyer because you probably don’t have one. 3- You probably can’t tell the difference between good legal advice and bad legal advice.
-
-**[Piercing The Corporate Veil](http://www.avc.com/a_vc/2010/03/piercing-the-corporate-veil.html)**<br/>
-Fred Wilson - avc.com - 2010-03-01
-
-> Forming a company is the best way to "putting a buffer between you and the business." But you can't just pretend to be a business, you have to be a business. "Being a business" means separating your personal and business records, separating your personal and business bank accounts, treating the business as a real entity, having board meetings, taking board minutes, doing major activities via board resolutions, following "due process." If you don't behave as a real business, you could find yourself in a situation where someone, most commonly someone who is suing your business, can come after you (and your business partners) personally. And then you are going to say "but what about the liability limitation the business provides?" It may not be there for you.
-
 **[Corporate Entities](http://www.avc.com/2010/02/corporate-entity/)**<br/>
 Fred Wilson - avc.com - 2010-02-22
 
 > There are many people who run a business and don't incorporate. A good example of this are many of the sellers on Etsy. They make things, sell them, receive the income, and pay the taxes as part of their personal returns. But there are three big reasons you'll want to consider incorporating; liability, taxes, and investment. And the kind of corporate entity you create depends on where you want to come out on all three of those factors.
-
-**[How to Work with Lawyers at a Startup](http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/)**<br/>
-Mark Suster - bothsidesofthetable.com - 2010-01-21
-
-> I know that people have an allergy to lawyers out of fear of being screwed.  Much of this is unfounded – some is not.  If you’re a startup and you don’t have a close relationship with a few law firms you’re really missing one of the most important relationships that any entrepreneur can have. This all got me thinking about a post on how to best work with lawyers.  This is stuff I tell people verbally at least twice / month so I’m glad to finally get it into written format.
 
 **[Entrepreneurs Need to Learn Some Law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law/)**<br/>
 Chris Dixon - cdixon.org - 2009-09-13
 
 > Entrepreneurs, especially first timers, should have lawyers review everything they sign. But I stand behind my main point:  you can’t outsource the understanding of key financing and other legal documents to lawyers.
 
+**[How to Work with Lawyers at a Startup](http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2010-01-21
+
+> I know that people have an allergy to lawyers out of fear of being screwed.  Much of this is unfounded – some is not.  If you’re a startup and you don’t have a close relationship with a few law firms you’re really missing one of the most important relationships that any entrepreneur can have. This all got me thinking about a post on how to best work with lawyers.  This is stuff I tell people verbally at least twice / month so I’m glad to finally get it into written format.
+
 **[Lawyers Are Referees, Not Coaches](http://venturehacks.com/articles/referees)**<br/>
 Babak Nivi - venturehacks.com - 2008-06-12
 
 > Lawyers teach you the rules of the game. But they usually can’t teach you how to play it. Lawyers say whether you can do something, within the confines of the law and your existing contracts. Lawyers will also write the contracts and do the filings. But they usually can’t tell you what to do—that’s what coaches do. A lawyer knows that you’re not breaking any laws or contracts if you give a common board seat to a new CEO. He also knows how to write the contract. But an advisor knows the possible outcomes of that decision.
+
+**[Piercing The Corporate Veil](http://www.avc.com/a_vc/2010/03/piercing-the-corporate-veil.html)**<br/>
+Fred Wilson - avc.com - 2010-03-01
+
+> Forming a company is the best way to "putting a buffer between you and the business." But you can't just pretend to be a business, you have to be a business. "Being a business" means separating your personal and business records, separating your personal and business bank accounts, treating the business as a real entity, having board meetings, taking board minutes, doing major activities via board resolutions, following "due process." If you don't behave as a real business, you could find yourself in a situation where someone, most commonly someone who is suing your business, can come after you (and your business partners) personally. And then you are going to say "but what about the liability limitation the business provides?" It may not be there for you.
+
+**[Reading Your Legal Docs](http://venturehacks.com/articles/legal-docs)**<br/>
+Babak Nivi - venturehacks.com - 2011-06-16
+
+> Some docs are too long and boilerplate to read, so this is how I read financing docs: 1- Read and understand everything in the term sheet. 2- Get a good lawyer because you probably don’t have one. 3- You probably can’t tell the difference between good legal advice and bad legal advice.
 
 ### Business: Lessons Learned
 
@@ -456,16 +469,17 @@ Gordon Wintrob - buildingof.com
 
 ### Business: Market & Research
 
-**[Sunny Whether: Two Types of Forecasting Models for Running Your Startup](http://hunterwalk.com/2014/07/22/sunny-whether-two-types-of-forecasting-models-for-running-your-startup/)**<br/>
-Hunter Walk - hunterwalk.com - 2014-07-22
-
-> Well, if you’re pre-product/market fit, over-optimizing for 'hitting your numbers' can be a false positive if it creates an 'up and to the right' graph that actually builds upon the wrong learnings, or masks leaky bucket of customer attrition.
-
 **[How to Miss By a Mile: An Alternative Look at Uber’s Potential Market Size](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/)**<br/>
 Bill Gurley - abovethecrowd.com - 2014-07-11
 
 > So here is the objective of this post. It is not my aim to specifically convince anyone that Uber is worth any specific valuation. What Professor Damodaran thinks, or what anyone who is not a buyer or seller of stocks thinks, is fairly immaterial. I am also not out to prove him wrong. I am much more interested in the subject of critical reasoning and predictions, and how certain assumptions can lead to gravely different outcomes. As such, my goal is to offer a plausible argument that the core assumptions used in Damodaran’s analysis may be off by a factor of 25 times, perhaps even more. And I hope the analysis is judged on whether the arguments I make are reasonable and feasible.
 
+**[Sunny Whether: Two Types of Forecasting Models for Running Your Startup](http://hunterwalk.com/2014/07/22/sunny-whether-two-types-of-forecasting-models-for-running-your-startup/)**<br/>
+Hunter Walk - hunterwalk.com - 2014-07-22
+
+> Well, if you’re pre-product/market fit, over-optimizing for 'hitting your numbers' can be a false positive if it creates an 'up and to the right' graph that actually builds upon the wrong learnings, or masks leaky bucket of customer attrition.
+
+MARKET SIZING<br/>
 **[The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing/)**<br/>
 Brekiri - brekiri.com - 2010-02-26
 
@@ -473,6 +487,7 @@ Brekiri - brekiri.com - 2010-02-26
 
 ### Business: Marketing & Sales
 
+VIRAL<br/>
 **[Lessons Learned – Viral Marketing](http://www.forentrepreneurs.com/lessons-learnt-viral-marketing/)**<br/>
 David Skok - forentrepreneurs.com - 2009-12-06
 
@@ -480,42 +495,44 @@ David Skok - forentrepreneurs.com - 2009-12-06
 
 ### Business: Metrics & Analytics
 
-**[Tom Blomfield ― Customer churn can kill your startup](http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup)**<br/>
-Tom Blomfield - tomblomfield.com - 2014-07-10
+**[Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)**<br/>
+Dave McClure - slideshare.net - 2007-08-08
 
-> Startups are about growth, and of all the different possible metrics, startups often focus on user growth - if people aren’t using your new product or service in greater and greater numbers, it’s a good sign that you’re not on the right track. And, as long as your business-model is solid, user growth is a leading indicator of revenue and profit growth. But there’s another key metric that can be the making of your company, or the death of it - churn, or the proportion of existing customers who become ex-customers during a period of time (generally a year).
-
-**[Why Everything I Thought I Knew About Churn Is Wrong](http://tomtunguz.com/churn-fallacies/)**<br/>
-Tomasz Tunguz - tomtunguz.com - 2014-01-15
-
-> Churn rates and LTV are challenging to predict with accuracy and while rules of thumb like the formulas above may be reasonable guidelines, it's important to be aware of their tendency to overestimate lifetime value [...]. Because a 2x overestimate of customer lifetime can radically change a startup's unit economics, deeply understanding churn behaviors is crucial to making a startup's business model viable.
-
-**[The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act](http://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)**<br/>
-Avinash Kaushik - kaushik.net - 2013-04-08
-
-> To win in business you need to follow this process: Metrics > Hypothesis > Experiment > Act. Online, offline or nonline.
+> This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
 
 **[The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)**<br/>
 Bill Gurley - abovethecrowd.com - 2012-09-04
 
 > Some people wield the LTV model as if they were Yoda with a light saber; “Look at this amazing weapon I know how to use!” Unfortunately, it is not that amazing, it’s not that unique to understand, and it is not a weapon, it’s a tool. Companies need a sustainable competitive advantage that is independent of their variable marketing campaigns. You can’t win a fight with a measuring tape.
 
-**[Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)**<br/>
-Dave McClure - slideshare.net - 2007-08-08
+**[The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act](http://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)**<br/>
+Avinash Kaushik - kaushik.net - 2013-04-08
 
-> This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
+> To win in business you need to follow this process: Metrics > Hypothesis > Experiment > Act. Online, offline or nonline.
+
+CHURN<br/>
+**[Tom Blomfield ― Customer churn can kill your startup](http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup)**<br/>
+Tom Blomfield - tomblomfield.com - 2014-07-10
+
+> Startups are about growth, and of all the different possible metrics, startups often focus on user growth - if people aren’t using your new product or service in greater and greater numbers, it’s a good sign that you’re not on the right track. And, as long as your business-model is solid, user growth is a leading indicator of revenue and profit growth. But there’s another key metric that can be the making of your company, or the death of it - churn, or the proportion of existing customers who become ex-customers during a period of time (generally a year).
+
+CHURN<br/>
+**[Why Everything I Thought I Knew About Churn Is Wrong](http://tomtunguz.com/churn-fallacies/)**<br/>
+Tomasz Tunguz - tomtunguz.com - 2014-01-15
+
+> Churn rates and LTV are challenging to predict with accuracy and while rules of thumb like the formulas above may be reasonable guidelines, it's important to be aware of their tendency to overestimate lifetime value [...]. Because a 2x overestimate of customer lifetime can radically change a startup's unit economics, deeply understanding churn behaviors is crucial to making a startup's business model viable.
 
 ### Business: Mistakes & Failure
-
-**[Beware the ‘Edifice Complex’ ― and 9 Other Ways to Damage a High-Growth Startup](http://a16z.com/2014/07/08/beware-the-edifice-complex-and-9-other-ways-to-damage-your-high-growth-startup/)**<br/>
-Marc Andreessen - a16z.com - 2014-07-08
-
-> Here are 10 ways to damage your fast-growing tech startup– and hurt the perception of Silicon Valley in the process. None of these are specific to any one company; they’re general patterns we’ve observed across multiple cycles of tech startups.
 
 **[76 Startup Failure Post-Mortems](http://www.cbinsights.com/blog/startup-failure-post-mortem)**<br/>
 CB Insights - cbinsights.com - 2014-01-20
 
 > [B]elow is a compilation of 51 startup post-mortems that describe the factors that drove a startup’s demise.  Most of the failures have been told by the company’s founders, but in a few cases, we did find a couple from investors including Roger Ehrenberg (now of IA Ventures) and Bruce Booth (Atlas Venture).
+
+**[Beware the ‘Edifice Complex’ ― and 9 Other Ways to Damage a High-Growth Startup](http://a16z.com/2014/07/08/beware-the-edifice-complex-and-9-other-ways-to-damage-your-high-growth-startup/)**<br/>
+Marc Andreessen - a16z.com - 2014-07-08
+
+> Here are 10 ways to damage your fast-growing tech startup– and hurt the perception of Silicon Valley in the process. None of these are specific to any one company; they’re general patterns we’ve observed across multiple cycles of tech startups.
 
 **[Most Common Early Start-up Mistakes](http://www.bothsidesofthetable.com/2009/08/17/most-common-early-start-up-mistakes/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-08-17
@@ -536,30 +553,35 @@ Fred Wilson - avc.com - 2013-02-11
 
 ### Business: Models & Pricing
 
-**[MBA Mondays: Revenue Models - Gaming](http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-gaming.html)**<br/>
-Fred Wilson - avc.com - 2013-02-18
+**[MBA Mondays: Revenue Models - Advertising](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-advertising.html)**<br/>
+Fred Wilson - avc.com - 2012-12-10
 
-> Gaming isn't a revenue model itself, but it does offer a number of interesting revenue models and is worth discussing in a post in this series.
+> I would break up advertising into two big buckets; ads that are sold and ads that are bought. The first is a relationship business, requires a direct salesforce or a salesforce that you can tap into, and will bring a higher revenue per impression in most cases. The latter is a data business, automated by machines and software, is a volume game and will bring a lower revenue per impression in most cases. Much of the online advertising market is moving inexorably toward the latter category, for good and bad.
 
-**[MBA Mondays: Revenue Models - Mobile](http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-mobile.html)**<br/>
-Fred Wilson - avc.com - 2013-02-11
+**[MBA Mondays: Revenue Models - Commerce](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-commerce.html)**<br/>
+Fred Wilson - avc.com - 2012-12-17
 
-> As attractive as selling apps and running ads on them is, I believe the biggest and most attractive model in mobile is the transaction. Slowly but surely, our phone is becoming our wallet. And I don't mean wallet in the way that Google and PayPal think. I don't think we will necessarily have a mobile wallet. I think the apps on the phones will just have native transaction capability in them.
+> Commerce represents the largest and most common online revenue model. But it is not an easy one to execute profitably. It lends itself to commoditization and margin compression in most cases and the economies go to scale players like Amazon, eBay, and Walmart.
 
 **[MBA Mondays: Revenue Models - Data](http://www.avc.com/2013/02/mba-mondays-revenue-models-data/)**<br/>
 Fred Wilson - avc.com - 2013-02-04
 
 > The Internet is a data generating machine. According to Eric Schmidt, every two days now we create as much information as we did from the dawn of civilization up until  2003. It's also incredibly good at presenting that data, both to humans and machines. So it makes sense that collecting and publishing data is one of the primary business models on the Internet.
 
+**[MBA Mondays: Revenue Models - Gaming](http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-gaming.html)**<br/>
+Fred Wilson - avc.com - 2013-02-18
+
+> Gaming isn't a revenue model itself, but it does offer a number of interesting revenue models and is worth discussing in a post in this series.
+
 **[MBA Mondays: Revenue Models - Licensing](http://www.avc.com/2013/01/mba-mondays-revenue-models-licensing/)**<br/>
 Fred Wilson - avc.com - 2013-01-28
 
 > Licensing, according to wikipedia, is an authorization (by the licensor) to use the licensed material (by the licensee). Of all the business models listed on the revenue model hackpad, licensing is the least net native business model. There is very little about the internet that makes licensing work better and there is a lot that makes it work worse. 
 
-**[MBA Mondays: Revenue Models - Transaction Processing](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-transaction-processing.html)**<br/>
-Fred Wilson - avc.com - 2013-01-21
+**[MBA Mondays: Revenue Models - Mobile](http://www.avc.com/a_vc/2013/02/mba-mondays-revenue-models-mobile.html)**<br/>
+Fred Wilson - avc.com - 2013-02-11
 
-> The thing that all of these forms of transaction processing have in common is the processor handles a transaction that was generated by another product or service and provides some form of completion service and charges a fee for doing so. That could be processing a credit card transaction, handling a banking transaction, shipping something to someone, completing a call originated on another network, or distributing a third party app on an internet or mobile platform.
+> As attractive as selling apps and running ads on them is, I believe the biggest and most attractive model in mobile is the transaction. Slowly but surely, our phone is becoming our wallet. And I don't mean wallet in the way that Google and PayPal think. I don't think we will necessarily have a mobile wallet. I think the apps on the phones will just have native transaction capability in them.
 
 **[MBA Mondays: Revenue Models - Peer to Peer](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-peer-to-peer.html)**<br/>
 Fred Wilson - avc.com - 2013-01-14
@@ -571,15 +593,10 @@ Fred Wilson - avc.com - 2013-01-07
 
 > Today, most software is sold in a subscription model. You pay a monthly fee for the right to use the software. If you stop paying the monthly fee, your right to use the software goes away. Maintenance and support is bundled in. The emergence of the subscription model has made the software business better. In the old upfront license fee model, software companies would trade at 2-4x revenues. Now they trade at 6-8x revenues. That reflects the recurring, almost annuity nature of the subscription model.
 
-**[MBA Mondays: Revenue Models - Commerce](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-commerce.html)**<br/>
-Fred Wilson - avc.com - 2012-12-17
+**[MBA Mondays: Revenue Models - Transaction Processing](http://www.avc.com/a_vc/2013/01/mba-mondays-revenue-models-transaction-processing.html)**<br/>
+Fred Wilson - avc.com - 2013-01-21
 
-> Commerce represents the largest and most common online revenue model. But it is not an easy one to execute profitably. It lends itself to commoditization and margin compression in most cases and the economies go to scale players like Amazon, eBay, and Walmart.
-
-**[MBA Mondays: Revenue Models - Advertising](http://www.avc.com/a_vc/2012/12/mba-mondays-revenue-models-advertising.html)**<br/>
-Fred Wilson - avc.com - 2012-12-10
-
-> I would break up advertising into two big buckets; ads that are sold and ads that are bought. The first is a relationship business, requires a direct salesforce or a salesforce that you can tap into, and will bring a higher revenue per impression in most cases. The latter is a data business, automated by machines and software, is a volume game and will bring a lower revenue per impression in most cases. Much of the online advertising market is moving inexorably toward the latter category, for good and bad.
+> The thing that all of these forms of transaction processing have in common is the processor handles a transaction that was generated by another product or service and provides some form of completion service and charges a fee for doing so. That could be processing a credit card transaction, handling a banking transaction, shipping something to someone, completing a call originated on another network, or distributing a third party app on an internet or mobile platform.
 
 **[Product > Strategy > Business Model](http://www.avc.com/a_vc/2013/06/product-strategy-business-model.html)**<br/>
 Fred Wilson - avc.com - 2012-06-02
@@ -593,15 +610,15 @@ Fred Wilson - avc.com - 2013-04-08
 
 > When something goes badly in your company, for many the initial instinct is to keep things under wraps as much as possible to avoid freaking everyone out. I would argue that it is better to acknowledge the crisis and use it to your advantage. Change is hard to bring to an organization and a time of crisis is often a perfect time to make some changes that you have wanted to make for a while. It creates a perfect backdrop and context for doing that.
 
-**[Pivoting](http://cdixon.org/2010/06/15/pivoting/)**<br/>
-Chris Dixon - cdixon.org - 2010-06-14
-
-> You aren’t throwing away what you’ve learned or the good things you’ve built. You are keeping your strong leg grounded and adjusting your weak leg to move in a new direction.
-
 **[Pivot, don't jump to a new vision](http://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html)**<br/>
 Eric Ries - startuplessonslearned.com
 
 > 
+
+**[Pivoting](http://cdixon.org/2010/06/15/pivoting/)**<br/>
+Chris Dixon - cdixon.org - 2010-06-14
+
+> You aren’t throwing away what you’ve learned or the good things you’ve built. You are keeping your strong leg grounded and adjusting your weak leg to move in a new direction.
 
 ### Business: Planning & Strategy
 
@@ -622,42 +639,47 @@ Fred Wilson - avc.com - 2013-04-08
 
 > When something goes badly in your company, for many the initial instinct is to keep things under wraps as much as possible to avoid freaking everyone out. I would argue that it is better to acknowledge the crisis and use it to your advantage. Change is hard to bring to an organization and a time of crisis is often a perfect time to make some changes that you have wanted to make for a while. It creates a perfect backdrop and context for doing that.
 
-**[Five Whys, Part 3: Legacy Startups](http://venturehacks.com/articles/five-whys-3)**<br/>
-Babak Nivi - venturehacks.com - 2008-11-19
+**[Five Whys, Part 1: The Startup Immune System](http://venturehacks.com/articles/five-whys)**<br/>
+Babak Nivi - venturehacks.com - 2008-11-04
 
-> It’s never too late to start applying five whys, even if you’re saddled with zillions of lines of legacy code. Just start asking why whenever you find a problem—you’ll automatically start fixing the 20% of underlying issues that cause 80% of your problems. Five whys was first discovered by Toyota—if it can work for cars, it can work for you.
+> Whenever you find a defect, ask why five times to discover the root cause of the problem. Then make corrections at every level of the analysis. By applying five whys whenever you find a defect, you will (1) uncover the human problems beneath technical problems and (2) build an immune system for your startup.
 
 **[Five Whys, Part 2: How to Get Started](http://venturehacks.com/articles/five-whys-2)**<br/>
 Babak Nivi - venturehacks.com - 2008-11-17
 
 > Get started with five whys by applying it to a specific team with a specific problem. Select a five whys master to conduct a post mortem with everyone who was involved in the problem. Email the results of the analysis to the whole company. Repeatedly applying five whys at IMVU created a startup immune system that let our developers go faster by reducing mistakes.
 
-**[Five Whys, Part 1: The Startup Immune System](http://venturehacks.com/articles/five-whys)**<br/>
-Babak Nivi - venturehacks.com - 2008-11-04
+**[Five Whys, Part 3: Legacy Startups](http://venturehacks.com/articles/five-whys-3)**<br/>
+Babak Nivi - venturehacks.com - 2008-11-19
 
-> Whenever you find a defect, ask why five times to discover the root cause of the problem. Then make corrections at every level of the analysis. By applying five whys whenever you find a defect, you will (1) uncover the human problems beneath technical problems and (2) build an immune system for your startup.
+> It’s never too late to start applying five whys, even if you’re saddled with zillions of lines of legacy code. Just start asking why whenever you find a problem—you’ll automatically start fixing the 20% of underlying issues that cause 80% of your problems. Five whys was first discovered by Toyota—if it can work for cars, it can work for you.
 
 ### Business: Product/Market Fit
 
-**[Zero to Product/Market Fit (Presentation)](http://andrewchen.co/2013/10/14/zero-to-productmarket-fit-presentation/)**<br/>
-Andrew Chen - andrewchen.co - 2013-10-14
+**[Don’t Hire a Marketer before Product/Market Fit](http://www.startup-marketing.com/dont-hire-a-marketer-for-your-early-stage-startup/)**<br/>
+Sean Ellis - startup-marketing.com - 2009-02-14
 
-> A few months ago, I spoke to a group of entrepreneurs at Stanford whose seed stage companies were still struggling to get product/market fit. I wrote down a few thoughts on the topic and turned it into slides. It’s really an extended version of this essay from 2011, but incorporates some newer thinking based on stuff I’ve learned in the meantime.
-
-**[How to Bring a Product to Market, Part 2 — After Product/Market Fit](http://venturehacks.com/articles/sean-ellis-interview-2)**<br/>
-Babak Nivi - venturehacks.com - 2010-01-12
-
-> Here, Sean Ellis explains what you do after fit: optimizing your positioning, implementing a business model, and optimizing your funnel — all so you’re prepared to acquire users quickly and profitably.
+> I add a customer development specialist when the Validation Step begins, which is the role I fill with startups. I belive eventually many people will specialize in this critical stage.  Without a specialist, startups waste critical time and resources deciding where to execute. It’s surprising how similiar the process of uncovering the critical information needed to drive customer adoption across different types of startups.
 
 **[How to Bring a Product to Market / A Very Rare Interview with Sean Ellis - by Babak Nivi](http://venturehacks.com/articles/sean-ellis-interview)**<br/>
 Babak Nivi - venturehacks.com - 2009-12-14
 
 > In an early stage startup you have an opportunity to put a product out there, get that initial user feedback, and then you have two choices. If that feedback is really strong and the users say that they’d be very disappointed without it, in a large percentage, then you can try to grow the business. Alternatively, if they come back and say that they wouldn’t be that disappointed without the product, then you have the choices where you can either try to grow it or you can decide that you’re not going to try and grow the business. And to me, my recommendation has always been to decide not to grow the business if it doesn’t have a lot of people that are real passionate about the solutions.
 
+**[How to Bring a Product to Market, Part 2 — After Product/Market Fit](http://venturehacks.com/articles/sean-ellis-interview-2)**<br/>
+Babak Nivi - venturehacks.com - 2010-01-12
+
+> Here, Sean Ellis explains what you do after fit: optimizing your positioning, implementing a business model, and optimizing your funnel — all so you’re prepared to acquire users quickly and profitably.
+
 **[The First Thing That Matters: Product/Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit/)**<br/>
 Ash Maurya - practicetrumpstheory.com - 2009-11-01
 
 > While I completely agree that achieving product/market fit is the necessary prerequisite to kicking into growth mode, I believe some level of preliminary landing page and positioning testing is absolutely required towards achieving product/market fit. After our call, I re-read both Steve Blank’s and Sean Ellis’ views on this and think they would agree too. Although I think Steve has a stricter definition of what achieving Product/Market fit looks like than Sean.
+
+**[The Pmarca Guide To Startups, Part 4: The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)**<br/>
+Marc Andreessen - pmarchive.com - 2007-06-25
+
+> I believe that the life of any startup can be divided into two parts: before product/market fit (call this 'BPMF') and after product/market fit ('APMF'). When you are BPMF, focus obsessively on getting to product/market fit.
 
 **[The Startup Pyramid](http://www.startup-marketing.com/the-startup-pyramid/)**<br/>
 Sean Ellis - startup-marketing.com - 2009-07-27
@@ -669,15 +691,10 @@ Andrew Chen - andrewchen.co - 2009-06-15
 
 > My central argument is that if you believe that every startup is an iterative learning process that converges towards product/market fit, then you need extremely high-fidelity signals to tell you if you’re going in the right direction. That means that along with trying to charge people money from early on, which is the highest form of “I love this!” you should give people valves to tell you “I hate this!” so that you can learn more faster.
 
-**[Don’t Hire a Marketer before Product/Market Fit](http://www.startup-marketing.com/dont-hire-a-marketer-for-your-early-stage-startup/)**<br/>
-Sean Ellis - startup-marketing.com - 2009-02-14
+**[Zero to Product/Market Fit (Presentation)](http://andrewchen.co/2013/10/14/zero-to-productmarket-fit-presentation/)**<br/>
+Andrew Chen - andrewchen.co - 2013-10-14
 
-> I add a customer development specialist when the Validation Step begins, which is the role I fill with startups. I belive eventually many people will specialize in this critical stage.  Without a specialist, startups waste critical time and resources deciding where to execute. It’s surprising how similiar the process of uncovering the critical information needed to drive customer adoption across different types of startups.
-
-**[The Pmarca Guide To Startups, Part 4: The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)**<br/>
-Marc Andreessen - pmarchive.com - 2007-06-25
-
-> I believe that the life of any startup can be divided into two parts: before product/market fit (call this 'BPMF') and after product/market fit ('APMF'). When you are BPMF, focus obsessively on getting to product/market fit.
+> A few months ago, I spoke to a group of entrepreneurs at Stanford whose seed stage companies were still struggling to get product/market fit. I wrote down a few thoughts on the topic and turned it into slides. It’s really an extended version of this essay from 2011, but incorporates some newer thinking based on stuff I’ve learned in the meantime.
 
 ### Business: Promotion & Traction
 
@@ -688,59 +705,59 @@ Noah Kagan - andrewchen.co - 2014-08-14
 
 ### Business: Recruiting & Employment
 
-**[Say hello to the talent hacker](https://medium.com/makeshift-studios/say-hello-to-the-talent-hacker-c8ae87db4a58)**<br/>
-Nick Marsh - medium.com - 2014-06-20
+**[Don’t Hire a Marketer before Product/Market Fit](http://www.startup-marketing.com/dont-hire-a-marketer-for-your-early-stage-startup/)**<br/>
+Sean Ellis - startup-marketing.com - 2009-02-14
 
-> I want to introduce a new concept — ‘talent hacking’. I define this as the creative application of technology and data to the problem of building new teams.
+> I add a customer development specialist when the Validation Step begins, which is the role I fill with startups. I belive eventually many people will specialize in this critical stage.  Without a specialist, startups waste critical time and resources deciding where to execute. It’s surprising how similiar the process of uncovering the critical information needed to drive customer adoption across different types of startups.
 
 **[How I Hire: The 4 Principles For Recruiting the Best of the Best](https://www.linkedin.com/today/post/article/20130930190403-25056271-how-i-hire-the-4-principles-for-recruiting-the-best-of-the-best)**<br/>
 Justin Rosenstein - linkedin.com - 2013-09-30
 
 > 1. Get to know the whole person, 2. Communicate your company’s values, 3. Meet people now who you might want to hire later, 4. The best people want to work with the best people
 
+**[Say hello to the talent hacker](https://medium.com/makeshift-studios/say-hello-to-the-talent-hacker-c8ae87db4a58)**<br/>
+Nick Marsh - medium.com - 2014-06-20
+
+> I want to introduce a new concept — ‘talent hacking’. I define this as the creative application of technology and data to the problem of building new teams.
+
 **[Whom Should you Hire at a Startup?](http://www.bothsidesofthetable.com/2009/10/22/who-should-you-hire-at-a-startup/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-10-22
 
 > I believe that you should always hire people are are looking to “punch above their weight class,” which means to hire people who want to be one league above where they are today.
 
-**[Don’t Hire a Marketer before Product/Market Fit](http://www.startup-marketing.com/dont-hire-a-marketer-for-your-early-stage-startup/)**<br/>
-Sean Ellis - startup-marketing.com - 2009-02-14
-
-> I add a customer development specialist when the Validation Step begins, which is the role I fill with startups. I belive eventually many people will specialize in this critical stage.  Without a specialist, startups waste critical time and resources deciding where to execute. It’s surprising how similiar the process of uncovering the critical information needed to drive customer adoption across different types of startups.
-
 ### Business: SEO
-
-**[The Beginners Guide to SEO](http://moz.com/beginners-guide-to-seo)**<br/>
-MOZ - moz.com
-
-> New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 1 million times and provides comprehensive information you need to get on the road to professional quality SEO.
 
 **[Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)**<br/>
 Google - static.googleusercontent.com
 
 > This document first began as an effort to help teams within Google, but we thought it'd be just as useful to webmasters that are new to the topic of search engine optimization and wish to improve their sites' interaction with both users and search engines. Although this guide won't tell you any secrets that'll automatically rank your site first for queries in Google (sorry!), following the best practices outlined below will make it easier for search engines to crawl, index and understand your content.
 
+**[The Beginners Guide to SEO](http://moz.com/beginners-guide-to-seo)**<br/>
+MOZ - moz.com
+
+> New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 1 million times and provides comprehensive information you need to get on the road to professional quality SEO.
+
 ### Business: Scaling & Growth
-
-**[Product Hunt is Everywhere - This is How It Got There](http://firstround.com/article/Product-Hunt-is-Everywhere-This-is-How-It-Got-There)**<br/>
-First Round Capital - firstround.com - 2014-07-29
-
-> If I hadn’t been blogging and active on Twitter, I think it would have taken way longer for Product Hunt to become what it is right now. So my advice is to start early. If you want people to listen to you eventually, you have to build trust over time.'
-
-**[There’s only a few ways to scale user growth, and here’s the list](http://andrewchen.co/2014/07/08/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/)**<br/>
-Andrew Chen - andrewchen.co - 2014-07-08
-
-> 1. Paid acquisition, 2. Virality, 3. SEO, 4. Sales, 5. Other
 
 **[Presentation: The Ultimate Guide to Funnel Optimization](http://www.sean-johnson.com/ultimate-guide-to-funnel-optimization/)**<br/>
 Sean Johnson - sean-johnson.com - 2013-04-16
 
 > Discover how smart startups are optimizing each step of the customer development funnel.
 
+**[Product Hunt is Everywhere - This is How It Got There](http://firstround.com/article/Product-Hunt-is-Everywhere-This-is-How-It-Got-There)**<br/>
+First Round Capital - firstround.com - 2014-07-29
+
+> If I hadn’t been blogging and active on Twitter, I think it would have taken way longer for Product Hunt to become what it is right now. So my advice is to start early. If you want people to listen to you eventually, you have to build trust over time.'
+
 **[Startup = Growth](http://www.paulgraham.com/growth.html)**<br/>
 Paul Graham - paulgraham.com - 2012-09-01
 
 > A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth.
+
+**[There’s only a few ways to scale user growth, and here’s the list](http://andrewchen.co/2014/07/08/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/)**<br/>
+Andrew Chen - andrewchen.co - 2014-07-08
+
+> 1. Paid acquisition, 2. Virality, 3. SEO, 4. Sales, 5. Other
 
 ### Business: Social
 
@@ -756,6 +773,11 @@ Brad Feld - feld.com - 2013-08-16
 
 > My experience with all of this is that it’s incredibly hard, breaks regularly at different points in the life of a company, and requires a great CEO to continually grow and learn from mistakes, adjust course based on new information, and work diligently at being honest with himself, his team, and his board about what is going on. But, if you get it right, it’s magical.
 
+**[The Management Team - While Building Product](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-product.html)**<br/>
+Fred Wilson - avc.com - 2012-01-02
+
+> Building product is not about having a large team to manage. It is about having a small team with the right people on it. You need product, design, and software engineering skills on the team. And you need to be focused, committed, and driven. Management at this point is all about small team dynamics; everyone on board, working together, and getting stuff done. Strong individual contributors are key in this stage. Management skills are not a requirement. In fact they may even be a hindrance.
+
 **[The Management Team - While Building The Business](http://www.avc.com/2012/01/the-management-team-while-building-the-business/)**<br/>
 Fred Wilson - avc.com - 2012-01-16
 
@@ -765,11 +787,6 @@ Fred Wilson - avc.com - 2012-01-16
 Fred Wilson - avc.com - 2012-01-09
 
 > So you've built and launched your product. It is well received. You've acheived "product market fit" and it is time to get more users or customers. You've graduated from the "building product" stage and have entered the "building usage" phase. What does this mean for your team?
-
-**[The Management Team - While Building Product](http://www.avc.com/a_vc/2012/01/the-management-team-while-building-product.html)**<br/>
-Fred Wilson - avc.com - 2012-01-02
-
-> Building product is not about having a large team to manage. It is about having a small team with the right people on it. You need product, design, and software engineering skills on the team. And you need to be focused, committed, and driven. Management at this point is all about small team dynamics; everyone on board, working together, and getting stuff done. Strong individual contributors are key in this stage. Management skills are not a requirement. In fact they may even be a hindrance.
 
 **[VP Engineering vs CTO](http://www.avc.com/a_vc/2011/10/vp-engineering-vs-cto.html)**<br/>
 Fred Wilson - avc.com - 2011-10-31
@@ -781,37 +798,37 @@ Fred Wilson - avc.com - 2011-10-24
 
 > I generally encourage companies to wait as long as possible to bring on a CFO. Great CFOs are few and far between. And in order to recruit one of them, you will need an interesting business and a meaty role. VP Finance talent is in larger supply and they can take you very far. Get a VP Finance onboard as soon as you can afford one. They will let you sleep at night. Get a CFO on board when you are ready to take on the world. You can't do that without a strong one at your side.
 
-**[What A Management Team Does](http://www.avc.com/a_vc/2011/02/what-a-management-team-does.html)**<br/>
-Fred Wilson - avc.com - 2011-02-09
-
-> The best management teams create cultures that people enjoy working in. And from that comes great things. I see that every day.
-
 **[What A CEO Does](http://www.avc.com/a_vc/2010/08/what-a-ceo-does.html)**<br/>
 Fred Wilson - avc.com - 2010-08-30
 
 > A CEO does only three things. Sets the overall vision and strategy of the company and communicates it to all stakeholders. Recruits, hires, and retains the very best talent for the company. Makes sure there is always enough cash in the bank.
 
+**[What A Management Team Does](http://www.avc.com/a_vc/2011/02/what-a-management-team-does.html)**<br/>
+Fred Wilson - avc.com - 2011-02-09
+
+> The best management teams create cultures that people enjoy working in. And from that comes great things. I see that every day.
+
 ### Business: Teamwork & Communication
-
-**[No Email at AngelList](http://venturehacks.com/articles/no-email-at-angellist)**<br/>
-Babak Nivi - venturehacks.com - 2013-03-22
-
-> We use very little email at AngelList. Most of our communication happens on Yammer, HipChat, Tracker and face-to-face. This probably gets us a 90% reduction in email. If you’re running your company via email, you’re missing out on newer, more effective communications technologies.
 
 **[1-(wo)man Startups](http://venturehacks.com/articles/1-wo-man-startups)**<br/>
 Babak Nivi - venturehacks.com - 2013-02-15
 
 > The AngelList team is roughly organized into 1-(wo)man startups. That means we expect you to treat your project like a startup. You come up with the idea, do the design, write the code, release it, market it, support customers, collect external and internal feedback and then get to work on the next version. We also expect you to work directly with our business partners like SecondMarket, VC funds and incubators.
 
+**[360 Reviews](http://www.avc.com/a_vc/2011/04/360-reviews.html)**<br/>
+Fred Wilson - avc.com - 2011-04-07
+
+> I think companies as small as 10 employees can benefit from 360 reviews and I strongly recommend them to our portfolio companies. When I see a CEO or a management team resist the idea of 360 reviews, it can be a red flag to me. I like to think that everyone can and should get feedback on their performance, be open to it, and that they will certainly benefit from it.
+
 **[Ask Forgiveness, Not Permission](http://venturehacks.com/articles/ask-forgiveness-not-permission)**<br/>
 Babak Nivi - venturehacks.com - 2013-02-11
 
 > AngelList “corporate policy” is that team members should ask forgiveness, not permission. We would rather have someone do something wrong than ask permission to do it. Or better, we would rather have someone do something right and not need permission to do it. This is the most common outcome. We would rather have people ship to production whenever they want, than go through an internal review process. We can fix it on production. We prefer the customer’s review process. And it isn’t too hard to reveal a new feature to a small portion of our users and iterate on it as we expand it to more users.
 
-**[360 Reviews](http://www.avc.com/a_vc/2011/04/360-reviews.html)**<br/>
-Fred Wilson - avc.com - 2011-04-07
+**[No Email at AngelList](http://venturehacks.com/articles/no-email-at-angellist)**<br/>
+Babak Nivi - venturehacks.com - 2013-03-22
 
-> I think companies as small as 10 employees can benefit from 360 reviews and I strongly recommend them to our portfolio companies. When I see a CEO or a management team resist the idea of 360 reviews, it can be a red flag to me. I like to think that everyone can and should get feedback on their performance, be open to it, and that they will certainly benefit from it.
+> We use very little email at AngelList. Most of our communication happens on Yammer, HipChat, Tracker and face-to-face. This probably gets us a 90% reduction in email. If you’re running your company via email, you’re missing out on newer, more effective communications technologies.
 
 ### Business: Trends & Spaces
 
@@ -822,20 +839,20 @@ Boris Silver - medium.com - 2014-01-23
 
 ### Business: Venture Capital
 
-**[The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity/)**<br/>
-Fred Wilson - avc.com - 2014-07-24
+**[A Dozen Things I’ve Learned From Marc Andreessen](http://25iq.com/2014/06/14/a-dozen-things-ive-learned-from-marc-andreessen/)**<br/>
+? - 25iq.com
 
-> Capturing pro-rata' is sooooo important in early stage venture. You make 20 investments in a fund. One is going to return the entire fund. Two more are going to return it again. A few more are going to have strong outcomes and return it again. The rest are noise when it comes to fund returns (but you better not treat them like noise).
+> My primary task with this blog post has been assembling the quotations and placing them in an order which flows well, since understanding the earlier topics helps the reader understand ideas which come later in the list
 
 **[The Changing Structure of the VC Industry](https://medium.com/@msuster/the-changing-structure-of-the-vc-industry-84be1fdf73a2)**<br/>
 Mark Suster - medium.com - 2014-07-23
 
 > Cheap, mobile, social, global, always-on, one-click-purchase = Unprecedented revenue growth + companies staying private longer = More opportunities than ever in history for venture capital firms = Lots of new, non-traditional entrants moving to capture this value = Amazing opportunities + Risks + Uncertainties for the coming decade for entrepreneurs, VCs and LPs.
 
-**[A Dozen Things I’ve Learned From Marc Andreessen](http://25iq.com/2014/06/14/a-dozen-things-ive-learned-from-marc-andreessen/)**<br/>
-? - 25iq.com
+**[The Pro-Rata Opportunity](http://avc.com/2014/07/the-pro-rata-opportunity/)**<br/>
+Fred Wilson - avc.com - 2014-07-24
 
-> My primary task with this blog post has been assembling the quotations and placing them in an order which flows well, since understanding the earlier topics helps the reader understand ideas which come later in the list
+> Capturing pro-rata' is sooooo important in early stage venture. You make 20 investments in a fund. One is going to return the entire fund. Two more are going to return it again. A few more are going to have strong outcomes and return it again. The rest are noise when it comes to fund returns (but you better not treat them like noise).
 
 ### Development: Best Practices
 
@@ -846,25 +863,25 @@ Adam Wiggins - 12factor.net - 2012-01-30
 
 ### Development: CI & Deployment
 
-**[The Future Workplace Is Now: How Etsy Makes 30 Innovations Per Day - Forbes](http://www.forbes.com/sites/stevedenning/2014/04/04/at-etsy-the-future-workplace-is-now-thirty-innovations-per-day/)**<br/>
-Steve Denning - forbes.com - 2014-04-04
+**[Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly](http://www.thoughtworks.com/continuous-integration)**<br/>
+Martin Fowler - thoughtworks.com
 
-> With an average of 30 innovations to the website deployed each day, we are looking at innovation on steroids. Each of the changes is small, but a small change can be significant, sometimes adding millions of dollars in sales. Doing all this change in tiny increments at warp speed within the framework of a central strategy enables extremely rapid innovation and learning, as well as much greater facility in spotting and fixing any problems that may emerge.
-
-**[Flipping Out](http://code.flickr.net/2009/12/02/flipping-out/)**<br/>
-Ross Harmes - code.flickr.net - 2009-12-02
-
-> Flickr is somewhat unique in that it uses a code repository with no branches; everything is checked into head, and head is pushed to production several times a day. This works well for bug fixes that we want to go out immediately, but presents a problem when we’re working on a new feature that takes several months to complete. How do we solve that problem? With flags and flippers!
+> Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
 **[Emergent Properties of Continual Automation](http://timothyfitz.com/2009/02/13/continual-automation/)**<br/>
 Timothy Fitz - timothyfitz.com - 2009-02-13
 
 > Once a task has been automated to take dramatically less time, a threshold is crossed and at which point you can exploit emergent properties. Or in other words, crazy-ass improvements.
 
-**[Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly](http://www.thoughtworks.com/continuous-integration)**<br/>
-Martin Fowler - thoughtworks.com
+**[Flipping Out](http://code.flickr.net/2009/12/02/flipping-out/)**<br/>
+Ross Harmes - code.flickr.net - 2009-12-02
 
-> Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+> Flickr is somewhat unique in that it uses a code repository with no branches; everything is checked into head, and head is pushed to production several times a day. This works well for bug fixes that we want to go out immediately, but presents a problem when we’re working on a new feature that takes several months to complete. How do we solve that problem? With flags and flippers!
+
+**[The Future Workplace Is Now: How Etsy Makes 30 Innovations Per Day - Forbes](http://www.forbes.com/sites/stevedenning/2014/04/04/at-etsy-the-future-workplace-is-now-thirty-innovations-per-day/)**<br/>
+Steve Denning - forbes.com - 2014-04-04
+
+> With an average of 30 innovations to the website deployed each day, we are looking at innovation on steroids. Each of the changes is small, but a small change can be significant, sometimes adding millions of dollars in sales. Doing all this change in tiny increments at warp speed within the framework of a central strategy enables extremely rapid innovation and learning, as well as much greater facility in spotting and fixing any problems that may emerge.
 
 ### Development: CSS
 
@@ -882,15 +899,15 @@ David Heinemeier Hansson - signalvnoise.com - 2012-02-19
 
 ### Development: Data
 
-**[Zero downtime database migrations by @jipiboily](https://blog.rainforestqa.com/2014-06-27-zero-downtime-database-migrations/)**<br/>
-Jean-Philippe Boily - blog.rainforestqa.com - 2014-06-27
-
-> All developers will at some time or other have to deploy code that changes the structure of a database. You might have downtime during these deploys due to database changes being required by the new code that you just deployed. There are easy ways to work around those downtimes and provide you a real zero downtime deployment process.
-
 **[Fast and Flexible Monitoring with StatsD, Graphite and Librato](http://red-badger.com/blog/2013/11/04/fast-and-flexible-monitoring-with-statsd-graphite-and-librato/)**<br/>
 Joe Stanton - red-badger.com - 2013-11-04
 
 > Everyone knows you need data to make decisions. If you’re developing software of any sort, quick access to metrics can enable you to answer important questions like this: Is your app working? If not, which piece of your infrastructure specifically broke? Which areas need performance optimization? Do you need to scale? What was the impact of your recent code deployment? Do your users care? At development time, we can get all of the data we need, we use it for debugging, performance optimization etc. but what good is data if it’s not real-world? Things that should be true in 2013: Pushing your app to production shouldn’t mean a loss of insight. We should be able to measure everything, at all layers of the stack. We should get infrastructure and application monitoring by default. We should be able to visualise that data quickly and easily, so we can use it to solve problems and make informed decisions.
+
+**[Zero downtime database migrations by @jipiboily](https://blog.rainforestqa.com/2014-06-27-zero-downtime-database-migrations/)**<br/>
+Jean-Philippe Boily - blog.rainforestqa.com - 2014-06-27
+
+> All developers will at some time or other have to deploy code that changes the structure of a database. You might have downtime during these deploys due to database changes being required by the new code that you just deployed. There are easy ways to work around those downtimes and provide you a real zero downtime deployment process.
 
 ### Development: Design Patterns
 
@@ -977,23 +994,8 @@ OWASP - owasp.org
 
 ### Development: Source Control
 
-**[Git cheatsheet](https://help.github.com/articles/git-cheatsheet)**<br/>
-GitHub - help.github.com - 2014-02-28
-
-> 
-
-**[git - the simple guide](http://rogerdudler.github.io/git-guide/)**<br/>
-Roger Dudler - rogerdudler.github.io - 2012-01-09
-
-> 
-
-**[Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)**<br/>
-Nick Farina - nfarina.com - 2011-09-01
-
-> 
-
-**[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)**<br/>
-Scott Chacon - scottchacon.com - 2011-08-31
+**[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)**<br/>
+Mark Lodato - marklodato.github.io - 2010-01-01
 
 > 
 
@@ -1002,8 +1004,18 @@ Vincent Driessen - nvie.com - 2010-01-05
 
 > 
 
-**[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)**<br/>
-Mark Lodato - marklodato.github.io - 2010-01-01
+**[Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)**<br/>
+Nick Farina - nfarina.com - 2011-09-01
+
+> 
+
+**[Git cheatsheet](https://help.github.com/articles/git-cheatsheet)**<br/>
+GitHub - help.github.com - 2014-02-28
+
+> 
+
+**[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)**<br/>
+Scott Chacon - scottchacon.com - 2011-08-31
 
 > 
 
@@ -1017,57 +1029,37 @@ Sam Livingston-Gray - think-like-a-git.net
 
 > 
 
+**[git - the simple guide](http://rogerdudler.github.io/git-guide/)**<br/>
+Roger Dudler - rogerdudler.github.io - 2012-01-09
+
+> 
+
 ### Development: Testing
-
-**[Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)**<br/>
-Kent Beck, David Heinemeier Hansson, Martin Fowler - martinfowler.com - 2014-05-09
-
-> A series of conversations between Kent Beck, David Heinemeier Hansson, and [Martin Fowler] on the topic of Test-Driven Development (TDD) and its impact upon software design.
-
-**[Test-induced design damage](http://david.heinemeierhansson.com/2014/test-induced-design-damage.html)**<br/>
-David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-29
-
-> The design integrity of your system is far more important than being able to test it any particular layer. Stop obsessing about unit tests, embrace backfilling of tests when you're happy with the design, and strive for overall system clarity as your principle pursuit.
-
-**[TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)**<br/>
-David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-23
-
-> Test-first fundamentalism is like abstinence-only sex ed: An unrealistic, ineffective morality campaign for self-loathing and shaming.
 
 **[Better Specs: RSpec Guidelines With Ruby](http://betterspecs.org/)**<br/>
 Andrea Reginato - betterspecs.org
 
 > RSpec is a great tool in the behavior-driven development (BDD) process of writing human readable specifications that direct and validate the development of your application. On the web there are many resources that give complete overview of _what_ you can do with RSpec. But there are fewer resources devoted to how to create a great RSpec test suite. Better Specs tries to fill this gap by collecting most of the best practices" that other developers learn through years of experience."
 
+**[Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)**<br/>
+Kent Beck, David Heinemeier Hansson, Martin Fowler - martinfowler.com - 2014-05-09
+
+> A series of conversations between Kent Beck, David Heinemeier Hansson, and [Martin Fowler] on the topic of Test-Driven Development (TDD) and its impact upon software design.
+
+**[TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)**<br/>
+David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-23
+
+> Test-first fundamentalism is like abstinence-only sex ed: An unrealistic, ineffective morality campaign for self-loathing and shaming.
+
+**[Test-induced design damage](http://david.heinemeierhansson.com/2014/test-induced-design-damage.html)**<br/>
+David Heinemeier Hansson - david.heinemeierhansson.com - 2014-04-29
+
+> The design integrity of your system is far more important than being able to test it any particular layer. Stop obsessing about unit tests, embrace backfilling of tests when you're happy with the design, and strive for overall system clarity as your principle pursuit.
+
 ### Development: UX, UI, & Design
-
-**[Design Tips For Developers](http://www.duetapp.com/blog/design-tips-for-developers/)**<br/>
-Saleem El-Amin - duetapp.com - 2014-07-08
-
-> Here’s a list of things that I think are important to becoming good at design when all you have is development background
-
-**[Good UI](http://goodui.org/)**<br/>
-Jakub Linowski - goodui.org - 2014-07-04
-
-> 
-
-**[Creating Style Guides](http://alistapart.com/article/creating-style-guides)**<br/>
-Susan Robertson - alistapart.com - 2014-04-08
-
-> 
-
-**[OmniGraffle Wireflows](http://wireframes.linowski.ca/2009/12/omnigraffle-wireflows/)**<br/>
-Linowski - wireframes.linowski.ca - 2009-12-29
-
-> 
 
 **[10 Useful Usability Findings and Guidelines](http://www.smashingmagazine.com/2009/09/24/10-useful-usability-findings-and-guidelines/)**<br/>
 Dmitry Fadeyev - smashingmagazine.com - 2009-09-24
-
-> 
-
-**[Designing for the Non-Designer – Part I The Basics](http://www.nurelm.com/themanual/2009/07/07/designing-for-the-non-designer-part-i-the-basics/)**<br/>
-NuRelm - nurelm.com - 2009-07-07
 
 > 
 
@@ -1081,10 +1073,35 @@ Tamino Martinius, Andreas Storm - colourco.de
 
 > 
 
+**[Creating Style Guides](http://alistapart.com/article/creating-style-guides)**<br/>
+Susan Robertson - alistapart.com - 2014-04-08
+
+> 
+
+**[Design Tips For Developers](http://www.duetapp.com/blog/design-tips-for-developers/)**<br/>
+Saleem El-Amin - duetapp.com - 2014-07-08
+
+> Here’s a list of things that I think are important to becoming good at design when all you have is development background
+
+**[Designing for the Non-Designer – Part I The Basics](http://www.nurelm.com/themanual/2009/07/07/designing-for-the-non-designer-part-i-the-basics/)**<br/>
+NuRelm - nurelm.com - 2009-07-07
+
+> 
+
+**[Good UI](http://goodui.org/)**<br/>
+Jakub Linowski - goodui.org - 2014-07-04
+
+> 
+
+**[OmniGraffle Wireflows](http://wireframes.linowski.ca/2009/12/omnigraffle-wireflows/)**<br/>
+Linowski - wireframes.linowski.ca - 2009-12-29
+
+> 
+
 ### Development: Vim
 
-**[Vim Cheat Sheat for Programmers](http://michael.peopleofhonoronly.com/vim/)**<br/>
-Michael Pohoreski - michael.peopleofhonoronly.com - 2011-09-09
+**[Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)**<br/>
+Yehuda Katz - yehudakatz.com - 2010-07-29
 
 > 
 
@@ -1093,8 +1110,8 @@ Yann Esposito - yannesposito.com - 2011-08-29
 
 > 
 
-**[Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)**<br/>
-Yehuda Katz - yehudakatz.com - 2010-07-29
+**[Vim Cheat Sheat for Programmers](http://michael.peopleofhonoronly.com/vim/)**<br/>
+Michael Pohoreski - michael.peopleofhonoronly.com - 2011-09-09
 
 > 
 
