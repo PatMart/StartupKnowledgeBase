@@ -1,0 +1,73 @@
+uuid,subcategory,category
+b9069e05-a4a1-46a1-9216-a001729f0673,Advice & Mentorship,Business
+4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Business
+8dbe8b82-31f1-4544-9b49-2747bcd63687,Competition,Business
+e89ad43f-cc6b-4eae-964c-4a2593353b80,Culture & Values,Business
+1fb7ae45-2875-437e-b6a4-e48aca0e4b19,Customers,Business
+69b6e1f5-e37f-42a5-90dd-eeceb2a87793,Early Stage,Business
+5fd50719-66a1-438c-9826-2f39f104c407,Entrepreneurship,Business
+9fa177df-0a40-40e5-b00e-cc29c8da23d2,Exit,Business
+a7613378-fed9-43e0-b394-399583522ffa,Experiments & Learning,Business
+a4de7f46-db6f-44f0-8fa8-90b8fcd588d7,Feedback,Business
+06b09030-f6a6-4754-a2fd-e13c913411bc,Founding,Business
+63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Business
+7e2dfe1f-9314-4f62-a77e-8dc7c67b5389,General,Business
+4c3321b6-abc1-4f8b-a9b6-2822089550f6,Ideas & Vision,Business
+f55c5eff-0693-46a9-ad22-3d051a68d6e9,Inspiration,Business
+87edd22e-906c-4d0a-86c6-00eb155423fa,Leadership & Management,Business
+97e6b840-7b7c-480e-b0d1-f8060c6f5075,Lean Startup,Business
+4934ac56-8fa3-484e-8c58-c9e9a4e4e3cd,Legal & Incorporation,Business
+ae44f806-6794-408a-92e8-efdbdbec87d3,Lessons Learned,Business
+7ac35629-92df-4316-8f7c-866322bb886d,Market & Research,Business
+db484940-4359-4c36-9b35-7e8a959dcc75,Marketing & Sales,Business
+49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,Business
+71977d93-f4de-4bf4-96af-b6232aa7a266,Mistakes & Failure,Business
+677df6c2-fa44-4d6c-a39b-0368eb8df823,Mobile,Business
+6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Business
+94998081-2361-47ff-ae47-4eebef4c4ce8,Pivoting & Change,Business
+b2c4775e-5f69-4352-b0ab-ae9e73a255e4,Planning & Strategy,Business
+0a245c06-4600-4965-a711-f482e3e2550a,Problems & Problem Solving,Business
+32ca5695-578d-4bb8-9502-ac9151462a8e,Product,Business
+fc1c8dd8-ad4f-4361-b9a0-ab9080a75403,Product/Market Fit,Business
+8ce8030d-b418-4cec-9dab-f32917027fcb,Promotion & Traction,Business
+ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Business
+e06bbbe5-6dbf-48d7-bad5-a38d609d9509,Scaling & Growth,Business
+9538323f-54f8-4518-8d4c-325f42e547a8,SEO,Business
+7cbba343-1cba-49db-a9e3-84d65434613f,Social,Business
+a320fed7-834f-41e1-b140-78ad5338004e,Stock Market,Business
+8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Business
+c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,Business
+68af326b-aac3-486d-93f4-3946ca5e083e,Trends & Spaces,Business
+c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital,Business
+fe8e9098-80aa-41e4-b393-ca929025cb83,API,Development
+7dc636cd-19a9-45ec-b442-08f5ad413f30,Best Practices,Development
+bcfff9a8-899d-4a0e-92fd-94ff59911bdc,Caching,Development
+500e1ea0-3dd2-4cab-852d-78eef239265e,CI & Deployment,Development
+51ea90ef-847b-481d-81ea-a6282060006a,CSS,Development
+2c733c5b-b61e-40cb-b31f-fc5ee03be1f0,Data,Development
+52f8deda-bddc-4c8f-99ab-8831d1714e48,Design Patterns,Development
+49acd4d6-11c6-4648-ac84-1ade1fdeadfa,Employment,Development
+c2941b50-be5b-4730-868c-f3b04d678922,Experiments,Development
+7a7c2302-7305-410f-90e2-72e6baa6e197,Javascript,Development
+3cfa4806-563a-4a45-b1e5-f8a37f233041,Languages,Development
+01b4638d-7784-42a8-b69b-c95defc83346,Metrics & Analytics,Development
+6c1ba812-5773-46b2-a61d-3c6abcf7bd9f,Ops & Devops,Development
+a5d8f978-3ba3-4430-94e5-38c1f9f4c000,Process & Methodology,Development
+b2863f5b-0c63-49cc-8873-4df9229d44f5,Productivity,Development
+029babba-2c70-4edb-920c-e4d1f335149c,Ruby & Rails,Development
+cde98e9f-e049-454d-8686-1fb76e0dc128,Security,Development
+a174b1ed-d49c-405d-b4f6-b5d0a024e8a0,Social,Development
+5f5f0120-8ac8-4eb4-9c9f-8dd984829d82,Source Control,Development
+421605cd-57fd-4065-af6f-d06c82ac70a0,Testing,Development
+86ddd055-4b12-478b-a5f7-1cafcc4d30b7,"UX, UI, & Design",Development
+630cd678-6130-4dc3-87a1-0ddce983d007,Vim,Development
+d1b15459-ab41-4c2f-90ad-0bdafed4718f,Communication,Personal
+193fd335-2045-45eb-8f4b-cd84d71a8451,Employment,Personal
+0e5718c1-cd11-4306-879a-555d907de11b,Feedback & Mentorship,Personal
+2f954246-cc3d-4c20-b315-6d9c8462a74a,Information & Learning,Personal
+08e10479-f4be-47a9-a107-d12b9855591e,Networking,Personal
+ff5c61eb-625c-40e6-a835-7d907ab14993,Personal Growth,Personal
+bae93600-12bd-4019-9072-40e280b0d261,Personal Productivity,Personal
+536d6faa-f12f-4fb9-8b65-4db8490952a5,Qualities,Personal
+e9e76e68-f185-474a-a1c3-bc3caaa20b9c,Self-promotion,Personal
+d0e64790-2eed-458a-a1db-1af66143c04d,Writing,Personal

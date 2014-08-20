@@ -3,28 +3,25 @@
 require 'csv'
 require 'uri'
 
-class Article
-
-  attr_reader :opts, :published_at, :category, :subcategory, :title, :author, :essential, :summary, :url, :added_at
-
+class Table
   def initialize opts={}
     @opts = opts
-    @published_at = @opts['published_at']
-    @category     = @opts['category']
-    @subcategory  = @opts['subcategory']
-    @title        = @opts['title']
-    @author       = @opts['author']
-    @essential    = @opts['essential']
-    @summary      = @opts['summary']
-    @url          = @opts['url']
-    @added_at     = @opts['added_at']
+    @opts.keys.each do |k|
+      instance_variable_set "@#{k}", @opts[k]
+    end
   end
 
   class << self
-    def process csv_string
+    def process
+      csv_string = File.read(csv_source_file)
       hashes      = csv_to_arr_of_hashes csv_string
       hashes.map{|hash| new hash }
     end
+
+    def csv_source_file; "#{plural}.csv" end
+    def collection; eval("$#{plural}") end
+
+    def find(uuid); collection.select{|x| x.uuid==uuid }[0] end
 
     private
 
@@ -34,8 +31,29 @@ class Article
       csv.map{|row| h = Hash[heads.zip(row)]; h if h && h.any? }.compact
     end
   end
+end
 
-  def essential?; @essential=='TRUE' end
+class Subcategory < Table
+  attr_reader :uuid, :subcategory, :category
+  def self.plural; 'subcategories' end
+end
+
+class ArticleSubcategory < Table
+  attr_reader :uuid, :article_uuid, :article, :subcategory_uuid, :subcategory, :microcategory
+  def self.plural; 'article_subcategories' end
+
+  def subcategory
+    Subcategory.find(subcategory_uuid)
+  end
+
+  def article
+    Article.find(article_uuid)
+  end
+end
+
+class Article < Table
+  attr_reader :opts, :uuid, :published_at, :title, :author, :summary, :url, :added_at
+  def self.plural; 'articles' end
 
   def published_date
     published_at.to_s.split(' ')[0]
@@ -54,7 +72,6 @@ class Article
       t.change hour: n.hour, min: n.min, sec: n.sec
     end
   end
-
 end
 
 def normalize_category cat
@@ -85,12 +102,12 @@ def articles_to_markdown articles, opts={}
   markdown
 end
 
-def category_to_markdown cat, articles, opts={}
-  cat = "#{opts[:section]}: #{cat}" if opts[:section]
+def category_to_markdown subcat, articles, opts={}
+  cat = "#{opts[:section]}: #{subcat.subcategory}" if opts[:section]
   markdown = ''
   markdown += "### #{cat}\n"
   markdown += "\n"
-  articles = articles.sort{|a,b| b.published_at.to_s <=> a.published_at.to_s }
+  articles = articles.sort_by{|a| a.published_at.to_s }.reverse
   markdown += articles_to_markdown articles
   markdown
 end
@@ -101,10 +118,10 @@ def sections_to_markdown
   markdown += "## The Collection\n\n"
 
   %w(Business Development Personal).each do |section|
-    section_articles = $articles.select{|a| a.category==section }
-    categories = section_articles.map(&:subcategory).uniq.sort
+    section_article_subcategories = $article_subcategories.select{|as| as.subcategory.category==section }
+    categories = section_article_subcategories.map(&:subcategory).uniq.sort_by(&:subcategory)
     categories.each do |cat|
-      cat_articles = section_articles.select{|a| a.subcategory==cat }
+      cat_articles = section_article_subcategories.select{|as| as.subcategory_uuid==cat.uuid }.map(&:article)
       markdown += category_to_markdown cat, cat_articles, section: section
     end
   end
@@ -125,11 +142,17 @@ def toc_to_markdown
   markdown += "  * #{markdown_inline_link 'Structure'}\n"
   markdown += "  * #{markdown_inline_link 'Criteria'}\n"
   markdown += "* **#{markdown_inline_link 'The Collection'}**\n"
-  categories = $articles.map{|a| [a.category, a.subcategory] }.uniq.sort.group_by{|x| x[0] }
+  categories = $subcategories.map{|sc| [sc.category, sc.subcategory] }.uniq.sort.group_by{|x| x[0] }
   categories.each do |cat, sets|
     markdown += "  * #{markdown_inline_link(cat)}\n"
     sets.each do |pair|
-      markdown += "    * #{markdown_inline_link(pair[1], pair.join(': '))}\n"
+      subcat = pair[1]
+      article_count = $article_subcategories.select{|as| as.subcategory.category==cat && as.subcategory.subcategory==subcat}.size
+      if article_count > 0
+        markdown += "    * #{markdown_inline_link(subcat, pair.join(': '))} (#{article_count})\n"
+      else
+        markdown += "    * #{subcat} (#{article_count})\n"
+      end
     end
   end
   markdown += "\n"
@@ -138,7 +161,7 @@ end
 
 def stats
   authors = $articles.map(&:author).uniq
-  topics = $articles.map(&:subcategory).uniq
+  topics = $article_subcategories.map(&:subcategory_uuid).uniq
   "#{topics.size} topics, #{$articles.size} articles, #{authors.size} authors"
 end
 
@@ -162,8 +185,9 @@ def readme
   markdown
 end
 
-$articles = Article.process(File.read('articles.csv'))
-
+$subcategories = Subcategory.process
+$article_subcategories = ArticleSubcategory.process
+$articles = Article.process
 
 # Generate top README
 File.open("README.md", 'w') do |f|
