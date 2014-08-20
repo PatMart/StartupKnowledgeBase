@@ -1,12 +1,5 @@
 ## About
 
-A curated collection of insightful articles related to startups, as a resource for startup founders and team members.
-
-The ultimate goal of the project is to contain every fundamentally valuable insight or resource on a given topic, across a wide array of topics related to startups.
-
-A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a broad array of questions answered with insights distilled from several of the most important startup articles in this collection.
-
-
 ### Motivation
 
 I want this information for my own benefit, but I'd also like to share it and I could use help building it too.

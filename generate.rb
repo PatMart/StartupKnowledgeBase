@@ -153,6 +153,10 @@ end
 def readme articles
   markdown = ""
   markdown += "# Startup Knowledge Database\n\n"
+  markdown += "A curated collection of insightful articles related to startups, as a resource for startup founders and team members.\n\n"
+  markdown += "The ultimate goal of the project is to contain every fundamentally valuable insight or resource on a given topic, across a wide array of topics related to startups.\n\n"
+  markdown += "A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a broad array of questions answered with insights distilled from several of the most important startup articles in this collection.\n\n"
+  markdown += "## Table of Contents\n\n"
   markdown += toc_to_markdown articles
   markdown += File.read("README_BASE.md")
   markdown += sections_to_readme articles
