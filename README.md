@@ -131,7 +131,7 @@ I want this information for my own benefit, but I'd also like to share it and I 
 Articles are divided into three categories, business, development, and personal. These are divided into various subcategories.
 
 
-## Criteria
+### Criteria
 
 An article will be considered for inclusion if it offers some piece of valuable insight on a topic, with priority given to important articles by authors with demonstrated success in their field.
 
