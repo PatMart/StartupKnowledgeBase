@@ -14,7 +14,7 @@ A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a bro
   * [Concepts & Definitions](#concepts--definitions)
   * [Structure](#structure)
   * [Criteria](#criteria)
-* [The Collection](#the-collection)
+* **[The Collection](#the-collection)**
   * [Business](#business)
     * [Advice & Mentorship](#business-advice--mentorship)
     * [Culture & Values](#business-culture--values)

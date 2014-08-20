@@ -138,7 +138,7 @@ def toc_to_markdown articles
   markdown += "  * #{markdown_inline_link 'Concepts & Definitions'}\n"
   markdown += "  * #{markdown_inline_link 'Structure'}\n"
   markdown += "  * #{markdown_inline_link 'Criteria'}\n"
-  markdown += "* #{markdown_inline_link 'The Collection'}\n"
+  markdown += "* **#{markdown_inline_link 'The Collection'}**\n"
   categories = articles.map{|a| [a.category, a.subcategory] }.uniq.sort.group_by{|x| x[0] }
   categories.each do |cat, sets|
     markdown += "  * #{markdown_inline_link(cat)}\n"
