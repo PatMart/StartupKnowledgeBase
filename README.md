@@ -1,6 +1,6 @@
 # Startup Knowledge Database
 
-58 topics, 166 articles, 85 authors
+59 topics, 166 articles, 85 authors
 
 A curated collection of insightful articles related to startups, as a resource for startup founders and team members.
 
@@ -28,10 +28,10 @@ A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a bro
     * Exit (0)
     * Experiments & Learning (0)
     * [Feedback](#business-feedback) (1)
-    * [Founding](#business-founding) (5)
+    * [Founding](#business-founding) (4)
     * [Fundraising](#business-fundraising) (8)
     * [General](#business-general) (7)
-    * Ideas & Vision (0)
+    * [Ideas & Vision](#business-ideas--vision) (1)
     * [Inspiration](#business-inspiration) (1)
     * [Leadership & Management](#business-leadership--management) (8)
     * [Lean Startup](#business-lean-startup) (2)
@@ -248,11 +248,6 @@ Paul Smith - robots.thoughtbot.com - 2014-07-10
 
 ### Business: Founding
 
-**[Developing New Startup Ideas](http://cdixon.org/2010/03/14/developing-new-startup-ideas/)**<br/>
-Chris Dixon - cdixon.org - 2010-03-14
-
-> If you want to start a company and are working on new ideas, here’s how I’ve always done it and how I recommend you do it.  Be the opposite of secretive. 
-
 **[Dividing Equity Between Founders](http://cdixon.org/2009/08/23/dividing-equity-between-founders/)**<br/>
 Chris Dixon - cdixon.org - 2009-08-23
 
@@ -351,6 +346,13 @@ Paul Graham - paulgraham.com - 2006-04-01
 Mark Suster - bothsidesofthetable.com
 
 > I think the sign of a good entrepreneur is the ability to spot your mistakes, correct quickly and not repeat the mistakes. I made plenty of mistakes. Below are some of the lessons I learned along the way.
+
+### Business: Ideas & Vision
+
+**[Developing New Startup Ideas](http://cdixon.org/2010/03/14/developing-new-startup-ideas/)**<br/>
+Chris Dixon - cdixon.org - 2010-03-14
+
+> If you want to start a company and are working on new ideas, here’s how I’ve always done it and how I recommend you do it.  Be the opposite of secretive. 
 
 ### Business: Inspiration
 
