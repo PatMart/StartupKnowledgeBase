@@ -146,43 +146,43 @@ Mark Suster - bothsidesofthetable.com - 2009-10-12
 
 ### Business: Budgeting & Finances
 
-BUDGETING<br/>
+*BUDGETING*<br/>
 **[Budgeting In A Growing Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-growing-company.html)**<br/>
 Fred Wilson - avc.com - 2010-05-24
 
 > What happens to the budgeting process once revenues start coming in, headcount gets to between 50 and 100 employees, and you are now a full fledged high growth business?
 
-BUDGETING<br/>
+*BUDGETING*<br/>
 **[Budgeting In A Large Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-large-company.html)**<br/>
 Fred Wilson - avc.com - 2013-10-02
 
 > The budgeting process is really critical in a large company. It forces the company to make highly informed decisions about investments and resource allocation and it creates company wide discipline around hitting goals. I have never seen a company of 150 employees or more operate functionally without a strong budget process.
 
-BUDGETING<br/>
+*BUDGETING*<br/>
 **[Budgeting In A Small Early Stage Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-small-early-stage-company.html)**<br/>
 Fred Wilson - avc.com - 2010-05-10
 
 > The first step in budgeting is to review the key business metrics and lock them down based on what is realistic for the next year. Be very realistic. A good budget is a conservative budget.
 
-BURN<br/>
+*BURN*<br/>
 **[Burn Rate](http://www.avc.com/a_vc/2011/12/burn-rate.html)**<br/>
 Fred Wilson - avc.com - 2011-12-05
 
 > Your burn rate is the speed at which your cash balance is going down. If you had $1mm in cash on January 1st, and now it is October 1st and you have $250,000 left, your burn rate is $750,000/9, or $83,333/month.
 
-BURN<br/>
+*BURN*<br/>
 **[Burn Rates: How Much?](http://www.avc.com/a_vc/2011/12/burn-rates-how-much.html)**<br/>
 Fred Wilson - avc.com - 2011-12-12
 
 >  
 
-BURN<br/>
+*BURN*<br/>
 **[How Much To Burn While Building Product](http://www.avc.com/a_vc/2011/12/how-much-to-burn-while-building-product.html)**<br/>
 Fred Wilson - avc.com - 2011-12-19
 
 >  
 
-MARGINS<br/>
+*MARGINS*<br/>
 **[Margins (continued)](http://www.avc.com/a_vc/2011/04/margins-continued.html)**<br/>
 Fred Wilson - avc.com - 2011-04-18
 
@@ -202,7 +202,7 @@ Marshall Rosenberg - en.wikipedia.org
 
 ### Business: Customers
 
-CUSTOMER DEVELOPMENT<br/>
+*CUSTOMER DEVELOPMENT*<br/>
 **[What is customer development?](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html)**<br/>
 Eric Ries - startuplessonslearned.com
 
@@ -235,7 +235,7 @@ Fred Wilson - avc.com - 2012-06-02
 
 > Getting product right means finding product market fit. It does not mean launching the product. It means getting to the point where the market accepts your product and wants more of it. That means different things in consumer, saas, infrastructure, hardware, etc, but in every case you must get to product market fit before thinking about anything else. And, I believe, moving to business model before finding product market fit can be the worst thing for your business.
 
-MVP<br/>
+*MVP*<br/>
 **[Minimum Viable Product: a guide](http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html)**<br/>
 Eric Ries - startuplessonslearned.com
 
@@ -299,25 +299,25 @@ Tomasz Tunguz - tomtunguz.com - 2013-03-28
 
 > Market timing risk, Business model risk, Market adoption risk, Market size risk, Execution risk, Technology risk, Capitalization structure risk, Platform risk, Venture management risk, Financial ris, Legal risk
 
-CROWDFUNDING<br/>
+*CROWDFUNDING*<br/>
 **[Kickstartup — Successful fundraising with Kickstarter & the (re)making of Art Space Tokyo](http://craigmod.com/journal/kickstartup/)**<br/>
 Craig Mod - craigmod.com - 2010-07-01
 
 > I gathered data for the top 20 to 30 grossing Kickstarter projects as of March 2010. I then mapped out the number of pledges per tier, looking for a balance between number of pledges and overall percentage contribution of funds to my data set. Here is that data with the top five grossing tiers by percentage contribution highlighted in yellow.
 
-CROWDFUNDING<br/>
+*CROWDFUNDING*<br/>
 **[Trends in Pricing and Duration](https://www.kickstarter.com/blog/trends-in-pricing-and-duration)**<br/>
 Fred Benenson, Yancey Strickler - kickstarter.com - 2010-09-22
 
 > In the post Craig sampled other popular projects on Kickstarter, and explained how their choices and outcomes affected the way he constructed his project. Craig also offers some advice on optimal pricing and project length to future project creators. We were intrigued and impressed by Craig’s research and conclusions, and we’ve now compiled data from our entire database to see how it holds up. Let’s dig in.
 
-PITCHES<br/>
+*PITCHES*<br/>
 **[The 7 Questions A Startup Should Answer In Their Fund Raising Pitch](http://tomtunguz.com/pitch-deck/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2013-03-29
 
 > [Value prop] What is the problem and is it worth solving? Why is now the right time to solve it?  [Team] Does the team have the vision and the wherewithal to build this company?  [Go to market] What is the competitive angle (competitive barrier to entry and/or go-to-market) that will enable this company to succeed where others have tried and failed?  [Sales effectiveness & product validation] Who does the startup sell to? Which customers have used the product and how have they received it? How much is each customer worth?  [Product distribution] How does the company acquire customers cost effectively? What are the unit economics (customer acquisition cost, contribution revenue, and churn rates)?  [Revenue model] Does the company have the revenue model to build a big (>$100M annual revenue) business with good margins (gross ~ 50 to 60% / net ~15 to 25%) under reasonable assumptions?  [Market size] Can the market enable or bear a $100M revenue Alternatively, is this product in a quickly growing market or riding a disruptive wave?
 
-PITCHES<br/>
+*PITCHES*<br/>
 **[The Secret Ingredient to the Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2014-08-01
 
@@ -479,7 +479,7 @@ Hunter Walk - hunterwalk.com - 2014-07-22
 
 > Well, if you’re pre-product/market fit, over-optimizing for 'hitting your numbers' can be a false positive if it creates an 'up and to the right' graph that actually builds upon the wrong learnings, or masks leaky bucket of customer attrition.
 
-MARKET SIZING<br/>
+*MARKET SIZING*<br/>
 **[The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing/)**<br/>
 Brekiri - brekiri.com - 2010-02-26
 
@@ -487,7 +487,7 @@ Brekiri - brekiri.com - 2010-02-26
 
 ### Business: Marketing & Sales
 
-VIRAL<br/>
+*VIRAL*<br/>
 **[Lessons Learned – Viral Marketing](http://www.forentrepreneurs.com/lessons-learnt-viral-marketing/)**<br/>
 David Skok - forentrepreneurs.com - 2009-12-06
 
@@ -510,13 +510,13 @@ Avinash Kaushik - kaushik.net - 2013-04-08
 
 > To win in business you need to follow this process: Metrics > Hypothesis > Experiment > Act. Online, offline or nonline.
 
-CHURN<br/>
+*CHURN*<br/>
 **[Tom Blomfield ― Customer churn can kill your startup](http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup)**<br/>
 Tom Blomfield - tomblomfield.com - 2014-07-10
 
 > Startups are about growth, and of all the different possible metrics, startups often focus on user growth - if people aren’t using your new product or service in greater and greater numbers, it’s a good sign that you’re not on the right track. And, as long as your business-model is solid, user growth is a leading indicator of revenue and profit growth. But there’s another key metric that can be the making of your company, or the death of it - churn, or the proportion of existing customers who become ex-customers during a period of time (generally a year).
 
-CHURN<br/>
+*CHURN*<br/>
 **[Why Everything I Thought I Knew About Churn Is Wrong](http://tomtunguz.com/churn-fallacies/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2014-01-15
 

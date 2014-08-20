@@ -85,7 +85,7 @@ end
 def article_to_markdown article_sub, opts={}
   article = article_sub.article
   markdown = ''
-  markdown += "#{article_sub.microcategory.upcase}<br/>\n" if article_sub.microcategory
+  markdown += "*#{article_sub.microcategory.upcase}*<br/>\n" if article_sub.microcategory
   markdown += "**[#{article.title}](#{article.url})**"
   markdown += "<br/>\n"
   markdown += "#{article.author || '?'} - #{article.host}"
