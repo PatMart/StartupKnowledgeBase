@@ -1,6 +1,6 @@
 # Startup Knowledge Database
 
-59 topics, 166 articles, 85 authors
+61 topics, 257 articles, 87 authors
 
 A curated collection of insightful articles related to startups, as a resource for startup founders and team members.
 
@@ -18,18 +18,17 @@ A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a bro
   * [Criteria](#criteria)
 * **[The Collection](#the-collection)**
   * [Business](#business)
+    * [Accounting & Finances](#business-accounting--finances) (34)
     * [Advice & Mentorship](#business-advice--mentorship) (1)
-    * [Budgeting & Finances](#business-budgeting--finances) (7)
-    * Competition (0)
-    * [Culture & Values](#business-culture--values) (1)
+    * [Competition](#business-competition) (1)
+    * [Culture & Values](#business-culture--values) (3)
     * [Customers](#business-customers) (1)
     * [Early Stage](#business-early-stage) (6)
     * [Entrepreneurship](#business-entrepreneurship) (1)
-    * Exit (0)
     * Experiments & Learning (0)
     * [Feedback](#business-feedback) (1)
     * [Founding](#business-founding) (4)
-    * [Fundraising](#business-fundraising) (8)
+    * [Fundraising](#business-fundraising) (22)
     * [General](#business-general) (7)
     * [Ideas & Vision](#business-ideas--vision) (1)
     * [Inspiration](#business-inspiration) (1)
@@ -37,27 +36,28 @@ A related project is the [StartupFAQ](https://github.com/bnjs/StartupFAQ): a bro
     * [Lean Startup](#business-lean-startup) (2)
     * [Legal & Incorporation](#business-legal--incorporation) (6)
     * [Lessons Learned](#business-lessons-learned) (1)
+    * [M&A & IPO](#business-ma--ipo) (16)
     * [Market & Research](#business-market--research) (3)
     * [Marketing & Sales](#business-marketing--sales) (1)
-    * [Metrics & Analytics](#business-metrics--analytics) (5)
+    * [Metrics & Analytics](#business-metrics--analytics) (7)
     * [Mistakes & Failure](#business-mistakes--failure) (4)
     * [Mobile](#business-mobile) (1)
-    * [Models & Pricing](#business-models--pricing) (10)
+    * [Models & Pricing](#business-models--pricing) (14)
     * [Pivoting & Change](#business-pivoting--change) (3)
     * [Planning & Strategy](#business-planning--strategy) (2)
     * [Problems & Problem Solving](#business-problems--problem-solving) (4)
     * Product (0)
     * [Product/Market Fit](#business-product/market-fit) (8)
     * [Promotion & Traction](#business-promotion--traction) (1)
-    * [Recruiting & Employment](#business-recruiting--employment) (4)
+    * [Recruiting & Employment](#business-recruiting--employment) (20)
     * [SEO](#business-seo) (2)
     * [Scaling & Growth](#business-scaling--growth) (4)
     * [Social](#business-social) (1)
     * Stock Market (0)
-    * [Team & Roles](#business-team--roles) (8)
+    * [Team & Roles](#business-team--roles) (16)
     * [Teamwork & Communication](#business-teamwork--communication) (5)
     * [Trends & Spaces](#business-trends--spaces) (1)
-    * [Venture Capital](#business-venture-capital) (3)
+    * [Venture Capital & Investment](#business-venture-capital--investment) (4)
   * [Development](#development)
     * API (0)
     * [Best Practices](#development-best-practices) (1)
@@ -137,15 +137,82 @@ An article will be considered for inclusion if it offers some piece of valuable 
 
 ## The Collection
 
-### Business: Advice & Mentorship
+### Business: Accounting & Finances
 
-*ADVISORS*<br/>
-**[Should Your Startup Have an Advisory Board?](http://www.bothsidesofthetable.com/2009/10/12/should-your-startup-have-an-advisory-board/)**<br/>
-Mark Suster - bothsidesofthetable.com - 2009-10-12
+**[Bookings vs Revenues vs Collections](http://avc.com/2010/08/bookings-vs-revenues-vs-collections/)**<br/>
+Fred Wilson - avc.com - 2010-08-16
 
-> Many first-time entrepreneurs form advisory boards and grant 0.25-0.5% equity to each adviser.  Should you?  This post talks about why equity for advisers should only come if they write a check and if you do set up an advisory board what the best way to run it is.  Also a quick note on how VCs view advisory boards (summary answer is – we’re cynical).
+> 
 
-### Business: Budgeting & Finances
+**[Determining Valuation Multiples](http://avc.com/2011/09/determining-valuation-multiples/)**<br/>
+Fred Wilson - avc.com - 2011-09-5
+
+> 
+
+**[EBITDA](http://avc.com/2011/09/ebitda/)**<br/>
+Fred Wilson - avc.com - 2011-09-12
+
+> 
+
+**[LTV > CPA](http://avc.com/2011/04/ltv-cpa/)**<br/>
+Dan Lewis - avc.com - 2011-04-25
+
+> 
+
+**[Liquidation Analysis](http://avc.com/2011/10/liquidation-analysis/)**<br/>
+Fred Wilson - avc.com - 2011-10-3
+
+> 
+
+**[Liquidation Analysis (Continued)](http://avc.com/2011/10/liquidation-analysis-continued/)**<br/>
+Fred Wilson - avc.com - 2011-10-10
+
+> 
+
+**[MBA Mondays: Cap Tables](http://avc.com/2011/09/mba-mondays-cap-tables/)**<br/>
+Fred Wilson - avc.com - 2011-09-26
+
+> 
+
+**[Ordinary Income vs Capital Gains](http://avc.com/2011/05/ordinary-income-vs-capital-gains/)**<br/>
+Fred Wilson - avc.com - 2011-05-2
+
+> 
+
+**[Revenue Based Financing](http://avc.com/2011/10/revenue-based-financing/)**<br/>
+Fred Wilson - avc.com - 2011-10-17
+
+> 
+
+*ACCOUNTING*<br/>
+**[Accounting](http://avc.com/2010/03/accounting/)**<br/>
+Fred Wilson - avc.com - 2010-03-08
+
+> Accounting is keeping track of the money in a company. It's critical to keep good books and records for a business, no matter how small it is. I'm not going to lay out exactly how to do that, but I am going to discuss a few important principals.
+
+*ACCOUNTING*<br/>
+**[Analyzing Financial Statements](http://avc.com/2010/04/analyzing-financial-statements/)**<br/>
+Fred Wilson - avc.com - 2010-04-05
+
+> In the past three weeks, we talked about the three main financial statements, the Income Statement, the Balance Sheet, and the Cash Flow Statement. This post is going to attempt to help you figure out how to analyze them, at least at a cursory level.
+
+*ACCOUNTING*<br/>
+**[Cash Flow](http://avc.com/2010/03/cash-flow/)**<br/>
+Fred Wilson - avc.com - 2010-03-29
+
+> Cash flow is the amount of cash your business either produces or consumes in a given period, typically a month, quarter, or year. You might think that is the same as the profit of the business, but that is not correct for a bunch of reasons.
+
+*ACCOUNTING*<br/>
+**[The Balance Sheet](http://avc.com/2010/03/the-balance-sheet/)**<br/>
+Fred Wilson - avc.com - 2010-03-22
+
+> The Balance Sheet is a report of the asset and liability accounts. Assets are things you own in your business, like cash, capital equipment, and money that is owed to you for products and services you have delivered to customers. Liabilities are obligations of the business, like bills you have yet to pay, money you have borrowed from a bank or investors.
+
+*ACCOUNTING*<br/>
+**[The Profit and Loss Statement](http://avc.com/2010/03/the-profit-and-loss-statement/)**<br/>
+Fred Wilson - avc.com - 2010-03-15
+
+> Today on MBA Mondays we are going to talk about one of the most important things in business, the profit and loss statement (also known as the P&L). Picking up from the accounting post last week, there are two kinds of accounting entries; those that describe money coming into and out of your business, and money that is contained in your business. The P&L deals with the first category.
 
 *BUDGETING*<br/>
 **[Budgeting In A Growing Company](http://www.avc.com/a_vc/2010/05/budgeting-in-a-growing-company.html)**<br/>
@@ -183,19 +250,124 @@ Fred Wilson - avc.com - 2011-12-19
 
 >  
 
+*BUSINESS ?*<br/>
+**[Purchasing Power Parity](http://avc.com/2010/07/purchasing-power-parity/)**<br/>
+Fred Wilson - avc.com - 2010-07-12
+
+> 
+
+*COSTS*<br/>
+**[Opportunity Costs](http://avc.com/2010/07/opportunity-costs/)**<br/>
+Fred Wilson - avc.com - 2010-07-19
+
+> 
+
+*COSTS*<br/>
+**[Sunk Costs](http://avc.com/2010/07/sunk-costs/)**<br/>
+Fred Wilson - avc.com - 2010-07-26
+
+> 
+
+*LIABILITIES*<br/>
+**[Off Balance Sheet Liabilities](http://avc.com/2010/08/off-balance-sheet-liabilities/)**<br/>
+Fred Wilson - avc.com - 2010-08-2
+
+> 
+
+*MARGINS*<br/>
+**[Margins](http://www.avc.com/a_vc/2011/04/margins.html)**<br/>
+Fred Wilson - avc.com - 2011-04-11
+
+> Margin is the amount of money you make on each incremental sale or unit of revenue before factoring in the "fixed costs" of your business. Fixed costs would be things like the rent on your office, your administrative team, and the people who do your accounting/bookeeping work for you. The key concept to wrap your head around is some costs rise and fall based on how much revenue you have and some costs are fixed and are the "cost of keeping the doors open.
+
 *MARGINS*<br/>
 **[Margins (continued)](http://www.avc.com/a_vc/2011/04/margins-continued.html)**<br/>
 Fred Wilson - avc.com - 2011-04-18
 
 > I like to focus on "gross margin" because I think it tells you a lot about the scalability of a business (as I detailed in last week's post). But operating margin which is gross margin less all the operating costs is another really important metric.
 
+*PROJECTIONS, BUDGETS AND FORECASTS*<br/>
+**[Forecasting](http://avc.com/2010/06/forecasting/)**<br/>
+Fred Wilson - avc.com - 2010-06-7
+
+> 
+
+*PROJECTIONS, BUDGETS AND FORECASTS*<br/>
+**[Projections, Budgeting and Forecasting](http://avc.com/2010/04/projections-budgeting-and-forecasting/)**<br/>
+Fred Wilson - avc.com - 2010-04-26
+
+> 
+
+*PROJECTIONS, BUDGETS AND FORECASTS*<br/>
+**[Scenarios](http://avc.com/2010/05/scenarios/)**<br/>
+Fred Wilson - avc.com - 2010-05-3
+
+> 
+
+*RISK AND RETURN*<br/>
+**[Currency Risk In A Business](http://avc.com/2010/07/currency-risk-in-a-business/)**<br/>
+Fred Wilson - avc.com - 2010-07-5
+
+> 
+
+*RISK AND RETURN*<br/>
+**[Diversification](http://avc.com/2010/06/diversification/)**<br/>
+Fred Wilson - avc.com - 2010-06-21
+
+> 
+
+*RISK AND RETURN*<br/>
+**[Hedging](http://avc.com/2010/06/hedging/)**<br/>
+Fred Wilson - avc.com - 2010-06-28
+
+> 
+
+*RISK AND RETURN*<br/>
+**[Risk And Return](http://avc.com/2010/06/risk-and-return/)**<br/>
+Fred Wilson - avc.com - 2010-06-14
+
+> 
+
+*VALUE*<br/>
+**[Enterprise Value and Market Value](http://avc.com/2010/08/enterprise-value-and-market-value/)**<br/>
+Fred Wilson - avc.com - 2010-08-9
+
+> 
+
+### Business: Advice & Mentorship
+
+*ADVISORS*<br/>
+**[Should Your Startup Have an Advisory Board?](http://www.bothsidesofthetable.com/2009/10/12/should-your-startup-have-an-advisory-board/)**<br/>
+Mark Suster - bothsidesofthetable.com - 2009-10-12
+
+> Many first-time entrepreneurs form advisory boards and grant 0.25-0.5% equity to each adviser.  Should you?  This post talks about why equity for advisers should only come if they write a check and if you do set up an advisory board what the best way to run it is.  Also a quick note on how VCs view advisory boards (summary answer is – we’re cynical).
+
+### Business: Competition
+
+**[Competition – The Pros and Cons](http://avc.com/2011/05/competition-the-pros-and-cons/)**<br/>
+Fred Wilson - avc.com - 2011-05-9
+
+> 
+
 ### Business: Culture & Values
+
+*CULTURE*<br/>
+**[Culture And Fit](http://avc.com/2012/05/mba-mondays-culture-and-fit/)**<br/>
+Fred Wilson - avc.com - 2012-05-21
+
+> 
 
 *CULTURE*<br/>
 **[Culture Code - Asana](http://www.slideshare.net/asana/culture-code-asana-29674527)**<br/>
 Asana - slideshare.net - 2014-01-03
 
 > Asana is a group of peers on a bold mission: to help humanity thrive by enabling all teams to work together effortlessly. Learn more about Asana's culture: - How shared core values impact decision making and culture, - How we hire extraordinary people, - How we stay healthy & happy in the office, - How we get things done through Episodes, special weeks, hackathons, and using our product.
+
+*VALUES*<br/>
+**[Twilio’s Nine Things](http://avc.com/2012/05/twilios-nine-things/)**<br/>
+Fred Wilson - avc.com - 2012-05-27
+
+> 
 
 ### Business: Customers
 
@@ -291,10 +463,20 @@ Paul Graham - paulgraham.com - 2013-09-01
 
 > Don't raise money unless you want it and it wants you., "Be in fundraising mode or not.", "Get introductions to investors.", "Hear no till you hear yes.", "Do breadth-first search weighted by expected value.", "Know where you stand.", "Get the first commitment.", "Close committed money.", "Avoid investors who don't 'lead.'", "Have multiple plans.", "Underestimate how much you want.", "Be profitable if you can.", "Don't optimize for valuation.", "Yes/no before valuation.", "Beware 'valuation sensitive' investors.", "Accept offers greedily.", "Don't sell more than 25% in phase 2.", "Have one person handle fundraising.", "You'll need an executive summary and (maybe) a deck.", "Stop fundraising when it stops working.", "Don't get addicted to fundraising.", "Don't raise too much.", "Be nice.", "The bar will be higher next time.", "Don't make things complicated."
 
+**[Sizing Option Pools In Connection With Financings](http://avc.com/2011/05/sizing-option-pools-in-connection-with-financings/)**<br/>
+Fred Wilson - avc.com - 2011-05-18
+
+> 
+
 **[The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate/)**<br/>
 Tomasz Tunguz - tomtunguz.com - 2013-03-28
 
 > Market timing risk, Business model risk, Market adoption risk, Market size risk, Execution risk, Technology risk, Capitalization structure risk, Platform risk, Venture management risk, Financial ris, Legal risk
+
+**[Valuation and Option Pool](http://avc.com/2009/11/valuation-and-option-pool/)**<br/>
+Fred Wilson - avc.com - 2009-11-06
+
+> 
 
 *CROWDFUNDING*<br/>
 **[Kickstartup — Successful fundraising with Kickstarter & the (re)making of Art Space Tokyo](http://craigmod.com/journal/kickstartup/)**<br/>
@@ -307,6 +489,78 @@ Craig Mod - craigmod.com - 2010-07-01
 Fred Benenson, Yancey Strickler - kickstarter.com - 2010-09-22
 
 > In the post Craig sampled other popular projects on Kickstarter, and explained how their choices and outcomes affected the way he constructed his project. Craig also offers some advice on optimal pricing and project length to future project creators. We were intrigued and impressed by Craig’s research and conclusions, and we’ve now compiled data from our entire database to see how it holds up. Let’s dig in.
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Bridge Loans](http://avc.com/2011/08/financing-options-bridge-loans/)**<br/>
+Fred Wilson - avc.com - 2011-08-15
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Capital Equipment Loans and Leases](http://avc.com/2011/08/financing-options-capital-equipment-loans-and-leases/)**<br/>
+Fred Wilson - avc.com - 2011-08-8
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Contests/Prizes/Accelerator Programs](http://avc.com/2011/06/financing-options-contestsprizesaccelerator-programs/)**<br/>
+Fred Wilson - avc.com - 2011-06-6
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Convertible Debt](http://avc.com/2011/07/financing-options-convertible-debt/)**<br/>
+Fred Wilson - avc.com - 2011-07-11
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Customers](http://avc.com/2011/06/financing-options-customers/)**<br/>
+Fred Wilson - avc.com - 2011-06-20
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Friends and Family](http://avc.com/2011/05/financing-options-friends-and-family/)**<br/>
+Fred Wilson - avc.com - 2011-05-30
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Government Grants](http://avc.com/2011/06/financing-options-government-grants/)**<br/>
+Fred Wilson - avc.com - 2011-06-13
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Preferred Stock](http://avc.com/2011/07/financing-options-preferred-stock/)**<br/>
+Fred Wilson - avc.com - 2011-07-18
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Vendor Financing](http://avc.com/2011/06/financing-options-vendor-financing/)**<br/>
+Fred Wilson - avc.com - 2011-06-27
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Venture Debt](http://avc.com/2011/07/financings-options-venture-debt/)**<br/>
+Fred Wilson - avc.com - 2011-07-25
+
+> 
+
+*FINANCING OPTIONS*<br/>
+**[Financing Options: Working Capital Financing](http://avc.com/2011/08/financing-options-working-capital-financing/)**<br/>
+Fred Wilson - avc.com - 2011-08-22
+
+> 
+
+*FOUNDER QUALITIES*<br/>
+**[I Invest In CEOs Who Are Learning Machines](http://www.feld.com/archives/2014/01/invest-ceos-learning-machines.html)**<br/>
+Brad Feld - feld.com - 2014-01-28
+
+> I’m regularly blown away by these two guys ability to collect new information, process it, and learn from it. Any meeting with them is not an endless socratic session from me to them, but rather the other way around. They know what they are trying to figure out and use me, and my broad range of experience, data, and opinions, to solicit a bunch of data for themselves that they use as inputs into their learning machine. Sure – I ask plenty of questions, but they do also, and as we go deeper, the questions – and the things that come out – get richer.
 
 *PITCHES*<br/>
 **[The 7 Questions A Startup Should Answer In Their Fund Raising Pitch](http://tomtunguz.com/pitch-deck/)**<br/>
@@ -480,6 +734,104 @@ Gordon Wintrob - buildingof.com
 
 > We have two key takeaways from our experiences with founding StackLead. First, find other passionate founders to serve as your customers. [...] Second, launch early, but don't optimize early. Our first product was simply copying info we found online about new signups into an email template. Once our first customers validated this problem, we began building a scalable, automated system.
 
+### Business: M&A & IPO
+
+*M&A*<br/>
+**[Acquisition Finance](http://avc.com/2010/11/acquisition-finance/)**<br/>
+Fred Wilson - avc.com - 2010-11-29
+
+> 
+
+*M&A*<br/>
+**[Buying and Selling Assets](http://avc.com/2010/12/buying-and-selling-assets/)**<br/>
+Fred Wilson - avc.com - 2010-12-20
+
+> 
+
+*M&A*<br/>
+**[M&A Case Studies: ChiliSoft](http://avc.com/2011/01/ma-case-studies-chilisoft/)**<br/>
+Fred Wilson - avc.com - 2011-01-3
+
+> 
+
+*M&A*<br/>
+**[M&A Case Studies: Feedburner](http://avc.com/2011/01/m-case-studies-feedburner/)**<br/>
+Fred Wilson - avc.com - 2011-01-24
+
+> 
+
+*M&A*<br/>
+**[M&A Case Studies: WhatCounts](http://avc.com/2011/01/ma-case-studies-whatcounts/)**<br/>
+Fred Wilson - avc.com - 2011-01-10
+
+> 
+
+*M&A*<br/>
+**[M&A Case Studies: WhatCounts Sale Process](http://avc.com/2011/01/ma-case-studies-whatcounts-sale-process/)**<br/>
+Fred Wilson - avc.com - 2011-01-17
+
+> 
+
+*M&A*<br/>
+**[M&A Fundamentals](http://avc.com/2010/12/ma-fundamentals/)**<br/>
+Fred Wilson - avc.com - 2010-12-6
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: Breakup Fees](http://avc.com/2011/02/ma-issues-breakup-fees/)**<br/>
+Fred Wilson - avc.com - 2011-02-21
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: Consideration](http://avc.com/2011/03/ma-issues-consideration/)**<br/>
+Fred Wilson - avc.com - 2011-03-21
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: Governmental Approvals](http://avc.com/2011/02/ma-issues-governmental-approvals/)**<br/>
+Fred Wilson - avc.com - 2011-02-14
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: Price](http://avc.com/2011/04/ma-issues-price/)**<br/>
+Fred Wilson - avc.com - 2011-04-4
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: Reps, Warranties, Indemnities, and Escrows](http://avc.com/2011/02/ma-issues-reps-warranties-indemnities-and-escrows/)**<br/>
+Fred Wilson - avc.com - 2011-02-28
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: The Integration Plan](http://avc.com/2011/01/ma-issues-the-integration-plan/)**<br/>
+Fred Wilson - avc.com - 2011-01-31
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: The Stay Package](http://avc.com/2011/02/ma-issues-the-stay-package/)**<br/>
+Fred Wilson - avc.com - 2011-02-7
+
+> 
+
+*M&A*<br/>
+**[M&A Issues: Timing](http://avc.com/2011/03/ma-issues-timing/)**<br/>
+Fred Wilson - avc.com - 2011-03-14
+
+> 
+
+*M&A*<br/>
+**[Selling Your Company](http://avc.com/2010/12/selling-your-company-1/)**<br/>
+Fred Wilson - avc.com - 2010-12-27
+
+> 
+
 ### Business: Market & Research
 
 **[Sunny Whether: Two Types of Forecasting Models for Running Your Startup](http://hunterwalk.com/2014/07/22/sunny-whether-two-types-of-forecasting-models-for-running-your-startup/)**<br/>
@@ -509,10 +861,10 @@ David Skok - forentrepreneurs.com - 2009-12-06
 
 ### Business: Metrics & Analytics
 
-**[Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)**<br/>
-Dave McClure - slideshare.net - 2007-08-08
+**[Key Business Metrics](http://avc.com/2010/04/key-business-metrics/)**<br/>
+Fred Wilson - avc.com - 2010-04-12
 
-> This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
+> 
 
 **[The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)**<br/>
 Bill Gurley - abovethecrowd.com - 2012-09-04
@@ -523,6 +875,18 @@ Bill Gurley - abovethecrowd.com - 2012-09-04
 Avinash Kaushik - kaushik.net - 2013-04-08
 
 > To win in business you need to follow this process: Metrics > Hypothesis > Experiment > Act. Online, offline or nonline.
+
+*AARRR*<br/>
+**[AARRR! Mixpanel for Pirates](https://mixpanel.com/blog/2012/11/15/aarrr-mixpanel-for-pirates/)**<br/>
+Aliisa Rosenthal - mixpanel.com - 2012-11-15
+
+> Dave McClure's Startup Metrics for Pirates has become something of a bible for startups focused on collecting data and iterating quickly. His premise is simple - building a startup is hard! To succeed, you need to design and test constantly throughout both marketing and product. Marketers must design and test multiple channels, measuring effectiveness deep down the funnel rather than on the surface. Product designers should rigorously test new features through split testing and measuring impact on conversion.
+
+*AARRR*<br/>
+**[Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)**<br/>
+Dave McClure - slideshare.net - 2007-08-08
+
+> This is a 5-step model for creating a metrics framework for your business & customers, and how to apply it to your product & marketing efforts. The pirate" part comes from the 5 steps: Acquisition, Activation, Retention, Referral, & Revenue (AARRR!)'"
 
 *CHURN*<br/>
 **[Tom Blomfield ― Customer churn can kill your startup](http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup)**<br/>
@@ -629,6 +993,30 @@ Fred Wilson - avc.com - 2013-01-07
 Fred Wilson - avc.com - 2013-01-21
 
 > The thing that all of these forms of transaction processing have in common is the processor handles a transaction that was generated by another product or service and provides some form of completion service and charges a fee for doing so. That could be processing a credit card transaction, handling a banking transaction, shipping something to someone, completing a call originated on another network, or distributing a third party app on an internet or mobile platform.
+
+*SUSTAINABILITY*<br/>
+**[How To Be In Business Forever: A Lesson In Sustainability](http://avc.com/2012/10/how-to-be-in-business-forever-a-lesson-in-sustainability/)**<br/>
+Fred Wilson - avc.com - 2012-10-1
+
+> 
+
+*SUSTAINABILITY*<br/>
+**[How To Be In Business Forever: Week Four](http://avc.com/2012/10/how-to-be-in-business-forever-week-four/)**<br/>
+Fred Wilson - avc.com - 2012-10-22
+
+> 
+
+*SUSTAINABILITY*<br/>
+**[How To Be In Business Forever: Week Three](http://avc.com/2012/10/how-to-be-in-business-forever-week-three/)**<br/>
+Fred Wilson - avc.com - 2012-10-15
+
+> 
+
+*SUSTAINABILITY*<br/>
+**[How To Be In Business Forever: Week Two](http://avc.com/2012/10/how-to-be-in-business-forever-week-two/)**<br/>
+Fred Wilson - avc.com - 2012-10-8
+
+> 
 
 ### Business: Pivoting & Change
 
@@ -738,6 +1126,16 @@ Noah Kagan - andrewchen.co - 2014-08-14
 
 ### Business: Recruiting & Employment
 
+**[Asking An Employee To Leave The Company](http://avc.com/2012/07/mba-mondays-asking-an-employee-to-leave-the-company/)**<br/>
+Fred Wilson - avc.com - 2012-07-2
+
+> 
+
+**[Best Hiring Practices](http://avc.com/2012/06/mba-mondays-best-hiring-practices/)**<br/>
+Fred Wilson - avc.com - 2012-06-11
+
+> 
+
 **[Don’t Hire a Marketer before Product/Market Fit](http://www.startup-marketing.com/dont-hire-a-marketer-for-your-early-stage-startup/)**<br/>
 Sean Ellis - startup-marketing.com - 2009-02-14
 
@@ -748,10 +1146,91 @@ Justin Rosenstein - linkedin.com - 2013-09-30
 
 > 1. Get to know the whole person, 2. Communicate your company’s values, 3. Meet people now who you might want to hire later, 4. The best people want to work with the best people
 
+**[Leveraging Your Partners To Grow And Develop Your Team](http://avc.com/2012/07/mba-mondays-leveraging-your-partners-to-grow-and-develop-your-team/)**<br/>
+Fred Wilson - avc.com - 2012-07-9
+
+> 
+
+**[Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/)**<br/>
+Fred Wilson - avc.com - 2012-06-25
+
+> 
+
+**[Where To Find Strong Talent](http://avc.com/2012/05/mba-mondays-where-to-find-strong-talent/)**<br/>
+Fred Wilson - avc.com - 2012-05-28
+
+> 
+
 **[Whom Should you Hire at a Startup?](http://www.bothsidesofthetable.com/2009/10/22/who-should-you-hire-at-a-startup/)**<br/>
 Mark Suster - bothsidesofthetable.com - 2009-10-22
 
 > I believe that you should always hire people are are looking to “punch above their weight class,” which means to hire people who want to be one league above where they are today.
+
+*EQUITY*<br/>
+**[Employee Equity](http://avc.com/2010/09/employee-equity-2/)**<br/>
+Fred Wilson - avc.com - 2010-09-27
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: Appreciation](http://avc.com/2010/10/employee-equity-appreciation/)**<br/>
+Fred Wilson - avc.com - 2010-10-11
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: Dilution](http://avc.com/2010/10/employee-equity-dilution/)**<br/>
+Fred Wilson - avc.com - 2010-10-4
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: How Much?](http://avc.com/2010/11/employee-equity-how-much/)**<br/>
+Fred Wilson - avc.com - 2010-11-22
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: Options](http://avc.com/2010/10/employee-equity-options/)**<br/>
+Fred Wilson - avc.com - 2010-10-18
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: Restricted Stock and RSUs](http://avc.com/2010/11/employee-equity-restricted-stock-and-rsus/)**<br/>
+Fred Wilson - avc.com - 2010-11-8
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang/)**<br/>
+Fred Wilson - avc.com - 2010-10-25
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: The Option Strike Price](http://avc.com/2010/11/employee-equity-the-option-strike-price/)**<br/>
+Fred Wilson - avc.com - 2010-11-1
+
+> 
+
+*EQUITY*<br/>
+**[Employee Equity: Vesting](http://avc.com/2010/11/employee-equity-vesting/)**<br/>
+Fred Wilson - avc.com - 2010-11-15
+
+> 
+
+*OUTSOURCING*<br/>
+**[Outsourcing](http://avc.com/2010/09/outsourcing/)**<br/>
+Fred Wilson - avc.com - 2010-09-13
+
+> 
+
+*OUTSOURCING*<br/>
+**[Outsourcing vs Offshoring](http://avc.com/2010/09/outsourcing-vs-offshoring/)**<br/>
+Fred Wilson - avc.com - 2010-09-20
+
+> 
 
 *TALENT HACKING*<br/>
 **[Say hello to the talent hacker](https://medium.com/makeshift-studios/say-hello-to-the-talent-hacker-c8ae87db4a58)**<br/>
@@ -802,6 +1281,47 @@ Tomasz Tunguz - tomtunguz.com - 2013-03-18
 
 ### Business: Team & Roles
 
+**[Optimal Headcount At Various Stages](http://avc.com/2012/06/mba-mondays-optimal-headcount-at-various-stages/)**<br/>
+Fred Wilson - avc.com - 2012-06-4
+
+> 
+
+*BOARD OF DIRECTORS*<br/>
+**[The Board Of Directors – Selecting, Electing & Evolving](http://avc.com/2012/03/the-board-of-directors-selecting-electing-evolving/)**<br/>
+Fred Wilson - avc.com - 2012-03-12
+
+> 
+
+*BOARD OF DIRECTORS*<br/>
+**[The Board Of Directors – The Board Chair](http://avc.com/2012/03/the-board-of-directors-the-board-chair/)**<br/>
+Fred Wilson - avc.com - 2012-03-19
+
+> 
+
+*BOARD OF DIRECTORS*<br/>
+**[The Board Of Directors: Board Chemistry](http://avc.com/2012/03/the-board-of-directors-board-chemistry/)**<br/>
+Fred Wilson - avc.com - 2012-03-26
+
+> 
+
+*BOARD OF DIRECTORS*<br/>
+**[The Board Of Directors: Board Committees](http://avc.com/2012/04/the-board-of-directors-board-committees/)**<br/>
+Fred Wilson - avc.com - 2012-04-9
+
+> 
+
+*BOARD OF DIRECTORS*<br/>
+**[The Board Of Directors: Board Meetings](http://avc.com/2012/04/the-board-of-directors-board-meetings/)**<br/>
+Fred Wilson - avc.com - 2012-04-2
+
+> 
+
+*BOARD OF DIRECTORS*<br/>
+**[The Board Of Directors: Role and Responsibilities](http://avc.com/2012/03/the-board-of-directors-role-and-responsibilities/)**<br/>
+Fred Wilson - avc.com - 2012-03-5
+
+> 
+
 *EXECUTIVE*<br/>
 **[Being A Great CEO](http://www.feld.com/wp/archives/2013/08/being-a-great-ceo.html)**<br/>
 Brad Feld - feld.com - 2013-08-16
@@ -813,6 +1333,12 @@ Brad Feld - feld.com - 2013-08-16
 Fred Wilson - avc.com - 2010-08-30
 
 > A CEO does only three things. Sets the overall vision and strategy of the company and communicates it to all stakeholders. Recruits, hires, and retains the very best talent for the company. Makes sure there is always enough cash in the bank.
+
+*EXECUTIVE*<br/>
+**[What A CEO Does (continued)](http://avc.com/2010/09/what-a-ceo-does-continued/)**<br/>
+Fred Wilson - avc.com - 2010-09-6
+
+> 
 
 *FINANCE*<br/>
 **[VP Finance vs CFO](http://www.avc.com/a_vc/2011/10/vp-finance-vs-cfo.html)**<br/>
@@ -886,12 +1412,17 @@ Boris Silver - medium.com - 2014-01-23
 
 > 1. Drones, 2. Bitcoin, 3. Wearables, 4. Big Data, 5. Crowdfunding, 6. Quantified Self, 7. 3D Printing, 8. The Internet of Things, 9. Mobile, 10. Virtual Reality
 
-### Business: Venture Capital
+### Business: Venture Capital & Investment
 
 **[A Dozen Things I’ve Learned From Marc Andreessen](http://25iq.com/2014/06/14/a-dozen-things-ive-learned-from-marc-andreessen/)**<br/>
-? - 25iq.com
+? - 25iq.com - 2014-06-14
 
 > My primary task with this blog post has been assembling the quotations and placing them in an order which flows well, since understanding the earlier topics helps the reader understand ideas which come later in the list
+
+**[Pricing A Follow-On Venture Investment](http://avc.com/2011/08/pricing-a-follow-on-venture-investment/)**<br/>
+Fred Wilson - avc.com - 2011-08-29
+
+> 
 
 **[The Changing Structure of the VC Industry](https://medium.com/@msuster/the-changing-structure-of-the-vc-industry-84be1fdf73a2)**<br/>
 Mark Suster - medium.com - 2014-07-23
@@ -926,7 +1457,7 @@ Martin Fowler - thoughtworks.com
 > Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
 *CI*<br/>
-**[The Future Workplace Is Now: How Etsy Makes 30 Innovations Per Day - Forbes](http://www.forbes.com/sites/stevedenning/2014/04/04/at-etsy-the-future-workplace-is-now-thirty-innovations-per-day/)**<br/>
+**[The Future Workplace Is Now: How Etsy Makes 30 Innovations Per Day](http://www.forbes.com/sites/stevedenning/2014/04/04/at-etsy-the-future-workplace-is-now-thirty-innovations-per-day/)**<br/>
 Steve Denning - forbes.com - 2014-04-04
 
 > With an average of 30 innovations to the website deployed each day, we are looking at innovation on steroids. Each of the changes is small, but a small change can be significant, sometimes adding millions of dollars in sales. Doing all this change in tiny increments at warp speed within the framework of a central strategy enables extremely rapid innovation and learning, as well as much greater facility in spotting and fixing any problems that may emerge.

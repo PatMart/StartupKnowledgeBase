@@ -1,12 +1,11 @@
 uuid,subcategory,category
+4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Business
 b9069e05-a4a1-46a1-9216-a001729f0673,Advice & Mentorship,Business
-4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Business
 8dbe8b82-31f1-4544-9b49-2747bcd63687,Competition,Business
 e89ad43f-cc6b-4eae-964c-4a2593353b80,Culture & Values,Business
 1fb7ae45-2875-437e-b6a4-e48aca0e4b19,Customers,Business
 69b6e1f5-e37f-42a5-90dd-eeceb2a87793,Early Stage,Business
 5fd50719-66a1-438c-9826-2f39f104c407,Entrepreneurship,Business
-9fa177df-0a40-40e5-b00e-cc29c8da23d2,Exit,Business
 a7613378-fed9-43e0-b394-399583522ffa,Experiments & Learning,Business
 a4de7f46-db6f-44f0-8fa8-90b8fcd588d7,Feedback,Business
 06b09030-f6a6-4754-a2fd-e13c913411bc,Founding,Business
@@ -18,6 +17,7 @@ f55c5eff-0693-46a9-ad22-3d051a68d6e9,Inspiration,Business
 97e6b840-7b7c-480e-b0d1-f8060c6f5075,Lean Startup,Business
 4934ac56-8fa3-484e-8c58-c9e9a4e4e3cd,Legal & Incorporation,Business
 ae44f806-6794-408a-92e8-efdbdbec87d3,Lessons Learned,Business
+9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,Business
 7ac35629-92df-4316-8f7c-866322bb886d,Market & Research,Business
 db484940-4359-4c36-9b35-7e8a959dcc75,Marketing & Sales,Business
 49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,Business
@@ -38,7 +38,7 @@ a320fed7-834f-41e1-b140-78ad5338004e,Stock Market,Business
 8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Business
 c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,Business
 68af326b-aac3-486d-93f4-3946ca5e083e,Trends & Spaces,Business
-c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital,Business
+c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital & Investment,Business
 fe8e9098-80aa-41e4-b393-ca929025cb83,API,Development
 7dc636cd-19a9-45ec-b442-08f5ad413f30,Best Practices,Development
 bcfff9a8-899d-4a0e-92fd-94ff59911bdc,Caching,Development

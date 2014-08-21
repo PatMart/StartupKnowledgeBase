@@ -1,22 +1,51 @@
 uuid,article_uuid,article,subcategory_uuid,subcategory,microcategory
+936c8451-143e-4a3d-b0bb-163e90d0d7ab,c7675272-9532-464e-a837-322f18814fa1,Accounting,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Accounting
+953b6bc7-9a04-40ed-be3f-043f7fff0486,18877b9e-1690-443c-8a72-1042d4ea5aba,Analyzing Financial Statements,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Accounting
+bacf7f12-10e1-4b33-b5ef-a75729c2c3bf,ca963072-eff4-4111-be3b-5f083b244a41,Bookings vs Revenues vs Collections,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+8049bff2-7562-4882-8a82-c7cef9f10672,f06d88b4-1dd1-4a55-b347-4d62c79098af,Budgeting In A Growing Company,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Budgeting
+ece79253-e3ae-4e4f-8a14-1d56cd1ce47c,1ec2a54b-a2fe-4f81-8263-02a7c7b776b7,Budgeting In A Large Company,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Budgeting
+1a48079a-b7e0-4f4e-883c-24da0d22aecf,28570dca-81c4-4e49-931f-c137132d6856,Budgeting In A Small Early Stage Company,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Budgeting
+bfd3d83b-ae95-49ff-85c1-98b70a8409fd,9d7ff7ff-abe6-4adf-812d-d4c26a09047e,Burn Rate,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Burn
+a25c9fbb-3f4a-4610-aa2e-37d2d852edb4,fe367407-82bb-40f6-9ba8-7f007dac4cac,Burn Rates: How Much?,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Burn
+b23de82e-536c-4b55-9266-99d7f8507503,af33bfed-0a33-4e2a-a638-5cf1e1401206,Cash Flow,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Accounting
+022f8083-ff20-40cf-b0cd-7a4469124d9e,174a9ab0-7d15-4c33-8742-feb73d30a6ff,Currency Risk In A Business,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Risk and Return
+ec87761e-9067-40ca-8de4-d9d600825f38,101917f1-8d11-48a3-bd15-c4c080eda57a,Determining Valuation Multiples,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+9870c138-1825-4fb7-bcd3-3c4cf13d6185,1bfd2326-87da-4e42-8b58-e64c40f08a89,Diversification,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Risk and Return
+868ab341-84c2-443c-b2cf-77504b0d8a52,7823e3fb-0333-4271-a489-6a7e11c337a1,EBITDA,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+f15b3710-9dad-43fa-b02d-de6b3c1bc421,3340cb31-74ce-40b7-9c99-130c2494a76b,Enterprise Value and Market Value,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Value
+e8ba1ef3-e735-4969-93cc-8b86c6fa314a,d76ef3ce-5473-4e5d-bbfd-ce798937406f,Forecasting,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,"Projections, Budgets and Forecasts"
+78252b22-1007-4873-b6f1-06895aa79297,060a2ae9-cbb5-489a-9497-3cc630f72bb4,Hedging,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Risk and Return
+cb272452-8f1a-43ff-9b8e-d33f4d8675ef,a770e86d-97c4-477c-b3f6-a06922a9d751,How Much To Burn While Building Product,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Burn
+674cf33d-2f7f-4cf6-93e3-c8e04841eb62,8908b86d-74db-4eb1-855f-8085fdcb5157,Liquidation Analysis,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+c8f29e16-0918-4094-9e8f-0a522740e977,ac7f6e3c-5c72-43ce-8c8d-0529404ec6a1,Liquidation Analysis (Continued),4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+4f43c987-96df-4b77-8fb5-60cefe42b42c,08aaf342-cb83-41f7-8569-63bb7ab2a8a6,LTV > CPA,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+3e35a8cc-a819-47ee-86c0-df68379c90f1,8ba60229-4d21-4233-a17d-3bf4b2753247,Margins,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Margins
+2de94732-6f57-4c90-9a10-79c6d89764e5,b17626a4-d677-48ad-8f11-337caecf516f,Margins (continued),4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Margins
+5c8b2ef6-70ab-439d-8878-10ddba4d6c33,c10409ea-51a2-4cf9-a19c-88356e0e4bba,MBA Mondays: Cap Tables,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+4e6cd46c-7873-4f92-87ca-ea34cd1c5d4d,9f83395e-34eb-45d0-b422-03a619a16a81,Off Balance Sheet Liabilities,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Liabilities
+6fd47b34-eaf1-4951-9dd2-dd127cb97fe9,3c5a92f9-b7fe-4c91-b6df-75a3a04c25e2,Opportunity Costs,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Costs
+b5fdd48e-c914-470d-977b-d8444012457d,81a6710c-db12-467c-bc32-1e0f9b76ace8,Ordinary Income vs Capital Gains,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+c29f9292-0d4a-4d4d-8976-934f64a2205c,dd6aaf4e-e1b1-4e2e-8a91-32bbcff5ab49,"Projections, Budgeting and Forecasting",4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,"Projections, Budgets and Forecasts"
+3f1f814e-7e6e-4748-8a21-aed17e532788,7bb573e7-fe06-4af9-8336-b8e5c7ef011d,Purchasing Power Parity,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Business ?
+3e04fda5-e9b9-4450-a31a-a19b226b7675,7f8dec59-0ff3-4862-b0dc-0769eec077f1,Revenue Based Financing,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,
+e4196e13-c451-4edb-9d77-b90928c6f4c9,8ae342cd-73fa-44db-bac0-46fef97e0f84,Risk And Return,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Risk and Return
+332a152e-10bf-41bb-a603-9750a950ea73,bfad1370-f5c2-41b7-8760-bd0bc47a5c26,Scenarios,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,"Projections, Budgets and Forecasts"
+1a5d31cb-30d8-4adf-b7b3-775afd54b09d,32864363-ca42-4957-ac73-11633d648fff,Sunk Costs,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Costs
+ee245787-2cf7-47aa-80de-9a13d13de677,0d38c056-c8ba-40cc-93e9-25d98360885f,The Balance Sheet,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Accounting
+c26842f3-69f3-4c62-a9ea-f15904e614ff,6283c6b4-85b0-440b-ab91-d2b544ef18d4,The Profit and Loss Statement,4a45c297-ad1b-4016-8970-1b4e948a816d,Accounting & Finances,Accounting
 3bc7142a-0565-4baf-b887-86ff6d0bc3e4,90b4087f-c954-4b92-86f2-297b7b790509,Should Your Startup Have an Advisory Board?,b9069e05-a4a1-46a1-9216-a001729f0673,Advice & Mentorship,Advisors
 b8fe1bd8-c888-47ec-8c00-95044ffa0ee0,81650853-c602-4c51-b7f6-be8973afd730,The Twelve-Factor App,7dc636cd-19a9-45ec-b442-08f5ad413f30,Best Practices,
-8049bff2-7562-4882-8a82-c7cef9f10672,f06d88b4-1dd1-4a55-b347-4d62c79098af,Budgeting In A Growing Company,4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Budgeting
-ece79253-e3ae-4e4f-8a14-1d56cd1ce47c,1ec2a54b-a2fe-4f81-8263-02a7c7b776b7,Budgeting In A Large Company,4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Budgeting
-1a48079a-b7e0-4f4e-883c-24da0d22aecf,28570dca-81c4-4e49-931f-c137132d6856,Budgeting In A Small Early Stage Company,4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Budgeting
-bfd3d83b-ae95-49ff-85c1-98b70a8409fd,9d7ff7ff-abe6-4adf-812d-d4c26a09047e,Burn Rate,4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Burn
-a25c9fbb-3f4a-4610-aa2e-37d2d852edb4,fe367407-82bb-40f6-9ba8-7f007dac4cac,Burn Rates: How Much?,4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Burn
-cb272452-8f1a-43ff-9b8e-d33f4d8675ef,a770e86d-97c4-477c-b3f6-a06922a9d751,How Much To Burn While Building Product,4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Burn
-2de94732-6f57-4c90-9a10-79c6d89764e5,b17626a4-d677-48ad-8f11-337caecf516f,Margins (continued),4a45c297-ad1b-4016-8970-1b4e948a816d,Budgeting & Finances,Margins
 0f975a13-a46f-4563-bec9-5335495cc431,ea265028-011f-4944-be20-494c2eacc262,How key-based cache expiration works,bcfff9a8-899d-4a0e-92fd-94ff59911bdc,Caching,
 2f10270d-492e-4dfd-9da6-631c758af4d6,999f0e69-bb5c-42ed-8ec9-ef1b39943cec,Continuous Integration: Eliminate blind spots so you can build and deliver software more rapidly,500e1ea0-3dd2-4cab-852d-78eef239265e,CI & Deployment,CI
 4d334cf6-f5f9-4fb4-ab8d-64dd6e9e1ec1,38d426eb-c125-4cac-a4d2-dd7cfd51766f,Emergent Properties of Continual Automation,500e1ea0-3dd2-4cab-852d-78eef239265e,CI & Deployment,Automation
 23ac3f76-0774-4d7e-813e-c274b14c9c7b,cd56a35b-32d2-4e1e-85e2-ee7d1f54dbd7,Flipping Out,500e1ea0-3dd2-4cab-852d-78eef239265e,CI & Deployment,Flags/Flippers
 ae21b653-8084-4135-ba9e-02b0d31a7275,58bc25e2-9de8-47c3-86a4-02052471e958,The Future Workplace Is Now: How Etsy Makes 30 Innovations Per Day,500e1ea0-3dd2-4cab-852d-78eef239265e,CI & Deployment,CI
 89cf7ad9-acc3-4b11-b575-2b75f65646de,4321c213-4794-4bbd-b152-a2e2ab5bfb4b,Nonviolent Communication,d1b15459-ab41-4c2f-90ad-0bdafed4718f,Communication,
+d522d5dd-9d89-481a-8ce7-1af5f7136133,8fcff808-0d9d-470e-8b7d-459d76b25ea4,Competition – The Pros and Cons,8dbe8b82-31f1-4544-9b49-2747bcd63687,Competition,
 a3f4264d-5531-4c78-acd2-c963ba86bf20,ae37b3ca-d4ec-410e-9cf3-1f7a1bfa5c7d,Modular CSS naming conventions,51ea90ef-847b-481d-81ea-a6282060006a,CSS,
+d2248607-be82-4e39-977c-d6d1b7e36f66,83da523f-abdd-482b-b901-a4ab21b0f5cd,Culture And Fit,e89ad43f-cc6b-4eae-964c-4a2593353b80,Culture & Values,Culture
 de5349a1-2be4-45a8-a746-80bfffc131c0,6d7bb6ab-3085-4a7b-b24a-a1f44f453908,Culture Code - Asana,e89ad43f-cc6b-4eae-964c-4a2593353b80,Culture & Values,Culture
-c466de9e-cde7-44dd-a79f-cf65f6af31e7,1a93d706-cb43-41d5-b516-9fe5aa922026,Nonviolent Communication,c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,Communication
+865771be-c735-4fa3-b6a3-756d690bf649,91c182ee-1518-4de7-9844-c85b1d7b938d,Twilio’s Nine Things,e89ad43f-cc6b-4eae-964c-4a2593353b80,Culture & Values,Values
 e72eb467-50e5-409f-b743-9986211769fc,51975530-ceda-4526-8782-d17cdb55e2d5,What is customer development?,1fb7ae45-2875-437e-b6a4-e48aca0e4b19,Customers,Customer Development
 939fea9d-c848-422f-85c0-1e46f0751955,c51a383e-5b16-47a4-a790-53b759c6530b,"Fast and Flexible Monitoring with StatsD, Graphite and Librato",2c733c5b-b61e-40cb-b31f-fc5ee03be1f0,Data,Monitoring
 c2f6c374-6a02-4180-b10d-a15794225e5d,e98a3f67-6f56-4a99-b97c-34d64c0accb0,Zero downtime database migrations by @jipiboily,2c733c5b-b61e-40cb-b31f-fc5ee03be1f0,Data,Migration
@@ -35,14 +64,28 @@ cb06eb7a-930c-4b8e-a427-e5ecea368a11,b89bb527-b3ce-45b3-b766-04e67397dd76,Dividi
 66e6a138-0586-4459-aa23-c0d69c23c9af,6fa44eb3-40c6-4ba9-93d2-b064238a350e,First Round Funding Terms and Founder Vesting,06b09030-f6a6-4754-a2fd-e13c913411bc,Founding,Vesting
 2cc0f616-e965-4380-b696-146317128522,d1f0bee4-d277-4be6-9f80-17da0c64a132,Founder Vesting,06b09030-f6a6-4754-a2fd-e13c913411bc,Founding,Vesting
 47750d7a-ff6c-4a7e-9a5c-7f15cdeb41b1,5230549f-3b5e-48b6-8984-6333232f3849,"Founders, Ownership and Prenuptials",06b09030-f6a6-4754-a2fd-e13c913411bc,Founding,
+31543c54-0df0-4318-a86c-3f32d32b09c4,1f25c16d-979e-46e5-88c6-500069d93b62,Financing Options: Bridge Loans,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+8ea7c383-68d5-4a0a-888a-b0d2e171a0d1,44b01850-3db2-4f3d-9ed9-f2a6ff4e4358,Financing Options: Capital Equipment Loans and Leases,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+20a5d671-7f09-4328-b4e0-eeeb4db7289a,e63c731c-8f26-41c4-8e61-19ffd789a014,Financing Options: Contests/Prizes/Accelerator Programs,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+78e6d34e-ffc4-4994-904d-a32a3025cddc,36ade5bc-01e8-483e-a7b2-d0e773a63ca3,Financing Options: Convertible Debt,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+51adf766-1727-4543-a8ec-7130fa42098d,08162ff5-8a46-4b23-bb62-c50011d524ac,Financing Options: Customers,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+f43126af-b82d-409d-8c13-acf34f9ea452,774a6975-0b79-4bed-902e-dc3f79f66456,Financing Options: Friends and Family,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+41360c79-6b17-4ba0-9072-0984fdcbccd7,2960acaf-b74b-41dd-ac82-30a9b31d0245,Financing Options: Government Grants,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+4b3abd78-e1e7-4530-a6fb-423c23b4d8a9,f64c81c0-3cf3-438d-a1ee-dd67d5906069,Financing Options: Preferred Stock,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+c6c1e144-400e-4db6-b3c1-f67a783b47d3,8eddaaa2-48c9-4d79-bb05-cabe49f01ee0,Financing Options: Vendor Financing,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+0a74b5dc-6be6-451b-a4fa-e16bcc788669,5c9a90f5-bd68-472e-93c9-c5178ac9a3af,Financing Options: Venture Debt,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
+e7f5f679-284a-4f29-b07c-1e010d8bb52c,4edb2cc1-b7b0-4063-be61-b3c413ec347b,Financing Options: Working Capital Financing,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Financing Options
 b8a3d40c-d7c0-4ca8-82f1-c394a0b2cba3,6fa44eb3-40c6-4ba9-93d2-b064238a350e,First Round Funding Terms and Founder Vesting,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Terms
 3edb4748-8a2c-420e-924d-52a4a20d1204,efd4c79b-d55d-4eaa-9c57-749a4adec1ae,How to Convince Investors,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,
 225c628d-d87b-4fda-9137-5b1f63010270,73c96e1b-1647-4da8-85d7-de6067a8882a,How to Raise Money,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,
+c04850fe-face-40eb-8e77-03dde4bb19b8,91640fee-ddb3-4b0d-b1be-60aab124885b,I Invest In CEOs Who Are Learning Machines,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Founder Qualities
 acf54a95-8032-4904-a76a-3ebdfcb48bb4,8b4bf201-95b3-4cbb-8e82-da69d97e6bcc,Kickstartup — Successful fundraising with Kickstarter & the (re)making of Art Space Tokyo,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Crowdfunding
+cfda8b21-6424-4ae4-8e25-9d0115c0200f,f7352a71-f69c-478b-9567-e9605cf1c984,Sizing Option Pools In Connection With Financings,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,
 f8cbcca9-7ae5-43c9-856d-1ce6333bae96,9221be24-a573-4d40-b8c1-022d45b4f8b2,The 11 Risks VCs Evaluate,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,
 6d40bc6c-1b74-47cd-9457-46c669e9a1af,2224193c-b0c6-48fb-8a3b-a3ce3aba4d6c,The 7 Questions A Startup Should Answer In Their Fund Raising Pitch,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Pitches
 a2f16637-29b4-4599-8aa0-777e626ba302,01c17669-320b-427f-8dba-9253e0093fc6,The Secret Ingredient to the Best Startup Fundraising Pitches,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Pitches
 05466afa-cfe5-4214-9417-b3bb9825b070,ba00360b-9cba-4562-b5b8-1bcf86a84302,Trends in Pricing and Duration,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,Crowdfunding
+10668019-3312-41c6-bfd8-7f556e96837c,a7375f42-bea2-467a-aa0e-1a3209957fc3,Valuation and Option Pool,63a59982-e10c-4cb9-b49e-1a5db137f32d,Fundraising,
 9d828d1a-5ee8-47e2-8a33-3caa976e3ff5,5eca3c78-bebf-485d-bd3a-0e84255484e5,Peter Thiel’s CS183: Startup - Class 9 Notes Essay,7e2dfe1f-9314-4f62-a77e-8dc7c67b5389,General,
 8d98e66d-a01a-4a1e-b095-d80d892064e0,2560fd79-aeb5-4f48-a094-2b68114da14d,Six Principles for Making New Things,7e2dfe1f-9314-4f62-a77e-8dc7c67b5389,General,
 af562c8d-41cf-47bd-89ce-99af3cf68793,af1519ce-0b8a-40c2-8607-96ce5c3401d6,Startup Advice,7e2dfe1f-9314-4f62-a77e-8dc7c67b5389,General,
@@ -71,12 +114,30 @@ ee316e8d-18bc-4f31-b17e-8d4b30b78213,7b670b52-2358-402b-95fd-36f6dea532c8,Bootst
 d3c5207a-5cae-4e86-8ee1-ff3f96cc5010,03df51d1-a2e5-4763-a73a-52cf7f7cc96d,Piercing The Corporate Veil,4934ac56-8fa3-484e-8c58-c9e9a4e4e3cd,Legal & Incorporation,Incorporation
 74f711e2-8efe-4dac-bf9b-5d136d0f06f1,af126107-69a3-46eb-9cec-69128cd4e652,Reading Your Legal Docs,4934ac56-8fa3-484e-8c58-c9e9a4e4e3cd,Legal & Incorporation,
 e659e620-3481-4351-b5b0-1aa8a80bcc87,32a88c0e-0096-4f60-9f40-64ef9fee3b72,Building of StackLead,ae44f806-6794-408a-92e8-efdbdbec87d3,Lessons Learned,
+0e274565-cc10-4847-8047-309558978c78,ec3a4a47-f3b8-446d-94b4-85d907253e43,Acquisition Finance,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+19daf9c1-0ed8-476c-a502-7ec18fdfda7b,bb5ff820-a592-4187-9ae0-920e25418bc0,Buying and Selling Assets,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+1e13efcd-cd9b-4a1a-bfcd-630c58138705,aed7d104-1448-4796-ba94-6b9f615c4d23,M&A Case Studies: ChiliSoft,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+ae2c8823-d697-453b-8ed2-f11ab5c1e542,4b9a6d50-45f5-4ab4-bde5-eb8ca7a87ba5,M&A Case Studies: Feedburner,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+58debd7c-a7a1-45ab-98ad-216a50337d52,9fa06eb6-1d7a-4f0e-8f15-fede307d5684,M&A Case Studies: WhatCounts,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+d3c05df4-af48-4b9c-ab63-67bbab5aae0f,19c03524-a95f-485b-9d9e-158b979bab9c,M&A Case Studies: WhatCounts Sale Process,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+dbb33a29-8b81-4c45-adde-45f4d801a79b,f38aa401-7eda-4cb1-9221-51ff59b66439,M&A Fundamentals,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+24f61abb-cd7a-4471-9d59-f5928502a824,b2931603-1094-41d3-b94c-ecde254dbb5f,M&A Issues: Breakup Fees,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+cca63737-ab24-4cb8-8c69-fc3433a23de1,1453ff6a-3cd7-4d4e-82f8-60c755ef4845,M&A Issues: Consideration,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+dbc035bd-65a7-45bd-b5f3-20609eee68ea,92a58190-da90-4cdc-990f-0b523455bf49,M&A Issues: Governmental Approvals,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+bf30f798-ee93-46eb-b400-299b11144548,1b7f22a8-ea51-479e-9e4a-8eb5bdda3aea,M&A Issues: Price,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+53ca86fd-958a-4051-9909-abeed8cb9d78,85ef86ba-4fe3-4ac0-bd9e-2d0d59588968,"M&A Issues: Reps, Warranties, Indemnities, and Escrows",9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+0f5fedd8-c83c-4b0f-a932-7f14ab4ddaec,15a592e3-dc8f-4f65-b943-5747e6f869c3,M&A Issues: The Integration Plan,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+4a0ee0a6-5d91-4f1b-a5e6-9ba764232294,972e05c2-96ea-4069-a43f-ad541ca86828,M&A Issues: The Stay Package,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+7644b66f-1cd3-4ab1-bb3b-c359a205aae2,10a0b2d1-fef7-40ce-8036-19c237c5f14a,M&A Issues: Timing,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
+46bbec9b-fc7d-4910-becc-d0fff4f09f5c,375673b3-a477-483d-9be6-c8714e50a117,Selling Your Company,9fa177df-0a40-40e5-b00e-cc29c8da23d2,M&A & IPO,M&A
 0f9114e9-7de8-4bbe-913d-edab64387eb4,b6d551b4-0110-4dcf-a961-a1c83291de38,How to Miss By a Mile: An Alternative Look at Uber’s Potential Market Size,7ac35629-92df-4316-8f7c-866322bb886d,Market & Research,Market Sizing
 bbcaa82d-41d5-40fd-8ad0-0bc5cc149e39,489eb905-9c6a-4eda-9109-6f1865ad6155,Sunny Whether: Two Types of Forecasting Models for Running Your Startup,7ac35629-92df-4316-8f7c-866322bb886d,Market & Research,
 1b4a84ca-f97e-4b7b-81fd-7dfeb1b1d480,63fb9ebb-5bcc-4f68-93bb-0f83b020ae4c,The Secrets of Market Sizing,7ac35629-92df-4316-8f7c-866322bb886d,Market & Research,Market Sizing
 c518f663-0ae0-4c43-bb4d-c41434dd06d5,6f012de9-a2c0-4738-91d8-72bb3a75bbd0,Lessons Learned – Viral Marketing,db484940-4359-4c36-9b35-7e8a959dcc75,Marketing & Sales,Viral
+a26c51a1-24eb-4711-ae35-66d9ec0e234c,3c7b12c5-4860-4b09-921b-60a1da4d8c7b,AARRR! Mixpanel for Pirates,49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,AARRR
+81666ea5-6d3d-41b4-922d-dbf31c8e6597,a55dcde9-a48b-431b-a18e-b3e2be8f3a0c,Key Business Metrics,49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,
 f8d1d03b-1e15-4e90-85c7-d4943fac0aac,0916a99c-ffa7-4224-83e1-58c947182cb0,Metrics-Driven Engineering at Etsy,01b4638d-7784-42a8-b69b-c95defc83346,Metrics & Analytics,
-2a56f05f-d7ee-4e11-b8f4-a03c2ddfdb51,e63754b4-3b8d-4b37-8e0f-3f0e9e3baa0d,Startup Metrics for Pirates,49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,
+2a56f05f-d7ee-4e11-b8f4-a03c2ddfdb51,e63754b4-3b8d-4b37-8e0f-3f0e9e3baa0d,Startup Metrics for Pirates,49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,AARRR
 76502c52-1d0f-4eee-86e1-ad8243b6de37,7e69f0cb-ec44-4243-991d-165e3e273833,The Dangerous Seduction of the Lifetime Value (LTV) Formula,49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,
 f9611e2b-fce4-4b19-9f8b-eac17fd43ff7,f57af391-68fa-4e82-a53f-eb2fb944cfcd,The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act,49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,
 8a6384c1-7301-4af5-a27c-e4c154cfd034,2d2cf786-264a-4cda-a9e5-6f28ba94db09,Tom Blomfield ― Customer churn can kill your startup,49ada142-a753-42e8-a2e2-c3d1f51ebc30,Metrics & Analytics,Churn
@@ -87,6 +148,10 @@ ef655fa6-5c13-48bb-8920-2718c560f3b8,4a24bd2d-ee20-49c0-aa61-0f9299b15feb,Beware
 00dc7c5e-58cd-489a-b14d-e5a7d5171669,6d9988f3-9fd9-4f19-843f-09ef9fa6ed27,Most Common Early Start-up Mistakes,71977d93-f4de-4bf4-96af-b6232aa7a266,Mistakes & Failure,Mistakes
 5f0cc232-dddc-4fd8-8a98-00a516f3d351,5fb2a779-99fa-4418-bee4-68e2af7c7a26,The 18 Mistakes That Kill Startups,71977d93-f4de-4bf4-96af-b6232aa7a266,Mistakes & Failure,Mistakes
 672a521b-5eb8-4fbf-a2a5-8f70c06aa248,068591ac-6a93-4f1c-998d-32db503272d7,MBA Mondays: Revenue Models - Mobile,677df6c2-fa44-4d6c-a39b-0368eb8df823,Mobile,
+0916b603-b2bf-4d09-aab2-9fe61a04b00f,22f837cb-fa12-4d39-a213-a14297f20141,How To Be In Business Forever: A Lesson In Sustainability,6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Sustainability
+2e4a6d88-e518-4f96-a756-3a8357b31b3e,e227dbfb-f38b-487f-8ee5-595622d2abb9,How To Be In Business Forever: Week Four,6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Sustainability
+62f08e40-d0b3-41a0-8629-f083af669ab2,2a0b7a1d-1a05-4504-bb16-2df1af69347d,How To Be In Business Forever: Week Three,6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Sustainability
+5d8fa040-878e-4ca7-8644-80f345c86f6d,87526548-c66c-495a-bf3a-643ae944d67a,How To Be In Business Forever: Week Two,6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Sustainability
 52bc4234-8a74-4738-933d-934f8530eef8,4bdbcf45-e121-4491-9e35-d5c356447ebd,MBA Mondays: Revenue Models - Advertising,6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Models
 96d524bc-f07e-4dd3-b7bd-55fadddd6b00,184f2ac2-e691-47d0-81a9-0d961692c743,MBA Mondays: Revenue Models - Commerce,6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Models
 261460ab-2f85-4da4-897f-59f5552fd009,078d27ab-12db-4ff9-9dc9-c0fe98a0b929,MBA Mondays: Revenue Models - Data,6fa5a039-ece9-4960-8414-0f119d45c69f,Models & Pricing,Models
@@ -123,9 +188,25 @@ c07083b3-61f1-4c82-b28b-ae6bfff9b644,cb144ad6-1193-499f-bba9-3f7b21820dbe,Why yo
 ca67c30e-bc9a-4498-817e-a99137a086d3,4add0cbd-5acb-4d5f-b664-81d48317a37d,A study on unplanned interruptions in software development,b2863f5b-0c63-49cc-8873-4df9229d44f5,Productivity,
 9cbb2ed3-eafb-45f4-a095-2796be33d94d,f85c19d0-66c9-472c-a909-8a4ceabcb13f,"Early Traction: How to go from zero to 150,000 email subscribers",8ce8030d-b418-4cec-9dab-f32917027fcb,Promotion & Traction,
 91ae8888-3a3c-4eb9-984c-3348bc769b88,beffbc88-5263-4d6d-8738-ab4f0e8933cd,Transparency,536d6faa-f12f-4fb9-8b65-4db8490952a5,Qualities,
+60a4d4a4-f957-473e-b924-8a8453441920,e97538bd-2873-4d09-9849-905d6bdbb883,Asking An Employee To Leave The Company,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
+92d7e8d6-b2a4-4624-9d32-61c80f81370c,769ab0f8-e644-4346-8492-49cd4cfb139b,Best Hiring Practices,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
 c0409053-6cfa-448b-8344-8e9f668d9f85,670a5979-b2f9-4c84-b408-7cccc13fc2da,Don’t Hire a Marketer before Product/Market Fit,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
+ea8acf0a-c936-4b87-86ae-2873468124f6,376c1806-b3fe-4a69-b500-fde9596aff97,Employee Equity,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+6b97e616-f209-4e6f-ba62-bdbadab2c80a,d5f3e5d7-5ea9-41a5-8e0c-46823a740afc,Employee Equity: Appreciation,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+d420f983-456e-4940-8998-77e1f51c9ae1,ee102ce7-504a-4c93-967c-fb5b9503f294,Employee Equity: Dilution,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+f4f71814-a9f1-4045-85cc-1632794070dc,35dc19bc-8840-4079-a128-cab15095b5b9,Employee Equity: How Much?,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+f5d18d55-0105-4076-ac32-1af3b4b05e67,c09eca51-d986-485c-82f7-1c5f8ca79d57,Employee Equity: Options,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+fc76fa43-ee44-4fa3-bb23-0722c2e021b8,0211aa1f-90e4-4d52-92c5-5b8c57278ed6,Employee Equity: Restricted Stock and RSUs,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+ccf065d7-48a8-4d33-8ecf-4f318e0d0e54,e1a326b2-063f-4e3d-989f-e8b488d9decb,Employee Equity: The Liquidation Overhang,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+c94855bd-789e-4cf6-86b0-366817b94015,f6026233-da4e-4784-b63f-de2ebe877014,Employee Equity: The Option Strike Price,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
+c6bd1bcf-4e14-4ba6-9a77-2eb5ee26595b,cc2284eb-4de2-417e-8148-947135da5c82,Employee Equity: Vesting,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Equity
 3e17a032-6dc3-4ab7-9afd-1a51482c069c,37316760-1b68-4673-bf97-e71096fd634d,How I Hire: The 4 Principles For Recruiting the Best of the Best,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
+95bca433-81a9-4ac2-9521-5408706d5d12,18ed0369-8c62-4e52-8789-ce9ea8b59b27,Leveraging Your Partners To Grow And Develop Your Team,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
+4134ff02-a8f1-45c0-92c4-d07f6608d574,c39aaff8-4336-4493-b74f-0711f5f67d0f,Outsourcing,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Outsourcing
+11b74e33-77c1-44ed-a25f-2dab96a8159d,084a1d66-f9e7-46b3-b3aa-1e8406f588f6,Outsourcing vs Offshoring,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Outsourcing
+5e3abc6a-1276-4b9c-ba94-3d6de5a5d56e,575a4962-e107-4b2a-8c60-907be443c584,Retaining Your Employees,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
 26f5ad64-97a2-4799-b3cf-5d8b7e2ce482,5bf6e98f-f69f-4def-994d-8a674573438a,Say hello to the talent hacker,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,Talent Hacking
+80997bdc-5e9f-4ecf-a175-edc16942f462,51d416a7-ba20-4e9e-8d07-472d5c4f1db6,Where To Find Strong Talent,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
 6252636c-7fa3-4362-a355-07f361724fed,9b732edc-3765-45b2-a2a0-17d0588175a4,Whom Should you Hire at a Startup?,ca4c6af4-30d8-4d5b-b048-0b2f90c31c27,Recruiting & Employment,
 a5a63a72-d410-4df7-9ad9-093862896879,f4f584d9-2787-49d6-bdbf-0f0c5b557e9c,Diving in Rails - The request handling,029babba-2c70-4edb-920c-e4d1f335149c,Ruby & Rails,Rails
 fec9c267-174c-456e-8dd8-630197055e6a,68abce4d-ccb9-49e1-b264-43191cee1a87,Why's (Poignant) Guide to Ruby,029babba-2c70-4edb-920c-e4d1f335149c,Ruby & Rails,Ruby
@@ -146,17 +227,26 @@ c7de87b9-9618-4a1c-8ca9-8733f4f51744,8370a349-00e7-439e-b24b-c4a84731ad44,Git Is
 84b2c4b1-6cf0-42f7-9811-da525b884e4b,d53f87bc-2bfb-45b9-aec2-2f4526f04381,Pro Git,5f5f0120-8ac8-4eb4-9c9f-8dd984829d82,Source Control,Git
 40a8d28f-6b07-4ac4-89c2-56875a2ae3a6,87774a4c-ac75-48cc-aede-12d8b6d00343,Think Like (a) Git,5f5f0120-8ac8-4eb4-9c9f-8dd984829d82,Source Control,Git
 b8b0de3d-bbdf-4114-b590-02fbb34fd9f0,2b188972-305e-465d-8366-97dad3634f2d,Being A Great CEO,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Executive
+96e821d5-ba5a-4067-a6d0-323c04e7879b,a70dae94-9b0c-4cd0-a554-5eec2a05f981,Optimal Headcount At Various Stages,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,
+7f005d08-cdbc-42fe-9126-1bb73eefe294,eb40a81a-46b9-4ec3-9e4a-210f9bbfdcb7,"The Board Of Directors – Selecting, Electing & Evolving",8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Board of Directors
+47f996bc-2fc8-48c1-83ed-015687460d6f,c8f3d403-6637-4f1b-a768-965331d03aa7,The Board Of Directors – The Board Chair,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Board of Directors
+bb29bf22-64a5-4593-b368-6672ec282abb,a9d3b694-63ea-4cd4-8ebb-3c2bedd18d10,The Board Of Directors: Board Chemistry,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Board of Directors
+647c930d-10e3-4453-b99e-0d2617d9933e,b0c9ace1-e3f8-43a4-8aa9-90b75becba35,The Board Of Directors: Board Committees,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Board of Directors
+3cd52f3d-8b0d-4715-ae40-f8f2acb67fb0,09f37c16-a0a8-4a56-876c-ec546f913f4a,The Board Of Directors: Board Meetings,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Board of Directors
+2aa81f44-7faa-478a-9579-9ae7bce1d450,3e364560-8f31-488e-9503-eb0995ff0177,The Board Of Directors: Role and Responsibilities,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Board of Directors
 a8091fc2-b89a-43c3-aa75-a72de952ac72,e358ca9d-77a0-445b-9080-17088e4be7e7,The Management Team - While Building Product,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Management
 fe65a08d-e4b2-44ca-93ff-da414901e039,dbcdf520-22a4-4b16-ade0-88308aa60f31,The Management Team - While Building The Business,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Management
 9a6ce9dd-292d-4055-a20e-69e37370f485,41024768-936e-4654-a2ec-4482f442c40d,The Management Team - While Building Usage,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Management
 7881190a-bb25-4ad3-8334-62e70d64fcf0,779b8093-c688-4d44-855a-148b6f85554f,VP Engineering vs CTO,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Technology
 d3601210-c84c-47a3-9a88-33ef67883b81,5a80276d-d941-4ae3-bc47-942f7e579782,VP Finance vs CFO,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Finance
 9d6b2d65-bdf1-4d57-81f5-dfa877491ac2,d0272fb3-f2f9-408a-9d2b-877b5d9f4e2c,What A CEO Does,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Executive
+17a80769-3e5d-42c8-b835-d83614092038,8e67eeea-1249-4826-beca-6c87e4e9805d,What A CEO Does (continued),8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Executive
 e6102c53-4d85-428b-bd8f-55774be76750,09cfb307-f4d1-4a94-b018-d373f147a30a,What A Management Team Does,8dc1ab98-8d33-4f59-aaaa-631598a983e7,Team & Roles,Management
 80f260ca-f65a-41ba-b162-01fd6d18f10b,60ed1467-d6e7-4739-92fa-369f09801640,1-(wo)man Startups,c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,
 6e984426-d0d7-419f-aa25-76fd5768d5ce,625303d7-2a7d-42a8-b6d8-a6b746ec58b7,360 Reviews,c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,
 b3d0a560-14f8-4d30-b95f-7a9e0a8a9ac7,1496c85f-f5f7-4ff4-9e1b-e6588fa5b5c5,"Ask Forgiveness, Not Permission",c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,
 d9d1d464-e0ee-47e8-9778-488ba0441a9b,568f4d07-78a9-43d7-afcc-b55662a86923,No Email at AngelList,c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,Communication
+c466de9e-cde7-44dd-a79f-cf65f6af31e7,1a93d706-cb43-41d5-b516-9fe5aa922026,Nonviolent Communication,c0f18a40-ba65-4ca2-9d04-9ab9649d1c08,Teamwork & Communication,Communication
 cfeb2c5b-38fd-46b8-8c9a-f6850d7c7c3d,df2e8a31-535c-4798-84c3-cd83ef975776,Better Specs: RSpec Guidelines With Ruby,421605cd-57fd-4065-af6f-d06c82ac70a0,Testing,RSpec
 71ae932e-acbe-4a68-b42a-c9c5d385b8ea,82af28bd-7431-42dc-89db-eef8917322bd,Is TDD Dead?,421605cd-57fd-4065-af6f-d06c82ac70a0,Testing,TDD
 739174e1-213c-4958-abe7-883b59ae89ac,1394a9f6-c8e8-4763-8cf4-0f09dea7ef34,TDD is dead. Long live testing.,421605cd-57fd-4065-af6f-d06c82ac70a0,Testing,TDD
@@ -170,9 +260,10 @@ cfeb2c5b-38fd-46b8-8c9a-f6850d7c7c3d,df2e8a31-535c-4798-84c3-cd83ef975776,Better
 f7019aaa-0024-43ca-994c-726db277f3b0,6ee7a25f-cb97-4aa6-8999-8d5a7efa49e1,Designing for the Non-Designer – Part I The Basics,86ddd055-4b12-478b-a5f7-1cafcc4d30b7,"UX, UI, & Design",
 015e37b8-d34e-4f28-866b-42b4779d560f,ca947e53-b034-45e9-89b6-f6f12ba9761e,Good UI,86ddd055-4b12-478b-a5f7-1cafcc4d30b7,"UX, UI, & Design",UI
 b0dbf47d-e568-4008-b0b4-0723495f36a9,0af5fc45-a4a4-43b8-8dfb-5011c6340e1f,OmniGraffle Wireflows,86ddd055-4b12-478b-a5f7-1cafcc4d30b7,"UX, UI, & Design",
-ec444b85-e709-4e37-a0fa-589b8081191f,648de8b5-f0a2-4367-8a63-d13baf2ffb4a,A Dozen Things I’ve Learned From Marc Andreessen,c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital,
-5b89cf7e-c727-4410-bef2-4c3d41512162,b9b6e824-29c7-4280-8d71-bee15c6491e3,The Changing Structure of the VC Industry,c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital,
-276586a8-273d-4d42-8de6-8715fb45304a,b76ce22b-7abc-4a11-829d-5a87132d2ffb,The Pro-Rata Opportunity,c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital,Pro Rata
+ec444b85-e709-4e37-a0fa-589b8081191f,648de8b5-f0a2-4367-8a63-d13baf2ffb4a,A Dozen Things I’ve Learned From Marc Andreessen,c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital & Investment,
+2ab1d58c-8727-4982-b192-770e860e1a6e,20560a85-6900-483b-ba94-3e88c3772a41,Pricing A Follow-On Venture Investment,c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital & Investment,
+5b89cf7e-c727-4410-bef2-4c3d41512162,b9b6e824-29c7-4280-8d71-bee15c6491e3,The Changing Structure of the VC Industry,c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital & Investment,
+276586a8-273d-4d42-8de6-8715fb45304a,b76ce22b-7abc-4a11-829d-5a87132d2ffb,The Pro-Rata Opportunity,c9a4ec29-1af6-43c7-bd10-ffd4ba66680d,Venture Capital & Investment,Pro Rata
 3a8bedf2-ff02-4ada-a123-97df6090b096,f612ee2e-2c15-4f34-9030-e07a4151dc53,Everyone Who Tried to Convince Me to use Vim was Wrong,630cd678-6130-4dc3-87a1-0ddce983d007,Vim,Learning
 f64b7156-7ad8-4b4a-a387-2e645957c1b8,96f933e2-cda8-4028-b8d7-7a7c772894f2,Learn Vim Progressively,630cd678-6130-4dc3-87a1-0ddce983d007,Vim,Learning
 c42683e4-e5b7-48e6-acd5-c1dec97d33f8,83c3cfd7-32ff-4158-80d8-33981d0f0cc5,Vim Cheat Sheat for Programmers,630cd678-6130-4dc3-87a1-0ddce983d007,Vim,Cheat Sheet
