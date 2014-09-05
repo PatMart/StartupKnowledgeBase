@@ -1,4 +1,4 @@
-# Startup Knowledge Database
+# Startup Knowledgebase
 
 61 topics, 257 articles, 87 authors
 

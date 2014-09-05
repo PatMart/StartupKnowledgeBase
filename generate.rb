@@ -169,7 +169,7 @@ end
 
 def intro
   markdown = ""
-  markdown += "# Startup Knowledge Database\n\n"
+  markdown += "# Startup Knowledgebase\n\n"
   markdown += "#{stats}\n\n"
   markdown += "A curated collection of insightful articles related to startups, as a resource for startup founders and team members.\n\n"
   markdown += "The ultimate goal of the project is to contain every fundamentally valuable insight or resource on a given topic, across a wide array of topics related to startups.\n\n"
